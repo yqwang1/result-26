@@ -1,0 +1,37 @@
+{
+  "script": "trim_mechanism.py",
+  "argv": [
+    "rag/extensions/trim_scripts/trim_mechanism.py",
+    "--split",
+    "practice",
+    "--limit",
+    "30",
+    "--out",
+    "rag/results/trim/mechanism"
+  ],
+  "args": {
+    "split": "practice",
+    "limit": "30",
+    "keep_positions": "0,4,8,16,32,64,128,256,512",
+    "out": "rag/results/trim/mechanism"
+  },
+  "started": "2026-11-18 19:46:07 GMT",
+  "host": "opencast.inf.ed.ac.uk",
+  "slurm_job": "3731975",
+  "python": "3.11.18",
+  "git_commit": "fdb0006",
+  "gpu": "NVIDIA GeForce RTX 2080 Ti",
+  "torch": "2.10.0+cu128",
+  "kernels": "rope=torch  reduce=torch  gemm=torch  attention=torch  provided=torch",
+  "keep_positions": [
+    0,
+    4,
+    8,
+    16,
+    32,
+    64,
+    128,
+    256,
+    512
+  ]
+}

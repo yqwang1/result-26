@@ -1,0 +1,13 @@
+full30: 125 transcripts, 0 differ from full30
+m0: 125 transcripts, 11 differ from full30
+m1: 125 transcripts, 8 differ from full30
+padzero: 125 transcripts, 9 differ from full30
+se-0.2: 125 transcripts, 24 differ from full30
+se: 125 transcripts, 15 differ from full30
+   full30: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 310 ms (x1.00)  asr 1493 ms (x1.00)
+       m1: exact 0.936  WER 0.0076  dR@10 -0.0040 [-0.0120, +0.0000]  enc 66 ms (x4.67)  asr 1249 ms (x1.20)
+       m0: exact 0.912  WER 0.0100  dR@10 +0.0000 [-0.0120, +0.0120]  enc 66 ms (x4.68)  asr 1248 ms (x1.20)
+       se: exact 0.880  WER 0.0101  dR@10 +0.0000 [-0.0120, +0.0120]  enc 66 ms (x4.71)  asr 1245 ms (x1.20)
+   se-0.2: exact 0.808  WER 0.0144  dR@10 +0.0000 [-0.0120, +0.0120]  enc 65 ms (x4.74)  asr 1245 ms (x1.20)
+  padzero: exact 0.928  WER 0.0072  dR@10 -0.0040 [-0.0120, +0.0000]  enc 310 ms (x1.00)  asr 1494 ms (x1.00)
+Wrote rag/results/trim/full_dev/eval/

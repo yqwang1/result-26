@@ -1,0 +1,49 @@
+{
+  "gpu_peak_bandwidth_GBps": 616.0,
+  "kernels": "rope=torch  reduce=torch  gemm=torch  attention=torch  provided=torch",
+  "baseline_30s": {
+    "L_mel": 3000,
+    "positions": 1500,
+    "task1_q1_rope_bytes_per_call": 15360000,
+    "task1_q1_rope_ms_per_call": 0.17756,
+    "task3_q1_encoder_linear_loads_naive_gfloat": 1927.152,
+    "task3_q1_encoder_linear_loads_tiled_gfloat": 120.622,
+    "task3_weight_rereads_ceil_M_over_16": 94,
+    "task4_q1_score_matrix_MB_per_layer": 180.0,
+    "task4_q1_kernel_smem_bytes_per_block": 17536,
+    "task2_layernorm_blocks": 1500,
+    "task2_layernorm_waves_on_68_SMs": 5.515,
+    "task2_q1_last_kv_tile_valid_keys": 28,
+    "task1_q1_rope_GBps": 86.51,
+    "task1_q1_fraction_of_peak": 0.1404,
+    "measured_linear_ms": 170.06,
+    "measured_attention_ms": 110.012,
+    "measured_layernorm_ms": 2.535,
+    "measured_rope_ms": 5.682
+  },
+  "trimmed": {
+    "L_mel": 560,
+    "positions": 280,
+    "task1_q1_rope_bytes_per_call": 2867200,
+    "task1_q1_rope_ms_per_call": 0.53971,
+    "task3_q1_encoder_linear_loads_naive_gfloat": 359.735,
+    "task3_q1_encoder_linear_loads_tiled_gfloat": 22.819,
+    "task3_weight_rereads_ceil_M_over_16": 18,
+    "task4_q1_score_matrix_MB_per_layer": 6.272,
+    "task4_q1_kernel_smem_bytes_per_block": 17536,
+    "task2_layernorm_blocks": 280,
+    "task2_layernorm_waves_on_68_SMs": 1.029,
+    "task2_q1_last_kv_tile_valid_keys": 24,
+    "task1_q1_rope_GBps": 5.31,
+    "task1_q1_fraction_of_peak": 0.0086,
+    "measured_linear_ms": 47.53,
+    "measured_attention_ms": 13.464,
+    "measured_layernorm_ms": 2.86,
+    "measured_rope_ms": 17.271
+  },
+  "task3_q1_1024_cubed": {
+    "naive_float_loads": 2147483648,
+    "tiled_float_loads_TILE16": 134217728,
+    "ratio": 16.0
+  }
+}

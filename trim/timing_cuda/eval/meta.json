@@ -1,0 +1,32 @@
+{
+  "script": "trim_eval_retrieval.py",
+  "argv": [
+    "rag/extensions/trim_scripts/trim_eval_retrieval.py",
+    "--run-dir",
+    "rag/results/trim/timing_cuda",
+    "--split",
+    "practice"
+  ],
+  "args": {
+    "run_dir": "rag/results/trim/timing_cuda",
+    "split": "practice",
+    "device": "cpu",
+    "reference_cache": "None",
+    "bootstrap": "2000"
+  },
+  "started": "2026-11-18 19:56:42 GMT",
+  "host": "opencast.inf.ed.ac.uk",
+  "slurm_job": "3731975",
+  "python": "3.11.18",
+  "git_commit": "fdb0006",
+  "gpu": "NVIDIA GeForce RTX 2080 Ti",
+  "torch": "2.15.0+cu132",
+  "conditions": [
+    "full30",
+    "m0.5",
+    "m0",
+    "m1",
+    "m2",
+    "se"
+  ]
+}

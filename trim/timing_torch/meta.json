@@ -1,0 +1,48 @@
+{
+  "script": "trim_sweep.py",
+  "argv": [
+    "rag/extensions/trim_scripts/trim_sweep.py",
+    "--split",
+    "practice",
+    "--limit",
+    "50",
+    "--repeats",
+    "3",
+    "--cuda",
+    "none",
+    "--conditions",
+    "full30,m2,m1,m0.5,m0,se",
+    "--out",
+    "rag/results/trim/timing_torch"
+  ],
+  "args": {
+    "split": "practice",
+    "limit": "50",
+    "conditions": "full30,m2,m1,m0.5,m0,se",
+    "cuda": "none",
+    "repeats": "3",
+    "max_new_tokens": "100",
+    "seed": "0",
+    "stats_only": "False",
+    "resume": "False",
+    "out": "rag/results/trim/timing_torch"
+  },
+  "started": "2026-11-18 17:46:40 GMT",
+  "host": "opencast.inf.ed.ac.uk",
+  "slurm_job": "3731975",
+  "python": "3.11.18",
+  "git_commit": "fdb0006",
+  "gpu": "NVIDIA GeForce RTX 2080 Ti",
+  "torch": "2.10.0+cu128",
+  "kernels": "rope=torch  reduce=torch  gemm=torch  attention=torch  provided=torch",
+  "model_load_s": 97.0,
+  "conditions": [
+    "full30",
+    "m2",
+    "m1",
+    "m0.5",
+    "m0",
+    "se"
+  ],
+  "n_queries": 50
+}

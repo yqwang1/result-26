@@ -1,0 +1,24 @@
+full30: 20 transcripts, 0 differ from full30
+m0.2: 20 transcripts, 0 differ from full30
+m0.5: 20 transcripts, 0 differ from full30
+m0: 20 transcripts, 0 differ from full30
+m1: 20 transcripts, 0 differ from full30
+m2: 20 transcripts, 0 differ from full30
+m4: 20 transcripts, 0 differ from full30
+padnoise: 20 transcripts, 0 differ from full30
+padzero: 20 transcripts, 0 differ from full30
+se-0.2: 20 transcripts, 2 differ from full30
+se: 20 transcripts, 1 differ from full30
+E0 check: full30 identical to reference cache on 20/20 queries
+   full30: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 310 ms
+       m4: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 81 ms
+       m2: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 69 ms
+       m1: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 68 ms
+     m0.5: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 68 ms
+     m0.2: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 68 ms
+       m0: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 68 ms
+       se: exact 0.950  WER 0.0056  dR@10 +0.0000 [+0.0000, +0.0000]  enc 67 ms
+   se-0.2: exact 0.900  WER 0.0161  dR@10 +0.0000 [+0.0000, +0.0000]  enc 67 ms
+  padzero: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 310 ms
+ padnoise: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 311 ms
+Wrote rag/results/trim/pilot_torch/eval/

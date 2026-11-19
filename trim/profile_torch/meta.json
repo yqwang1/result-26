@@ -1,0 +1,43 @@
+{
+  "script": "trim_profile_encoder.py",
+  "argv": [
+    "rag/extensions/trim_scripts/trim_profile_encoder.py",
+    "--cuda",
+    "none",
+    "--out",
+    "rag/results/trim/profile_torch"
+  ],
+  "args": {
+    "cuda": "none",
+    "split": "practice",
+    "query_index": "1",
+    "mel_lengths": "3000,2400,1600,1200,800,720,640,560,480,400,320,240,160",
+    "trimmed_L": "560",
+    "repeats": "3",
+    "out": "rag/results/trim/profile_torch"
+  },
+  "started": "2026-11-18 18:20:33 GMT",
+  "host": "opencast.inf.ed.ac.uk",
+  "slurm_job": "3731975",
+  "python": "3.11.18",
+  "git_commit": "fdb0006",
+  "gpu": "NVIDIA GeForce RTX 2080 Ti",
+  "torch": "2.10.0+cu128",
+  "kernels": "rope=torch  reduce=torch  gemm=torch  attention=torch  provided=torch",
+  "query_id": "q_ea0be00eda6ea088",
+  "lengths": [
+    3000,
+    2400,
+    1600,
+    1200,
+    800,
+    720,
+    640,
+    560,
+    480,
+    400,
+    320,
+    240,
+    160
+  ]
+}

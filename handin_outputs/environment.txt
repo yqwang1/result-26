@@ -1,0 +1,177 @@
+== date/host
+Wed 18 Nov 22:12:13 GMT 2026
+opencast.inf.ed.ac.uk
+6.8.0-139-generic
+== nvidia-smi
+Wed Nov 18 22:12:13 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.178.04             Driver Version: 580.178.04     CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce RTX 2080 Ti     Off |   00000000:84:00.0 Off |                  N/A |
+| 24%   25C    P8             21W /  250W |       0MiB /  11264MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+== nvcc
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2025 NVIDIA Corporation
+Built on Fri_Feb_21_20:23:50_PST_2025
+Cuda compilation tools, release 12.8, V12.8.93
+Build cuda_12.8.r12.8/compiler.35583870_0
+== cpu
+Architecture:                            x86_64
+CPU op-mode(s):                          32-bit, 64-bit
+Address sizes:                           46 bits physical, 48 bits virtual
+Byte Order:                              Little Endian
+CPU(s):                                  32
+On-line CPU(s) list:                     0-31
+Vendor ID:                               GenuineIntel
+Model name:                              Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
+CPU family:                              6
+Model:                                   79
+Thread(s) per core:                      2
+Core(s) per socket:                      8
+Socket(s):                               2
+Stepping:                                1
+CPU(s) scaling MHz:                      42%
+CPU max MHz:                             3000.0000
+CPU min MHz:                             1200.0000
+BogoMIPS:                                4194.84
+Flags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 pti ssbd ibrs ibpb stibp tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm rdt_a rdseed adx smap intel_pt xsaveopt cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts vnmi md_clear flush_l1d ibpb_exit_to_user
+Virtualisation:                          VT-x
+== mem
+               total        used        free      shared  buff/cache   available
+Mem:             251           3         243           0           6         248
+Swap:             30           0          30
+== nvcc flags
+13:NVCC ?= nvcc
+18:CUDA_HOME := $(abspath $(dir $(shell which $(NVCC)))/..)
+20:NVCCFLAGS ?= -O3 -std=c++17 -lineinfo -diag-suppress 177
+21:FLAGS := $(NVCCFLAGS) -arch=sm_$(SM) -Xcompiler -fPIC -I$(SRC)
+42:	$(NVCC) $(FLAGS) -c $< -o $@
+45:	$(NVCC) $(FLAGS) -shared $^ -o $@
+49:	$(NVCC) $(FLAGS) $< $(OBJS) -o $@ -lcublas -Xlinker -rpath -Xlinker $(CUDA_HOME)/lib64
+== git
+9510df3 hw1 hand-in outputs (same node)
+== ELM models (no keys)
+ELM_MODEL=utter-project/EuroLLM-22B-Instruct-2512
+# Optional separate judge model (otherwise uses ELM_MODEL)
+ELM_JUDGE_MODEL=
+== HF cache
+blobs
+CACHEDIR.TAG
+models--zai-org--GLM-ASR-Nano-2512
+/home/s3030735/.cache/huggingface/hub/models--zai-org--GLM-ASR-Nano-2512: 61ba4e0b3309b6656edea3e93e419f7bd5c61957
+== mls-asr
+numpy                    2.4.6
+torch                    2.10.0+cu128
+transformers             5.0.0
+== mls-rag-env
+faiss-cpu              1.16.0
+numpy                  2.4.6
+openai                 3.51.0
+scipy                  1.17.1
+sentence-transformers  6.3.0
+torch                  2.15.0
+transformers           5.23.0
+== enc_a files
+total 152135
+drwx------ 3 s3030735 people    33280 Nov 16 20:03 .
+drwx------ 3 s3030735 people    33280 Nov  6 15:31 ..
+drwx------ 2 s3030735 people    33280 Nov 16 20:03 1_Pooling
+-rw-rw-rw- 1 s3030735 people      739 Oct 11 01:46 config.json
+-rw-rw-rw- 1 s3030735 people      298 Oct 11 01:46 config_sentence_transformers.json
+-rw-rw-rw- 1 s3030735 people      204 Oct 11 01:46 course_encoder_metadata.json
+-rw-rw-rw- 1 s3030735 people 66741984 Oct 11 01:46 model.safetensors
+-rw-rw-rw- 1 s3030735 people      450 Oct 11 01:46 modules.json
+-rw------- 1 s3030735 people      226 Nov  6 15:31 README.md
+-rw-rw-rw- 1 s3030735 people      224 Oct 11 01:46 sentence_bert_config.json
+-rw-rw-rw- 1 s3030735 people      659 Oct 11 01:46 tokenizer_config.json
+-rw-rw-rw- 1 s3030735 people   742348 Oct 11 01:46 tokenizer.json
+== enc_a config
+{
+  "add_cross_attention": false,
+  "architectures": [
+    "BertModel"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": null,
+  "classifier_dropout": null,
+  "dtype": "float16",
+  "eos_token_id": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 384,
+  "initializer_range": 0.02,
+  "intermediate_size": 1536,
+  "is_decoder": false,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "tie_word_embeddings": true,
+  "transformers_version": "5.6.2",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
+
+== enc_a sentence-transformers config
+{
+  "__version__": {
+    "pytorch": "2.13.0+cu132",
+    "sentence_transformers": "5.4.1",
+    "transformers": "5.6.2"
+  },
+  "default_prompt_name": null,
+  "model_type": "SentenceTransformer",
+  "prompts": {
+    "document": "",
+    "query": ""
+  },
+  "similarity_fn_name": "cosine"
+}
+[
+  {
+    "idx": 0,
+    "name": "0",
+    "path": "",
+    "type": "sentence_transformers.base.modules.transformer.Transformer"
+  },
+  {
+    "idx": 1,
+    "name": "1",
+    "path": "1_Pooling",
+    "type": "sentence_transformers.sentence_transformer.modules.pooling.Pooling"
+  },
+  {
+    "idx": 2,
+    "name": "2",
+    "path": "2_Normalize",
+    "type": "sentence_transformers.sentence_transformer.modules.normalize.Normalize"
+  }
+]
+
+== threads
+2
+SLURM_CPUS_PER_TASK=2
+mls-asr torch threads 2
+mls-rag-env torch threads 2
+== data checksums
+483e9c747e6bd06354128ecc0a206512  rag/data/rag_corpus/corpus.jsonl
+c2d24b977c880185d4004cba60e80017  rag/data/rag_corpus/student_audio_manifest.jsonl
+90c616359278923e585f5902b37e3859  rag/data/rag_corpus/embeddings/corpus_enc_a.npy

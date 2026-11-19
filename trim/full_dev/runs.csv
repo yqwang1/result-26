@@ -1,0 +1,751 @@
+query_id,split,condition,repeat,order_in_query,audio_s,speech_end_s,mel_frames_real,mel_frames_used,encoder_positions,kept_pad_positions,prompt_tokens,new_tokens,t_feat_ms,t_enc_ms,t_dec_ms,t_gen_ms,peak_gib,transcript
+q_dc0daa63c6ad372c,dev,se-0.2,0,0,5.325,4.575,438,440,220,1,69,18,38.85,72.03,1307.22,1379.25,8.502,How can I use Google Finance to find financial data about LinkedIn and its stock?
+q_dc0daa63c6ad372c,dev,m0,0,1,5.325,4.575,533,536,268,1,81,18,20.87,65.94,1307.86,1373.8,8.508,How can I use Google Finance to find financial data about LinkedIn and its stock?
+q_dc0daa63c6ad372c,dev,m1,0,2,5.325,4.575,533,640,320,53,81,18,17.41,66.2,1307.39,1373.59,8.514,How can I use Google Finance to find financial data about LinkedIn and its stock?
+q_dc0daa63c6ad372c,dev,full30,0,3,5.325,4.575,533,3000,1500,1233,81,18,18.03,294.33,1312.78,1607.11,8.879,How can I use Google Finance to find financial data about LinkedIn and its stock?
+q_dc0daa63c6ad372c,dev,padzero,0,4,5.325,4.575,533,3000,1500,1233,81,18,19.64,294.81,1306.14,1600.95,8.879,How can I use Google Finance to find financial data about LinkedIn and its stock?
+q_dc0daa63c6ad372c,dev,se,0,5,5.325,4.575,458,464,232,3,72,18,17.41,65.25,1303.52,1368.77,8.503,How can I use Google Finance to find financial data about LinkedIn and its stock?
+q_33fd7baba78a1358,dev,m0,0,0,5.925,5.415,593,600,300,3,89,19,17.84,66.26,1385.86,1452.13,8.511,Why might a bank prefer a lower all cash offer over a higher offer through conventional lending?
+q_33fd7baba78a1358,dev,se,0,1,5.925,5.415,542,544,272,1,82,19,17.14,65.75,1381.23,1446.98,8.508,Why might a bank prefer a lower all cash offer over a higher offer through conventional lending?
+q_33fd7baba78a1358,dev,padzero,0,2,5.925,5.415,593,3000,1500,1203,89,19,17.85,295.56,1384.51,1680.06,8.879,Why might a bank prefer a lower all cash offer over a higher offer through conventional lending?
+q_33fd7baba78a1358,dev,full30,0,3,5.925,5.415,593,3000,1500,1203,89,19,17.18,295.72,1386.6,1682.32,8.879,Why might a bank prefer a lower all cash offer over a higher offer through conventional lending?
+q_33fd7baba78a1358,dev,se-0.2,0,4,5.925,5.415,522,528,264,3,80,19,17.92,67.62,1386.11,1453.74,8.507,Why might a bank prefer a lower all cash offer over a higher offer through conventional lending?
+q_33fd7baba78a1358,dev,m1,0,5,5.925,5.415,593,696,348,51,89,19,17.26,66.53,1384.03,1450.56,8.518,Why might a bank prefer a lower all cash offer over a higher offer through conventional lending?
+q_01e721befe9d0dd7,dev,m0,0,0,5.25,4.725,525,528,264,1,80,14,19.27,66.09,1017.7,1083.8,8.507,How can I invest and save for my house down payment simultaneously?
+q_01e721befe9d0dd7,dev,se,0,1,5.25,4.725,473,480,240,3,74,14,17.16,65.46,1016.78,1082.24,8.503,How can I invest and save for my house down payment simultaneously?
+q_01e721befe9d0dd7,dev,m1,0,2,5.25,4.725,525,632,316,53,80,14,17.33,66.15,1017.73,1083.88,8.514,How can I invest and save for my house down payment simultaneously?
+q_01e721befe9d0dd7,dev,se-0.2,0,3,5.25,4.725,453,456,228,1,71,14,17.12,65.26,1017.6,1082.86,8.503,How can I invest and save for my house down payment simultaneously?
+q_01e721befe9d0dd7,dev,padzero,0,4,5.25,4.725,525,3000,1500,1237,80,14,17.63,298.81,1017.13,1315.95,8.879,How can I invest and save for my house down payment simultaneously?
+q_01e721befe9d0dd7,dev,full30,0,5,5.25,4.725,525,3000,1500,1237,80,14,22.6,298.07,1016.63,1314.7,8.879,How can I invest and save for my house down payment simultaneously?
+q_ec2bf0997b0ab34b,dev,full30,0,0,8.425,7.905,843,3000,1500,1078,120,24,17.7,298.96,1766.63,2065.58,8.879,"For equivalent company securities, is it more advantageous to trade them in a country with dividend tax free status?"
+q_ec2bf0997b0ab34b,dev,m0,0,1,8.425,7.905,843,848,424,2,120,24,18.65,78.87,1762.87,1841.74,8.528,"For equivalent company securities, is it more advantageous to trade them in a country with dividend tax free status?"
+q_ec2bf0997b0ab34b,dev,se,0,2,8.425,7.905,791,792,396,0,114,24,17.94,76.97,1755.52,1832.49,8.524,"For equivalent company securities, is it more advantageous to trade them in a country with dividend tax free status?"
+q_ec2bf0997b0ab34b,dev,padzero,0,3,8.425,7.905,843,3000,1500,1078,120,24,17.77,299.66,1766.38,2066.04,8.879,"For equivalent company securities, is it more advantageous to trade them in a country with dividend tax free status?"
+q_ec2bf0997b0ab34b,dev,se-0.2,0,4,8.425,7.905,771,776,388,2,111,24,17.51,76.77,1757.04,1833.81,8.523,"For equivalent company securities, is it more advantageous to trade them in a country with dividend tax free status?"
+q_ec2bf0997b0ab34b,dev,m1,0,5,8.425,7.905,843,944,472,50,120,24,18.2,77.93,1766.84,1844.77,8.537,"For equivalent company securities, is it more advantageous to trade them in a country with dividend tax free status?"
+q_b1e20f08cf71cb73,dev,se,0,0,3.6,3.095,310,312,156,1,53,10,17.22,65.36,727.95,793.31,8.497,When do index funds start to lose reliability?
+q_b1e20f08cf71cb73,dev,padzero,0,1,3.6,3.095,360,3000,1500,1320,60,10,17.46,300.02,726.63,1026.64,8.879,When do index funds start to lose reliability?
+q_b1e20f08cf71cb73,dev,se-0.2,0,2,3.6,3.095,290,296,148,3,51,10,17.01,65.37,726.05,791.42,8.497,When do index funds start to lose reliability?
+q_b1e20f08cf71cb73,dev,full30,0,3,3.6,3.095,360,3000,1500,1320,60,10,17.14,300.25,727.14,1027.39,8.879,When do index funds start to lose reliability?
+q_b1e20f08cf71cb73,dev,m0,0,4,3.6,3.095,360,360,180,0,60,10,17.02,65.2,727.18,792.38,8.499,When do index funds start to lose reliability?
+q_b1e20f08cf71cb73,dev,m1,0,5,3.6,3.095,360,464,232,52,60,10,17.26,65.23,725.47,790.7,8.503,When do index funds start to lose reliability?
+q_3576d20498b24f50,dev,m1,0,0,6.925,6.375,693,800,400,53,101,22,18.44,76.86,1605.01,1681.87,8.524,Do I need to pay taxes on self employment income as a minor in the U K and if so how
+q_3576d20498b24f50,dev,full30,0,1,6.925,6.375,693,3000,1500,1153,101,24,17.35,299.75,1751.51,2051.27,8.879,"Do I need to pay taxes on self employment income as a minor in the U K, and if so how."
+q_3576d20498b24f50,dev,se,0,2,6.925,6.375,638,640,320,1,94,23,17.37,66.14,1678.1,1744.24,8.514,"Do I need to pay taxes on self employment income as a minor in the UK, and if so how?"
+q_3576d20498b24f50,dev,padzero,0,3,6.925,6.375,693,3000,1500,1153,101,24,17.71,301.18,1749.76,2050.94,8.879,"Do I need to pay taxes on self employment income as a minor in the U K, and if so how."
+q_3576d20498b24f50,dev,m0,0,4,6.925,6.375,693,696,348,1,101,22,17.39,66.33,1604.64,1670.97,8.518,Do I need to pay taxes on self employment income as a minor in the U K and if so how
+q_3576d20498b24f50,dev,se-0.2,0,5,6.925,6.375,618,624,312,3,92,24,17.48,66.31,1752.8,1819.11,8.513,"Do I need to pay taxes on self employment income as a minor in the U K, and if so how?"
+q_766585499ae34d13,dev,m0,0,0,4.3,3.725,430,432,216,1,68,10,17.25,65.37,725.98,791.35,8.502,What are the ethical considerations in investment decisions?
+q_766585499ae34d13,dev,padzero,0,1,4.3,3.725,430,3000,1500,1285,68,10,17.48,302.13,727.52,1029.65,8.879,What are the ethical considerations in investment decisions?
+q_766585499ae34d13,dev,m1,0,2,4.3,3.725,430,536,268,53,68,10,17.21,66.0,726.38,792.38,8.508,What are the ethical considerations in investment decisions?
+q_766585499ae34d13,dev,se,0,3,4.3,3.725,373,376,188,1,61,10,17.05,65.17,726.42,791.59,8.499,What are the ethical considerations in investment decisions?
+q_766585499ae34d13,dev,full30,0,4,4.3,3.725,430,3000,1500,1285,68,10,17.12,296.96,726.04,1022.99,8.879,What are the ethical considerations in investment decisions?
+q_766585499ae34d13,dev,se-0.2,0,5,4.3,3.725,353,360,180,3,59,10,17.24,65.15,726.82,791.97,8.499,What are the ethical considerations in investment decisions?
+q_2354f69a335b77ad,dev,se-0.2,0,0,4.8,4.235,404,408,204,2,65,17,17.39,65.67,1234.74,1300.41,8.5,What is the best way for a beginner to learn about finance and economics?
+q_2354f69a335b77ad,dev,full30,0,1,4.8,4.235,480,3000,1500,1260,75,17,17.38,302.89,1234.38,1537.27,8.879,What is the best way for a beginner to learn about finance and economics?
+q_2354f69a335b77ad,dev,padzero,0,2,4.8,4.235,480,3000,1500,1260,75,17,17.53,302.27,1237.55,1539.82,8.879,What is the best way for a beginner to learn about finance and economics?
+q_2354f69a335b77ad,dev,se,0,3,4.8,4.235,424,424,212,0,68,17,18.33,66.42,1233.63,1300.05,8.502,What is the best way for a beginner to learn about finance and economics?
+q_2354f69a335b77ad,dev,m1,0,4,4.8,4.235,480,584,292,52,75,17,17.84,66.47,1234.02,1300.49,8.511,What is the best way for a beginner to learn about finance and economics?
+q_2354f69a335b77ad,dev,m0,0,5,4.8,4.235,480,480,240,0,75,17,17.4,65.19,1234.11,1299.3,8.503,What is the best way for a beginner to learn about finance and economics?
+q_cd9e1110345de425,dev,padzero,0,0,4.575,4.125,458,3000,1500,1271,72,15,17.5,303.32,1092.42,1395.74,8.879,How long does it take to transfer money between two business checking accounts?
+q_cd9e1110345de425,dev,se-0.2,0,1,4.575,4.125,393,400,200,3,64,15,17.15,65.44,1088.68,1154.11,8.499,How long does it take to transfer money between two business checking accounts?
+q_cd9e1110345de425,dev,full30,0,2,4.575,4.125,458,3000,1500,1271,72,15,17.24,303.56,1089.86,1393.43,8.879,How long does it take to transfer money between two business checking accounts?
+q_cd9e1110345de425,dev,se,0,3,4.575,4.125,413,416,208,1,66,15,17.36,65.14,1090.47,1155.61,8.502,How long does it take to transfer money between two business checking accounts?
+q_cd9e1110345de425,dev,m0,0,4,4.575,4.125,458,464,232,3,72,15,17.25,65.3,1087.89,1153.19,8.503,How long does it take to transfer money between two business checking accounts?
+q_cd9e1110345de425,dev,m1,0,5,4.575,4.125,458,560,280,51,72,15,17.18,66.44,1088.51,1154.95,8.509,How long does it take to transfer money between two business checking accounts?
+q_619ce121155f4933,dev,padzero,0,0,5.2,4.635,520,3000,1500,1240,80,13,17.44,303.6,945.37,1248.97,8.879,How does the global economy generate a positive return on investment?
+q_619ce121155f4933,dev,full30,0,1,5.2,4.635,520,3000,1500,1240,80,13,17.15,303.84,945.7,1249.54,8.879,How does the global economy generate a positive return on investment?
+q_619ce121155f4933,dev,m1,0,2,5.2,4.635,520,624,312,52,80,13,17.31,67.12,943.08,1010.2,8.513,How does the global economy generate a positive return on investment?
+q_619ce121155f4933,dev,m0,0,3,5.2,4.635,520,520,260,0,80,13,18.76,66.36,945.13,1011.5,8.507,How does the global economy generate a positive return on investment?
+q_619ce121155f4933,dev,se-0.2,0,4,5.2,4.635,444,448,224,2,70,13,18.07,65.21,941.63,1006.84,8.502,How does the global economy generate a positive return on investment?
+q_619ce121155f4933,dev,se,0,5,5.2,4.635,464,464,232,0,73,13,17.19,65.14,942.91,1008.04,8.503,How does the global economy generate a positive return on investment?
+q_24c587b74c5b7c95,dev,m0,0,0,3.975,3.275,398,400,200,1,64,12,17.18,65.03,871.56,936.59,8.499,What are some good passive income options for college students?
+q_24c587b74c5b7c95,dev,padzero,0,1,3.975,3.275,398,3000,1500,1301,64,12,17.41,303.47,871.34,1174.81,8.879,What are some good passive income options for college students?
+q_24c587b74c5b7c95,dev,m1,0,2,3.975,3.275,398,504,252,53,64,12,17.03,65.27,872.16,937.43,8.504,What are some good passive income options for college students?
+q_24c587b74c5b7c95,dev,se,0,3,3.975,3.275,328,328,164,0,56,12,17.14,65.23,872.87,938.1,8.497,What are some good passive income options for college students?
+q_24c587b74c5b7c95,dev,full30,0,4,3.975,3.275,398,3000,1500,1301,64,12,22.41,304.42,872.65,1177.08,8.879,What are some good passive income options for college students?
+q_24c587b74c5b7c95,dev,se-0.2,0,5,3.975,3.275,308,312,156,2,53,12,18.61,64.91,869.87,934.78,8.497,What are some good passive income options for college students?
+q_f1e3538e7cd880f9,dev,m0,0,0,6.2,5.465,620,624,312,2,92,20,17.46,67.23,1458.42,1525.65,8.513,Is it possible to achieve a positive return on an investment with a balance below the cost basis?
+q_f1e3538e7cd880f9,dev,full30,0,1,6.2,5.465,620,3000,1500,1190,92,20,17.6,304.74,1458.44,1763.17,8.879,Is it possible to achieve a positive return on an investment with a balance below the cost basis?
+q_f1e3538e7cd880f9,dev,m1,0,2,6.2,5.465,620,720,360,50,92,20,17.44,66.57,1462.4,1528.97,8.519,Is it possible to achieve a positive return on an investment with a balance below the cost basis?
+q_f1e3538e7cd880f9,dev,padzero,0,3,6.2,5.465,620,3000,1500,1190,92,20,17.75,304.77,1458.65,1763.42,8.879,Is it possible to achieve a positive return on an investment with a balance below the cost basis?
+q_f1e3538e7cd880f9,dev,se-0.2,0,4,6.2,5.465,527,528,264,0,81,20,17.75,65.91,1451.75,1517.66,8.507,Is it possible to achieve a positive return on an investment with a balance below the cost basis?
+q_f1e3538e7cd880f9,dev,se,0,5,6.2,5.465,547,552,276,2,83,20,17.32,66.38,1458.45,1524.84,8.508,Is it possible to achieve a positive return on an investment with a balance below the cost basis?
+q_83436a5f06f10cb0,dev,padzero,0,0,5.075,4.325,508,3000,1500,1246,78,19,17.54,306.31,1382.68,1688.99,8.879,"What is the typical duration of a bank's ""no your customer"" KYC process?"
+q_83436a5f06f10cb0,dev,m1,0,1,5.075,4.325,508,608,304,50,78,19,17.14,66.29,1379.77,1446.06,8.512,"What is the typical duration of a bank's ""no your customer"" KYC process?"
+q_83436a5f06f10cb0,dev,full30,0,2,5.075,4.325,508,3000,1500,1246,78,19,17.22,305.96,1381.11,1687.07,8.879,"What is the typical duration of a bank's ""no your customer"" KYC process?"
+q_83436a5f06f10cb0,dev,se-0.2,0,3,5.075,4.325,413,416,208,1,66,17,17.38,65.11,1235.85,1300.96,8.502,What is the typical duration of a bank's know your customer KYC process?
+q_83436a5f06f10cb0,dev,m0,0,4,5.075,4.325,508,512,256,2,78,19,18.18,65.41,1382.35,1447.77,8.504,"What is the typical duration of a bank's ""no your customer"" KYC process?"
+q_83436a5f06f10cb0,dev,se,0,5,5.075,4.325,433,440,220,3,69,17,17.21,65.1,1234.26,1299.36,8.502,What is the typical duration of a bank's know your customer KYC process?
+q_d96b734b2bc02b5a,dev,se,0,0,6.0,5.385,539,544,272,2,82,15,17.26,66.09,1091.96,1158.05,8.508,What are some user friendly personal finance software options available in the UK?
+q_d96b734b2bc02b5a,dev,full30,0,1,6.0,5.385,600,3000,1500,1200,90,15,17.36,306.85,1097.23,1404.09,8.879,What are some user friendly personal finance software options available in the UK?
+q_d96b734b2bc02b5a,dev,se-0.2,0,2,6.0,5.385,519,520,260,0,80,15,18.95,66.99,1091.68,1158.67,8.507,What are some user friendly personal finance software options available in the UK?
+q_d96b734b2bc02b5a,dev,m1,0,3,6.0,5.385,600,704,352,52,90,15,17.52,66.68,1091.65,1158.33,8.518,What are some user friendly personal finance software options available in the UK?
+q_d96b734b2bc02b5a,dev,padzero,0,4,6.0,5.385,600,3000,1500,1200,90,15,17.79,306.41,1091.46,1397.87,8.879,What are some user friendly personal finance software options available in the U K
+q_d96b734b2bc02b5a,dev,m0,0,5,6.0,5.385,600,600,300,0,90,15,17.25,66.13,1095.02,1161.15,8.511,What are some user friendly personal finance software options available in the UK?
+q_de2197727d6ce8d1,dev,padzero,0,0,7.0,6.415,700,3000,1500,1150,102,26,17.62,306.94,1899.4,2206.34,8.879,Can I claim a tax deduction for working from home as an employee? I work there ninety percent of the time.
+q_de2197727d6ce8d1,dev,m0,0,1,7.0,6.415,700,704,352,2,102,26,17.43,66.2,1902.05,1968.25,8.518,Can I claim a tax deduction for working from home as an employee? I work there ninety percent of the time.
+q_de2197727d6ce8d1,dev,se,0,2,7.0,6.415,642,648,324,3,95,26,17.56,66.58,1897.94,1964.52,8.514,Can I claim a tax deduction for working from home as an employee? I work there ninety percent of the time.
+q_de2197727d6ce8d1,dev,m1,0,3,7.0,6.415,700,800,400,50,102,26,17.6,78.68,1901.91,1980.59,8.524,Can I claim a tax deduction for working from home as an employee? I work there ninety percent of the time.
+q_de2197727d6ce8d1,dev,se-0.2,0,4,7.0,6.415,622,624,312,1,92,26,17.52,66.08,1895.84,1961.92,8.513,Can I claim a tax deduction for working from home as an employee? I work there ninety percent of the time.
+q_de2197727d6ce8d1,dev,full30,0,5,7.0,6.415,700,3000,1500,1150,102,26,17.91,306.58,1902.11,2208.69,8.879,Can I claim a tax deduction for working from home as an employee? I work there ninety percent of the time.
+q_759750b5fb0e1764,dev,padzero,0,0,6.95,6.375,695,3000,1500,1152,102,19,17.77,307.14,1388.04,1695.17,8.879,How can I avoid paying a maintenance fee when my account balance falls below the minimum requirement?
+q_759750b5fb0e1764,dev,m0,0,1,6.95,6.375,695,696,348,0,102,19,19.34,66.3,1388.81,1455.11,8.518,How can I avoid paying a maintenance fee when my account balance falls below the minimum requirement?
+q_759750b5fb0e1764,dev,se,0,2,6.95,6.375,638,640,320,1,94,19,17.39,67.1,1388.38,1455.49,8.514,How can I avoid paying a maintenance fee when my account balance falls below the minimum requirement?
+q_759750b5fb0e1764,dev,se-0.2,0,3,6.95,6.375,618,624,312,3,92,19,17.39,65.99,1385.03,1451.02,8.513,How can I avoid paying a maintenance fee when my account balance falls below the minimum requirement?
+q_759750b5fb0e1764,dev,full30,0,4,6.95,6.375,695,3000,1500,1152,102,19,17.44,306.61,1385.57,1692.17,8.879,How can I avoid paying a maintenance fee when my account balance falls below the minimum requirement?
+q_759750b5fb0e1764,dev,m1,0,5,6.95,6.375,695,800,400,52,102,19,17.52,78.77,1386.4,1465.16,8.524,How can I avoid paying a maintenance fee when my account balance falls below the minimum requirement?
+q_7f3179f293749f08,dev,full30,0,0,5.625,5.035,563,3000,1500,1218,85,15,17.36,307.2,1093.43,1400.63,8.879,What are the options for real estate loans used specifically for property repairs?
+q_7f3179f293749f08,dev,padzero,0,1,5.625,5.035,563,3000,1500,1218,85,15,22.9,306.92,1090.24,1397.16,8.879,What are the options for real estate loans used specifically for property repairs?
+q_7f3179f293749f08,dev,m1,0,2,5.625,5.035,563,664,332,50,85,15,18.62,66.3,1092.82,1159.12,8.515,What are the options for real estate loans used specifically for property repairs?
+q_7f3179f293749f08,dev,se-0.2,0,3,5.625,5.035,484,488,244,2,75,15,17.19,65.43,1089.69,1155.12,8.503,What are the options for real estate loans used specifically for property repair?
+q_7f3179f293749f08,dev,se,0,4,5.625,5.035,504,504,252,0,78,15,17.38,65.03,1088.47,1153.5,8.504,What are the options for real estate loans used specifically for property repairs?
+q_7f3179f293749f08,dev,m0,0,5,5.625,5.035,563,568,284,2,85,15,17.36,66.21,1088.58,1154.79,8.511,What are the options for real estate loans used specifically for property repairs?
+q_4649a82e62e04522,dev,full30,0,0,5.85,5.325,585,3000,1500,1207,88,16,17.31,307.16,1163.88,1471.04,8.879,How are capital gains from selling property outside the US calculated and taxed?
+q_4649a82e62e04522,dev,padzero,0,1,5.85,5.325,585,3000,1500,1207,88,16,17.9,307.76,1162.88,1470.64,8.879,How are capital gains from selling property outside the US calculated and taxed?
+q_4649a82e62e04522,dev,m1,0,2,5.85,5.325,585,688,344,51,88,16,17.3,66.39,1166.81,1233.2,8.516,How are capital gains from selling property outside the US calculated and taxed?
+q_4649a82e62e04522,dev,m0,0,3,5.85,5.325,585,592,296,3,88,16,17.37,66.3,1168.39,1234.69,8.511,How are capital gains from selling property outside the US calculated and taxed?
+q_4649a82e62e04522,dev,se,0,4,5.85,5.325,533,536,268,1,81,16,17.32,66.05,1161.2,1227.25,8.508,How are capital gains from selling property outside the US calculated and taxed?
+q_4649a82e62e04522,dev,se-0.2,0,5,5.85,5.325,513,520,260,3,79,16,17.3,65.95,1161.82,1227.77,8.507,How are capital gains from selling property outside the US calculated and taxed?
+q_827ed2ddd2313785,dev,m0,0,0,4.275,3.705,428,432,216,2,68,14,17.31,65.04,1020.27,1085.31,8.502,Why does a company's stock price matter to its management team?
+q_827ed2ddd2313785,dev,se-0.2,0,1,4.275,3.705,351,352,176,0,59,14,17.19,65.49,1016.02,1081.51,8.498,Why does a company's stock price matter to its management team?
+q_827ed2ddd2313785,dev,padzero,0,2,4.275,3.705,428,3000,1500,1286,68,14,17.46,306.92,1016.97,1323.89,8.879,Why does a company's stock price matter to its management team?
+q_827ed2ddd2313785,dev,se,0,3,4.275,3.705,371,376,188,2,61,14,17.25,65.01,1015.31,1080.33,8.499,Why does a company's stock price matter to its management team?
+q_827ed2ddd2313785,dev,full30,0,4,4.275,3.705,428,3000,1500,1286,68,14,17.39,308.18,1017.4,1325.58,8.879,Why does a company's stock price matter to its management team?
+q_827ed2ddd2313785,dev,m1,0,5,4.275,3.705,428,528,264,50,68,14,17.34,67.24,1015.79,1083.03,8.507,Why does a company's stock price matter to its management team?
+q_77e405127e09b49c,dev,m1,0,0,5.675,5.185,568,672,336,52,86,19,17.39,66.61,1383.25,1449.87,8.515,What are some alternatives to Intuit's PayTrust service for online bill viewing and payment?
+q_77e405127e09b49c,dev,se,0,1,5.675,5.185,519,520,260,0,80,19,17.42,66.02,1380.25,1446.27,8.507,What are some alternatives to Intuit's PayTrust service for online bill viewing and payment?
+q_77e405127e09b49c,dev,m0,0,2,5.675,5.185,568,568,284,0,86,19,17.35,66.19,1381.1,1447.28,8.511,What are some alternatives to Intuit's PayTrust service for online bill viewing and payment?
+q_77e405127e09b49c,dev,se-0.2,0,3,5.675,5.185,499,504,252,2,77,19,17.9,65.17,1378.85,1444.03,8.504,What are some alternatives to Intuit's PayTrust service for online bill viewing and payment?
+q_77e405127e09b49c,dev,full30,0,4,5.675,5.185,568,3000,1500,1216,86,19,17.29,308.92,1382.88,1691.8,8.879,What are some alternatives to Intuit's Pay Trust service for online bill viewing and payment?
+q_77e405127e09b49c,dev,padzero,0,5,5.675,5.185,568,3000,1500,1216,86,19,17.83,308.01,1384.26,1692.27,8.879,What are some alternatives to Intuit's PayTrust service for online bill viewing and payment?
+q_13756c6685e346cd,dev,se-0.2,0,0,7.3,6.825,663,664,332,0,98,21,17.63,66.09,1534.54,1600.63,8.515,How can I measure the impact of a low expense ratio versus a high expense ratio in mutual funds?
+q_13756c6685e346cd,dev,full30,0,1,7.3,6.825,730,3000,1500,1135,106,21,74.16,308.26,1536.68,1844.94,8.879,How can I measure the impact of a low expense ratio versus a high expense ratio in mutual funds?
+q_13756c6685e346cd,dev,se,0,2,7.3,6.825,683,688,344,2,100,21,17.6,66.19,1534.4,1600.59,8.516,How can I measure the impact of a low expense ratio versus a high expense ratio in mutual funds?
+q_13756c6685e346cd,dev,m0,0,3,7.3,6.825,730,736,368,3,106,21,17.61,67.02,1539.33,1606.35,8.52,How can I measure the impact of a low expense ratio versus a high expense ratio in mutual funds?
+q_13756c6685e346cd,dev,m1,0,4,7.3,6.825,730,832,416,51,106,21,17.67,79.36,1536.24,1615.6,8.528,How can I measure the impact of a low expense ratio versus a high expense ratio in mutual funds?
+q_13756c6685e346cd,dev,padzero,0,5,7.3,6.825,730,3000,1500,1135,106,21,17.93,308.06,1543.64,1851.71,8.879,How can I measure the impact of a low expense ratio versus a high expense ratio in mutual funds?
+q_a96f931788ebffff,dev,full30,0,0,4.225,3.725,423,3000,1500,1288,68,15,17.41,308.74,1092.22,1400.96,8.879,What tax deductions are available for an unoccupied property?
+q_a96f931788ebffff,dev,padzero,0,1,4.225,3.725,423,3000,1500,1288,68,15,17.51,308.09,1090.35,1398.44,8.879,What tax deductions are available for an unoccupied property?
+q_a96f931788ebffff,dev,m0,0,2,4.225,3.725,423,424,212,0,68,15,17.18,65.09,1092.16,1157.25,8.502,What tax deductions are available for an unoccupied property?
+q_a96f931788ebffff,dev,se-0.2,0,3,4.225,3.725,353,360,180,3,59,15,17.47,65.26,1093.89,1159.15,8.499,What tax deductions are available for an unoccupied property?
+q_a96f931788ebffff,dev,se,0,4,4.225,3.725,373,376,188,1,61,15,17.25,65.06,1090.3,1155.37,8.499,What tax deductions are available for an unoccupied property?
+q_a96f931788ebffff,dev,m1,0,5,4.225,3.725,423,528,264,52,68,15,17.27,66.12,1091.41,1157.53,8.507,What tax deductions are available for an unoccupied property?
+q_90103c660d810557,dev,se,0,0,4.425,3.795,380,384,192,2,62,12,17.32,65.03,872.47,937.5,8.499,Who receives the proceeds when one company acquires another?
+q_90103c660d810557,dev,se-0.2,0,1,4.425,3.795,360,360,180,0,60,12,17.15,64.99,872.66,937.64,8.499,Who receives the proceeds when one company acquires another?
+q_90103c660d810557,dev,m0,0,2,4.425,3.795,443,448,224,2,70,12,17.31,65.27,874.05,939.33,8.502,Who receives the proceeds when one company acquires another?
+q_90103c660d810557,dev,full30,0,3,4.425,3.795,443,3000,1500,1278,70,12,17.29,307.96,872.67,1180.62,8.879,Who receives the proceeds when one company acquires another?
+q_90103c660d810557,dev,padzero,0,4,4.425,3.795,443,3000,1500,1278,70,12,17.7,308.9,874.39,1183.28,8.879,Who receives the proceeds when one company acquires another?
+q_90103c660d810557,dev,m1,0,5,4.425,3.795,443,544,272,50,70,12,17.27,65.94,872.93,938.87,8.508,Who receives the proceeds when one company acquires another?
+q_0c66e84e096f93f7,dev,se,0,0,3.025,2.565,257,264,132,3,47,8,17.12,65.15,581.59,646.75,8.495,I need your assistance and recommendations.
+q_0c66e84e096f93f7,dev,m1,0,1,3.025,2.565,303,408,204,52,53,8,17.28,65.23,581.95,647.18,8.5,I need your assistance and recommendations.
+q_0c66e84e096f93f7,dev,padzero,0,2,3.025,2.565,303,3000,1500,1348,53,8,17.35,307.34,582.73,890.06,8.879,I need your assistance and recommendations.
+q_0c66e84e096f93f7,dev,se-0.2,0,3,3.025,2.565,237,240,120,1,44,8,17.06,65.33,581.36,646.69,8.493,I need your assistance and recommendations.
+q_0c66e84e096f93f7,dev,full30,0,4,3.025,2.565,303,3000,1500,1348,53,8,17.08,308.0,582.39,890.39,8.879,I need your assistance and recommendations.
+q_0c66e84e096f93f7,dev,m0,0,5,3.025,2.565,303,304,152,0,53,8,17.46,65.29,582.97,648.26,8.497,I need your assistance and recommendations.
+q_b8de4034a157d0db,dev,se-0.2,0,0,4.375,3.655,346,352,176,3,58,17,17.23,65.34,1236.15,1301.49,8.498,Should I choose a townhouse or a standalone house for my first home?
+q_b8de4034a157d0db,dev,m0,0,1,4.375,3.655,438,440,220,1,69,17,17.22,65.09,1231.77,1296.85,8.502,Should I choose a townhouse or a standalone house for my first home?
+q_b8de4034a157d0db,dev,full30,0,2,4.375,3.655,438,3000,1500,1281,69,17,17.18,308.49,1235.84,1544.33,8.879,Should I choose a townhouse or a standalone house for my first home?
+q_b8de4034a157d0db,dev,m1,0,3,4.375,3.655,438,544,272,53,69,17,17.21,66.02,1235.15,1301.17,8.508,Should I choose a townhouse or a standalone house for my first home?
+q_b8de4034a157d0db,dev,se,0,4,4.375,3.655,366,368,184,1,60,17,17.19,65.15,1234.88,1300.03,8.499,Should I choose a townhouse or a standalone house for my first home?
+q_b8de4034a157d0db,dev,padzero,0,5,4.375,3.655,438,3000,1500,1281,69,17,17.52,307.86,1234.07,1541.93,8.879,Should I choose a townhouse or a standalone house for my first home?
+q_fe7a2a5d67cc1106,dev,se-0.2,0,0,6.05,5.555,536,536,268,0,82,15,17.32,65.92,1088.04,1153.96,8.508,How can someone with a mathematical background learn about stock trading and finance?
+q_fe7a2a5d67cc1106,dev,m0,0,1,6.05,5.555,605,608,304,1,90,15,17.29,67.0,1092.39,1159.4,8.512,How can someone with a mathematical background learn about stock trading and finance?
+q_fe7a2a5d67cc1106,dev,padzero,0,2,6.05,5.555,605,3000,1500,1197,90,15,17.62,309.57,1091.36,1400.94,8.879,How can someone with a mathematical background learn about stock trading and finance?
+q_fe7a2a5d67cc1106,dev,m1,0,3,6.05,5.555,605,712,356,53,90,15,17.34,66.46,1091.63,1158.08,8.519,How can someone with a mathematical background learn about stock trading and finance?
+q_fe7a2a5d67cc1106,dev,full30,0,4,6.05,5.555,605,3000,1500,1197,90,15,17.24,309.99,1091.85,1401.85,8.879,How can someone with a mathematical background learn about stock trading and finance?
+q_fe7a2a5d67cc1106,dev,se,0,5,6.05,5.555,556,560,280,2,84,15,17.28,66.91,1093.65,1160.57,8.509,How can someone with a mathematical background learn about stock trading and finance?
+q_77e5efc4effec4e2,dev,m0,0,0,3.7,2.995,370,376,188,3,61,13,17.23,64.93,944.92,1009.85,8.499,What are the tax implications of puts and the wash rule?
+q_77e5efc4effec4e2,dev,full30,0,1,3.7,2.995,370,3000,1500,1315,61,13,17.16,308.36,945.85,1254.21,8.879,What are the tax implications of puts and the wash rule?
+q_77e5efc4effec4e2,dev,se,0,2,3.7,2.995,300,304,152,2,52,13,17.88,65.04,942.11,1007.15,8.497,What are the tax implications of puts and the wash rule?
+q_77e5efc4effec4e2,dev,se-0.2,0,3,3.7,2.995,280,280,140,0,50,13,17.12,65.44,943.63,1009.06,8.495,What are the tax implications of puts and the wash rule?
+q_77e5efc4effec4e2,dev,m1,0,4,3.7,2.995,370,472,236,51,61,13,17.07,65.45,943.3,1008.76,8.503,What are the tax implications of puts and the wash rule?
+q_77e5efc4effec4e2,dev,padzero,0,5,3.7,2.995,370,3000,1500,1315,61,13,17.43,309.23,944.02,1253.25,8.879,What are the tax implications of puts and the wash rule?
+q_9bbd995c2b2ddb55,dev,se-0.2,0,0,3.25,2.705,251,256,128,2,46,9,16.88,65.21,653.94,719.15,8.495,How can I obtain private prospectuses?
+q_9bbd995c2b2ddb55,dev,full30,0,1,3.25,2.705,325,3000,1500,1337,55,9,17.17,317.11,654.42,971.53,8.879,How can I obtain private prospectuses?
+q_9bbd995c2b2ddb55,dev,m1,0,2,3.25,2.705,325,432,216,53,55,9,17.23,65.35,652.29,717.64,8.502,How can I obtain private prospectuses?
+q_9bbd995c2b2ddb55,dev,m0,0,3,3.25,2.705,325,328,164,1,55,9,17.07,65.31,654.07,719.38,8.497,How can I obtain private prospectuses?
+q_9bbd995c2b2ddb55,dev,se,0,4,3.25,2.705,271,272,136,0,49,9,17.01,65.15,653.59,718.74,8.495,How can I obtain private prospectuses?
+q_9bbd995c2b2ddb55,dev,padzero,0,5,3.25,2.705,325,3000,1500,1337,55,9,17.32,307.36,655.87,963.24,8.879,How can I obtain private prospectuses?
+q_bfa8e9fbe926b099,dev,se,0,0,6.85,6.335,634,640,320,3,94,21,17.21,66.36,1534.25,1600.61,8.514,Can I use external funds to pay for trading commissions in tax free and tax deferred accounts?
+q_bfa8e9fbe926b099,dev,m0,0,1,6.85,6.335,685,688,344,1,100,21,17.45,66.39,1537.12,1603.52,8.516,Can I use external funds to pay for trading commissions in tax free and tax deferred accounts?
+q_bfa8e9fbe926b099,dev,padzero,0,2,6.85,6.335,685,3000,1500,1157,100,21,17.74,305.94,1537.69,1843.63,8.879,Can I use external funds to pay for trading commissions in tax free and tax deferred accounts?
+q_bfa8e9fbe926b099,dev,se-0.2,0,3,6.85,6.335,614,616,308,1,91,21,17.27,66.61,1534.82,1601.44,8.512,Can I use external funds to pay for trading commissions in tax free and tax deferred accounts?
+q_bfa8e9fbe926b099,dev,m1,0,4,6.85,6.335,685,792,396,53,100,21,17.45,77.69,1534.74,1612.44,8.524,Can I use external funds to pay for trading commissions in tax free and tax deferred accounts?
+q_bfa8e9fbe926b099,dev,full30,0,5,6.85,6.335,685,3000,1500,1157,100,21,17.35,307.51,1535.79,1843.3,8.879,Can I use external funds to pay for trading commissions in tax free and tax deferred accounts?
+q_f88e1fabff07591d,dev,padzero,0,0,6.225,5.765,623,3000,1500,1188,93,18,17.71,307.04,1316.13,1623.17,8.879,What is the significance of a lack of negative correlation between share price and volume sales?
+q_f88e1fabff07591d,dev,m1,0,1,6.225,5.765,623,728,364,52,93,18,17.31,66.61,1318.01,1384.62,8.52,What is the significance of a lack of negative correlation between share price and volume sales?
+q_f88e1fabff07591d,dev,se,0,2,6.225,5.765,577,584,292,3,87,18,18.55,66.1,1308.87,1374.97,8.511,What is the significance of a lack of negative correlation between share price and volume sales?
+q_f88e1fabff07591d,dev,m0,0,3,6.225,5.765,623,624,312,0,93,18,17.45,66.85,1313.04,1379.89,8.513,What is the significance of a lack of negative correlation between share price and volume sales?
+q_f88e1fabff07591d,dev,full30,0,4,6.225,5.765,623,3000,1500,1188,93,18,17.46,308.52,1314.32,1622.84,8.879,What is the significance of a lack of negative correlation between share price and volume sales?
+q_f88e1fabff07591d,dev,se-0.2,0,5,6.225,5.765,557,560,280,1,84,18,17.45,66.06,1309.84,1375.9,8.509,What is the significance of a lack of negative correlation between share price and volume sales?
+q_119cb1d92c34f085,dev,m1,0,0,3.7,3.155,370,472,236,51,61,10,17.2,65.23,726.55,791.78,8.503,Do square credit card readers permit personal use?
+q_119cb1d92c34f085,dev,se,0,1,3.7,3.155,316,320,160,2,54,10,17.34,65.36,725.42,790.78,8.497,Do square credit card readers permit personal use?
+q_119cb1d92c34f085,dev,padzero,0,2,3.7,3.155,370,3000,1500,1315,61,10,17.38,307.86,726.19,1034.05,8.879,Do square credit card readers permit personal use?
+q_119cb1d92c34f085,dev,full30,0,3,3.7,3.155,370,3000,1500,1315,61,10,17.11,307.09,728.35,1035.44,8.879,Do square credit card readers permit personal use?
+q_119cb1d92c34f085,dev,m0,0,4,3.7,3.155,370,376,188,3,61,10,17.14,64.97,727.35,792.32,8.499,Do square credit card readers permit personal use?
+q_119cb1d92c34f085,dev,se-0.2,0,5,3.7,3.155,296,296,148,0,52,10,17.13,65.23,727.78,793.01,8.497,Do square credit card readers permit personal use?
+q_33095b63b15b0fa1,dev,m0,0,0,5.8,5.285,580,584,292,2,87,15,17.35,66.34,1092.06,1158.4,8.511,How is a condominium or apartment building identified for tax purposes?
+q_33095b63b15b0fa1,dev,se-0.2,0,1,5.8,5.285,509,512,256,1,78,15,17.4,65.2,1089.58,1154.78,8.504,How is a condominium or apartment building identified for tax purposes?
+q_33095b63b15b0fa1,dev,m1,0,2,5.8,5.285,580,680,340,50,87,15,17.34,66.56,1090.37,1156.92,8.516,How is a condominium or apartment building identified for tax purposes?
+q_33095b63b15b0fa1,dev,padzero,0,3,5.8,5.285,580,3000,1500,1210,87,15,17.56,307.67,1092.92,1400.58,8.879,How is a condominium or apartment building identified for tax purposes?
+q_33095b63b15b0fa1,dev,se,0,4,5.8,5.285,529,536,268,3,81,15,17.35,66.14,1089.94,1156.08,8.508,How is a condominium or apartment building identified for tax purposes?
+q_33095b63b15b0fa1,dev,full30,0,5,5.8,5.285,580,3000,1500,1210,87,15,17.11,308.61,1090.25,1398.87,8.879,How is a condominium or apartment building identified for tax purposes?
+q_62f55195e3b0ecac,dev,m0,0,0,7.1,6.555,710,712,356,1,103,20,17.43,66.52,1463.14,1529.66,8.519,What is the best approach for funding retirement? Static asset allocation or age-based glide path?
+q_62f55195e3b0ecac,dev,padzero,0,1,7.1,6.555,710,3000,1500,1145,103,20,17.7,304.39,1465.9,1770.29,8.879,What is the best approach for funding retirement? Static asset allocation or age-based glide path?
+q_62f55195e3b0ecac,dev,se,0,2,7.1,6.555,656,656,328,0,97,20,17.32,66.44,1459.06,1525.5,8.514,What is the best approach for funding retirement? Static asset allocation or age-based glide path?
+q_62f55195e3b0ecac,dev,se-0.2,0,3,7.1,6.555,636,640,320,2,94,20,17.44,66.08,1461.28,1527.35,8.514,What is the best approach for funding retirement? Static asset allocation or age-based glide path?
+q_62f55195e3b0ecac,dev,m1,0,4,7.1,6.555,710,816,408,53,103,20,17.42,79.03,1466.24,1545.27,8.526,What is the best approach for funding retirement? Static asset allocation or age-based glide path?
+q_62f55195e3b0ecac,dev,full30,0,5,7.1,6.555,710,3000,1500,1145,103,20,19.22,308.71,1462.14,1770.85,8.879,What is the best approach for funding retirement? Static asset allocation or age-based glide path?
+q_58ca7b6f4d40fecd,dev,full30,0,0,5.275,4.525,528,3000,1500,1236,81,16,17.34,308.16,1167.87,1476.03,8.879,What are the top strategies for navigating the San Francisco real estate market?
+q_58ca7b6f4d40fecd,dev,m0,0,1,5.275,4.525,528,528,264,0,81,16,18.09,66.13,1164.17,1230.3,8.507,What are the top strategies for navigating the San Francisco real estate market?
+q_58ca7b6f4d40fecd,dev,se,0,2,5.275,4.525,453,456,228,1,71,16,17.32,65.09,1162.33,1227.42,8.503,What are the top strategies for navigating the San Francisco real estate market?
+q_58ca7b6f4d40fecd,dev,padzero,0,3,5.275,4.525,528,3000,1500,1236,81,16,17.66,310.26,1166.32,1476.58,8.879,What are the top strategies for navigating the San Francisco real estate market?
+q_58ca7b6f4d40fecd,dev,m1,0,4,5.275,4.525,528,632,316,52,81,16,17.26,66.02,1165.99,1232.01,8.514,What are the top strategies for navigating the San Francisco real estate market?
+q_58ca7b6f4d40fecd,dev,se-0.2,0,5,5.275,4.525,433,440,220,3,69,16,17.28,65.14,1162.34,1227.49,8.502,What are the top strategies for navigating the San Francisco real estate market?
+q_bbf5affa094195bb,dev,m1,0,0,6.5,5.965,650,752,376,51,96,15,17.45,67.38,1098.19,1165.56,8.521,What potential risks are associated with sharing my American Express transaction records online?
+q_bbf5affa094195bb,dev,padzero,0,1,6.5,5.965,650,3000,1500,1175,96,15,17.67,309.32,1098.3,1407.63,8.879,What potential risks are associated with sharing my American Express transaction records online?
+q_bbf5affa094195bb,dev,se,0,2,6.5,5.965,597,600,300,1,89,15,17.32,66.34,1093.67,1160.0,8.511,What potential risks are associated with sharing my American Express transaction records online?
+q_bbf5affa094195bb,dev,full30,0,3,6.5,5.965,650,3000,1500,1175,96,15,17.24,309.84,1097.54,1407.38,8.879,What potential risks are associated with sharing my American Express transaction records online?
+q_bbf5affa094195bb,dev,m0,0,4,6.5,5.965,650,656,328,3,96,15,17.4,66.25,1097.28,1163.53,8.514,What potential risks are associated with sharing my American Express transaction records online?
+q_bbf5affa094195bb,dev,se-0.2,0,5,6.5,5.965,577,584,292,3,87,15,17.42,66.06,1093.7,1159.77,8.511,What potential risks are associated with sharing my American Express transaction records online?
+q_14946dca186a869c,dev,full30,0,0,5.875,5.355,588,3000,1500,1206,88,18,17.3,309.38,1314.42,1623.79,8.879,What is the tax liability for stocks vested by a H one B visa holder?
+q_14946dca186a869c,dev,se,0,1,5.875,5.355,536,536,268,0,82,18,17.49,65.88,1310.14,1376.02,8.508,What is the tax liability for stocks vested by a H1B visa holder?
+q_14946dca186a869c,dev,padzero,0,2,5.875,5.355,588,3000,1500,1206,88,18,17.65,309.89,1313.99,1623.88,8.879,What is the tax liability for stocks vested by a H1B visa holder?
+q_14946dca186a869c,dev,m1,0,3,5.875,5.355,588,688,344,50,88,18,17.2,66.46,1313.37,1379.83,8.516,What is the tax liability for stocks vested by a H1B visa holder?
+q_14946dca186a869c,dev,m0,0,4,5.875,5.355,588,592,296,2,88,18,19.63,66.26,1313.49,1379.75,8.511,What is the tax liability for stocks vested by a H1B visa holder?
+q_14946dca186a869c,dev,se-0.2,0,5,5.875,5.355,516,520,260,2,79,18,17.4,66.13,1307.14,1373.27,8.507,What is the tax liability for stocks vested by a H1B visa holder?
+q_ad2c7401776ba3d6,dev,padzero,0,0,6.2,5.705,620,3000,1500,1190,92,23,17.92,310.92,1680.22,1991.14,8.879,"What are some good books for learning stocks, bonds, and derivatives for beginners with a math background?"
+q_ad2c7401776ba3d6,dev,se,0,1,6.2,5.705,571,576,288,2,86,23,17.26,66.32,1676.56,1742.88,8.51,"What are some good books for learning stocks, bonds, and derivatives for beginners with a math background?"
+q_ad2c7401776ba3d6,dev,m1,0,2,6.2,5.705,620,720,360,50,92,23,17.49,66.33,1678.15,1744.47,8.519,"What are some good books for learning stocks, bonds, and derivatives for beginners with a math background?"
+q_ad2c7401776ba3d6,dev,se-0.2,0,3,6.2,5.705,551,552,276,0,84,23,17.43,66.26,1679.91,1746.16,8.508,"What are some good books for learning stocks, bonds, and derivatives for beginners with a math background?"
+q_ad2c7401776ba3d6,dev,full30,0,4,6.2,5.705,620,3000,1500,1190,92,23,17.43,310.02,1678.59,1988.61,8.879,"What are some good books for learning stocks, bonds, and derivatives for beginners with a math background?"
+q_ad2c7401776ba3d6,dev,m0,0,5,6.2,5.705,620,624,312,2,92,23,23.17,66.74,1678.13,1744.87,8.513,"What are some good books for learning stocks, bonds, and derivatives for beginners with a math background?"
+q_63fb06cc67c1a7ef,dev,m1,0,0,5.4,4.675,540,640,320,50,82,15,18.05,65.89,1091.45,1157.34,8.514,"How frequently do stock prices change, and where is this information specified?"
+q_63fb06cc67c1a7ef,dev,se,0,1,5.4,4.675,468,472,236,2,73,15,17.77,65.2,1088.63,1153.83,8.503,"How frequently do stock prices change, and where is this information specified?"
+q_63fb06cc67c1a7ef,dev,m0,0,2,5.4,4.675,540,544,272,2,82,15,17.82,66.17,1093.84,1160.01,8.508,"How frequently do stock prices change, and where is this information specified?"
+q_63fb06cc67c1a7ef,dev,full30,0,3,5.4,4.675,540,3000,1500,1230,82,15,17.3,310.37,1093.43,1403.79,8.879,"How frequently do stock prices change, and where is this information specified?"
+q_63fb06cc67c1a7ef,dev,se-0.2,0,4,5.4,4.675,448,448,224,0,71,15,17.37,65.23,1091.97,1157.2,8.502,"How frequently do stock prices change, and where is this information specified?"
+q_63fb06cc67c1a7ef,dev,padzero,0,5,5.4,4.675,540,3000,1500,1230,82,15,17.65,310.35,1092.53,1402.88,8.879,"How frequently do stock prices change, and where is this information specified?"
+q_d5d6544524797db6,dev,m1,0,0,6.075,5.425,608,712,356,52,91,16,17.3,66.54,1169.22,1235.76,8.519,What is the process for reporting Canadian income earned from a small contract job?
+q_d5d6544524797db6,dev,full30,0,1,6.075,5.425,608,3000,1500,1196,91,16,17.27,310.23,1166.39,1476.62,8.879,What is the process for reporting Canadian income earned from a small contract job?
+q_d5d6544524797db6,dev,m0,0,2,6.075,5.425,608,608,304,0,91,16,17.37,66.28,1170.01,1236.29,8.512,What is the process for reporting Canadian income earned from a small contract job?
+q_d5d6544524797db6,dev,se-0.2,0,3,6.075,5.425,523,528,264,2,80,16,17.38,66.15,1170.49,1236.63,8.507,What is the process for reporting Canadian income earned from a small contract job?
+q_d5d6544524797db6,dev,se,0,4,6.075,5.425,543,544,272,0,83,16,17.43,66.19,1167.65,1233.85,8.508,What is the process for reporting Canadian income earned from a small contract job?
+q_d5d6544524797db6,dev,padzero,0,5,6.075,5.425,608,3000,1500,1196,91,16,17.59,310.66,1169.47,1480.13,8.879,What is the process for reporting Canadian income earned from a small contract job?
+q_4a6395d025f2f577,dev,padzero,0,0,5.5,4.935,550,3000,1500,1225,83,13,20.46,309.99,950.62,1260.61,8.879,Should income tax withheld be included in total income reported?
+q_4a6395d025f2f577,dev,se-0.2,0,1,5.5,4.935,474,480,240,3,74,13,17.19,65.07,947.42,1012.49,8.503,Should income tax withheld be included in total income reported?
+q_4a6395d025f2f577,dev,full30,0,2,5.5,4.935,550,3000,1500,1225,83,13,17.35,310.14,947.62,1257.76,8.879,Should income tax withheld be included in total income reported?
+q_4a6395d025f2f577,dev,se,0,3,5.5,4.935,494,496,248,1,76,13,17.32,65.59,947.33,1012.92,8.504,Should income tax withheld be included in total income reported?
+q_4a6395d025f2f577,dev,m0,0,4,5.5,4.935,550,552,276,1,83,13,17.4,66.63,952.68,1019.31,8.508,Should income tax withheld be included in total income reported?
+q_4a6395d025f2f577,dev,m1,0,5,5.5,4.935,550,656,328,53,83,13,17.35,67.17,953.87,1021.05,8.514,Should income tax withheld be included in total income reported?
+q_129093181d03c478,dev,m0,0,0,5.275,4.655,528,528,264,0,81,20,19.54,67.58,1458.47,1526.05,8.507,"What does the phrase ""afford to lose"" mean, and how should it be interpreted?"
+q_129093181d03c478,dev,m1,0,1,5.275,4.655,528,632,316,52,81,20,17.42,66.26,1458.71,1524.97,8.514,"What does the phrase ""afford to lose"" mean, and how should it be interpreted?"
+q_129093181d03c478,dev,padzero,0,2,5.275,4.655,528,3000,1500,1236,81,20,17.74,310.69,1460.0,1770.69,8.879,"What does the phrase ""afford to lose"" mean, and how should it be interpreted?"
+q_129093181d03c478,dev,full30,0,3,5.275,4.655,528,3000,1500,1236,81,20,17.21,310.08,1458.05,1768.13,8.879,"What does the phrase ""afford to lose"" mean, and how should it be interpreted?"
+q_129093181d03c478,dev,se-0.2,0,4,5.275,4.655,446,448,224,1,70,20,17.3,65.34,1454.61,1519.94,8.502,"What does the phrase ""afford to lose"" mean, and how should it be interpreted?"
+q_129093181d03c478,dev,se,0,5,5.275,4.655,466,472,236,3,73,20,23.09,91.3,1458.3,1549.6,8.503,"What does the phrase ""afford to lose"" mean, and how should it be interpreted?"
+q_27e2ee362cd632ed,dev,se-0.2,0,0,4.55,3.975,378,384,192,3,62,15,17.42,65.05,1092.3,1157.35,8.499,What is the value of paying for end of day historical stock prices?
+q_27e2ee362cd632ed,dev,padzero,0,1,4.55,3.975,455,3000,1500,1272,72,15,17.58,310.49,1093.07,1403.57,8.879,What is the value of paying for end of day historical stock prices?
+q_27e2ee362cd632ed,dev,full30,0,2,4.55,3.975,455,3000,1500,1272,72,15,17.11,310.72,1092.72,1403.44,8.879,What is the value of paying for end of day historical stock prices?
+q_27e2ee362cd632ed,dev,m1,0,3,4.55,3.975,455,560,280,52,72,15,17.29,66.19,1092.22,1158.41,8.509,What is the value of paying for end of day historical stock prices?
+q_27e2ee362cd632ed,dev,m0,0,4,4.55,3.975,455,456,228,0,72,15,17.33,65.28,1092.26,1157.54,8.503,What is the value of paying for end of day historical stock prices?
+q_27e2ee362cd632ed,dev,se,0,5,4.55,3.975,398,400,200,1,64,15,17.21,65.42,1093.33,1158.75,8.499,What is the value of paying for end of day historical stock prices?
+q_c6b07e1ece323ce6,dev,se,0,0,4.725,4.195,420,424,212,2,67,11,17.28,65.43,803.2,868.63,8.502,What are the considerations for investing money one hundred one
+q_c6b07e1ece323ce6,dev,m1,0,1,4.725,4.195,473,576,288,51,74,11,17.24,66.06,799.78,865.84,8.51,What are the considerations for investing money one hundred one
+q_c6b07e1ece323ce6,dev,m0,0,2,4.725,4.195,473,480,240,3,74,11,17.27,65.24,800.8,866.04,8.503,What are the considerations for investing money one hundred one
+q_c6b07e1ece323ce6,dev,se-0.2,0,3,4.725,4.195,400,400,200,0,65,12,17.29,65.35,873.81,939.16,8.499,What are the considerations for investing money one hundred one?
+q_c6b07e1ece323ce6,dev,full30,0,4,4.725,4.195,473,3000,1500,1263,74,11,17.2,310.8,802.76,1113.56,8.879,What are the considerations for investing money one hundred one
+q_c6b07e1ece323ce6,dev,padzero,0,5,4.725,4.195,473,3000,1500,1263,74,11,17.54,310.68,802.08,1112.76,8.879,What are the considerations for investing money one hundred one
+q_b5557d1eb90f52f2,dev,padzero,0,0,4.75,4.175,475,3000,1500,1262,74,14,19.26,309.65,1019.75,1329.4,8.879,What are the reasons someone might choose to purchase a government bond?
+q_b5557d1eb90f52f2,dev,se-0.2,0,1,4.75,4.175,398,400,200,1,64,14,17.83,65.49,1019.16,1084.65,8.499,What are the reasons someone might choose to purchase a government bond?
+q_b5557d1eb90f52f2,dev,se,0,2,4.75,4.175,418,424,212,3,67,14,17.18,65.21,1018.07,1083.28,8.502,What are the reasons someone might choose to purchase a government bond?
+q_b5557d1eb90f52f2,dev,m1,0,3,4.75,4.175,475,576,288,50,74,14,17.27,65.9,1018.34,1084.24,8.51,What are the reasons someone might choose to purchase a government bond?
+q_b5557d1eb90f52f2,dev,m0,0,4,4.75,4.175,475,480,240,2,74,14,17.29,65.27,1018.8,1084.06,8.503,What are the reasons someone might choose to purchase a government bond?
+q_b5557d1eb90f52f2,dev,full30,0,5,4.75,4.175,475,3000,1500,1262,74,14,17.23,310.82,1020.28,1331.1,8.879,What are the reasons someone might choose to purchase a government bond?
+q_3df64fbcb882bbee,dev,m0,0,0,5.05,4.485,505,512,256,3,78,16,17.34,65.36,1165.49,1230.85,8.504,How long should I retain an uncleared transaction in my checkbook?
+q_3df64fbcb882bbee,dev,m1,0,1,5.05,4.485,505,608,304,51,78,16,17.32,66.04,1167.58,1233.62,8.512,How long should I retain an uncleared transaction in my checkbook?
+q_3df64fbcb882bbee,dev,padzero,0,2,5.05,4.485,505,3000,1500,1247,78,16,17.92,309.67,1167.12,1476.79,8.879,How long should I retain an uncleared transaction in my checkbook?
+q_3df64fbcb882bbee,dev,full30,0,3,5.05,4.485,505,3000,1500,1247,78,16,17.15,309.94,1167.17,1477.11,8.879,How long should I retain an uncleared transaction in my checkbook?
+q_3df64fbcb882bbee,dev,se-0.2,0,4,5.05,4.485,429,432,216,1,68,15,22.16,65.31,1091.0,1156.31,8.502,How long should I retain an uncleared transaction in my check?
+q_3df64fbcb882bbee,dev,se,0,5,5.05,4.485,449,456,228,3,71,16,19.32,65.22,1163.56,1228.77,8.503,How long should I retain an uncleared transaction in my checkbook?
+q_82d3831f4cecfa2f,dev,padzero,0,0,6.95,6.385,695,3000,1500,1152,102,17,17.85,311.01,1251.47,1562.48,8.879,What are the theoretical implications of paying credit card balances with another credit card?
+q_82d3831f4cecfa2f,dev,full30,0,1,6.95,6.385,695,3000,1500,1152,102,17,17.4,310.44,1244.17,1554.61,8.879,What are the theoretical implications of paying credit card balances with another credit card?
+q_82d3831f4cecfa2f,dev,m1,0,2,6.95,6.385,695,800,400,52,102,17,17.54,79.47,1246.76,1326.23,8.524,What are the theoretical implications of paying credit card balances with another credit card?
+q_82d3831f4cecfa2f,dev,se-0.2,0,3,6.95,6.385,619,624,312,2,92,17,17.46,66.22,1241.55,1307.77,8.513,What are the theoretical implications of paying credit card balances with another credit card?
+q_82d3831f4cecfa2f,dev,se,0,4,6.95,6.385,639,640,320,0,95,17,17.41,67.24,1244.68,1311.92,8.514,What are the theoretical implications of paying credit card balances with another credit card?
+q_82d3831f4cecfa2f,dev,m0,0,5,6.95,6.385,695,696,348,0,102,17,17.31,66.34,1245.07,1311.41,8.518,What are the theoretical implications of paying credit card balances with another credit card?
+q_bba95a0c50bb2b65,dev,m1,0,0,5.875,5.345,588,688,344,50,88,18,17.3,66.56,1316.53,1383.08,8.516,Is harmony gold mining company's stock price different on the NYSE and JSE?
+q_bba95a0c50bb2b65,dev,se-0.2,0,1,5.875,5.345,515,520,260,2,79,18,17.31,66.11,1310.55,1376.66,8.507,Is harmony gold mining company's stock price different on the NYSE and JSE?
+q_bba95a0c50bb2b65,dev,m0,0,2,5.875,5.345,588,592,296,2,88,18,17.39,66.08,1314.13,1380.21,8.511,Is harmony gold mining company's stock price different on the NYSE and JSE?
+q_bba95a0c50bb2b65,dev,padzero,0,3,5.875,5.345,588,3000,1500,1206,88,17,17.63,309.45,1240.08,1549.53,8.879,Is harmony gold mining companies stock price different on the NYSE and JSE?
+q_bba95a0c50bb2b65,dev,se,0,4,5.875,5.345,535,536,268,0,82,18,17.23,66.25,1314.24,1380.48,8.508,Is harmony gold mining company's stock price different on the NYSE and JSE?
+q_bba95a0c50bb2b65,dev,full30,0,5,5.875,5.345,588,3000,1500,1206,88,17,17.96,310.76,1239.29,1550.05,8.879,Is harmony gold mining companies stock price different on the NYSE and JSE?
+q_575e9577d577257b,dev,se-0.2,0,0,6.125,5.525,533,536,268,1,81,18,17.35,66.1,1309.24,1375.34,8.508,What are the potential consequences of the USA's credit rating being downgraded?
+q_575e9577d577257b,dev,m1,0,1,6.125,5.525,613,720,360,53,91,18,17.53,66.33,1315.13,1381.46,8.519,What are the potential consequences of the USA's credit rating being downgraded?
+q_575e9577d577257b,dev,padzero,0,2,6.125,5.525,613,3000,1500,1193,91,18,18.0,311.09,1317.77,1628.87,8.879,What are the potential consequences of the USA's credit rating being downgraded?
+q_575e9577d577257b,dev,se,0,3,6.125,5.525,553,560,280,3,84,18,18.13,67.02,1309.27,1376.29,8.509,What are the potential consequences of the USA's credit rating being downgraded?
+q_575e9577d577257b,dev,full30,0,4,6.125,5.525,613,3000,1500,1193,91,18,17.89,310.74,1314.83,1625.57,8.879,What are the potential consequences of the USA's credit rating being downgraded?
+q_575e9577d577257b,dev,m0,0,5,6.125,5.525,613,616,308,1,91,18,17.58,66.9,1316.08,1382.98,8.512,What are the potential consequences of the USA's credit rating being downgraded?
+q_236bb02e0972054e,dev,full30,0,0,7.725,7.145,773,3000,1500,1113,111,24,17.88,310.91,1758.36,2069.27,8.879,"When should geometric mean be used instead of arithmetic mean, and why is it more appropriate for percentages?"
+q_236bb02e0972054e,dev,se,0,1,7.725,7.145,715,720,360,2,104,24,17.56,66.56,1762.16,1828.72,8.519,"When should geometric mean be used instead of arithmetic mean, and why is it more appropriate for percentages?"
+q_236bb02e0972054e,dev,padzero,0,2,7.725,7.145,773,3000,1500,1113,111,24,17.71,310.17,1762.01,2072.18,8.879,"When should geometric mean be used instead of arithmetic mean, and why is it more appropriate for percentages?"
+q_236bb02e0972054e,dev,m1,0,3,7.725,7.145,773,880,440,53,111,24,17.41,82.54,1761.68,1844.22,8.531,"When should geometric mean be used instead of arithmetic mean, and why is it more appropriate for percentages?"
+q_236bb02e0972054e,dev,m0,0,4,7.725,7.145,773,776,388,1,111,24,17.49,79.63,1761.58,1841.22,8.523,"When should geometric mean be used instead of arithmetic mean, and why is it more appropriate for percentages?"
+q_236bb02e0972054e,dev,se-0.2,0,5,7.725,7.145,695,696,348,0,102,24,17.54,66.48,1768.48,1834.97,8.518,"When should geometric mean be used instead of arithmetic mean, and why is it more appropriate for percentages?"
+q_53c401f8583ef532,dev,se-0.2,0,0,6.675,6.105,591,592,296,0,89,21,17.54,66.32,1534.42,1600.73,8.511,"Are REITs a viable option for generating passive income, and what are the pros and cons?"
+q_53c401f8583ef532,dev,m1,0,1,6.675,6.105,668,768,384,50,98,21,17.39,67.26,1535.8,1603.07,8.523,"Are REITs a viable option for generating passive income, and what are the pros and cons?"
+q_53c401f8583ef532,dev,padzero,0,2,6.675,6.105,668,3000,1500,1166,98,21,17.63,310.73,1539.82,1850.55,8.879,"Are REITs a viable option for generating passive income, and what are the pros and cons?"
+q_53c401f8583ef532,dev,se,0,3,6.675,6.105,611,616,308,2,91,21,17.3,66.45,1535.9,1602.35,8.512,"Are REITs a viable option for generating passive income, and what are the pros and cons?"
+q_53c401f8583ef532,dev,m0,0,4,6.675,6.105,668,672,336,2,98,21,17.41,66.39,1539.08,1605.47,8.515,"Are REITs a viable option for generating passive income, and what are the pros and cons?"
+q_53c401f8583ef532,dev,full30,0,5,6.675,6.105,668,3000,1500,1166,98,21,18.88,311.0,1540.29,1851.29,8.879,"Are REITs a viable option for generating passive income, and what are the pros and cons?"
+q_cb61d17cb90968de,dev,m1,0,0,5.1,4.495,510,616,308,53,78,14,19.07,66.57,1019.25,1085.82,8.512,What are the advantages and disadvantages of having a pension plan?
+q_cb61d17cb90968de,dev,full30,0,1,5.1,4.495,510,3000,1500,1245,78,14,17.17,310.18,1023.75,1333.93,8.879,What are the advantages and disadvantages of having a pension plan?
+q_cb61d17cb90968de,dev,padzero,0,2,5.1,4.495,510,3000,1500,1245,78,14,17.96,310.9,1019.92,1330.82,8.879,What are the advantages and disadvantages of having a pension plan?
+q_cb61d17cb90968de,dev,se-0.2,0,3,5.1,4.495,430,432,216,1,68,14,17.48,65.1,1016.95,1082.05,8.502,What are the advantages and disadvantages of having a pension plan?
+q_cb61d17cb90968de,dev,m0,0,4,5.1,4.495,510,512,256,1,78,14,17.33,65.33,1022.78,1088.11,8.504,What are the advantages and disadvantages of having a pension plan?
+q_cb61d17cb90968de,dev,se,0,5,5.1,4.495,450,456,228,3,71,14,17.42,65.25,1018.27,1083.52,8.503,What are the advantages and disadvantages of having a pension plan?
+q_eda9e6976c4135b0,dev,se,0,0,5.125,4.665,467,472,236,2,73,14,17.31,65.29,1017.74,1083.03,8.503,How is the PE ratio calculated for a company with negative earnings?
+q_eda9e6976c4135b0,dev,m0,0,1,5.125,4.665,513,520,260,3,79,14,17.35,66.29,1020.48,1086.77,8.507,How is the PE ratio calculated for a company with negative earnings?
+q_eda9e6976c4135b0,dev,full30,0,2,5.125,4.665,513,3000,1500,1243,79,15,21.98,310.88,1092.35,1403.23,8.879,How is the P E ratio calculated for a company with negative earnings?
+q_eda9e6976c4135b0,dev,padzero,0,3,5.125,4.665,513,3000,1500,1243,79,14,18.86,311.06,1019.46,1330.52,8.879,How is the PE ratio calculated for a company with negative earnings?
+q_eda9e6976c4135b0,dev,se-0.2,0,4,5.125,4.665,447,448,224,0,71,14,17.69,65.16,1017.65,1082.81,8.502,How is the PE ratio calculated for a company with negative earnings?
+q_eda9e6976c4135b0,dev,m1,0,5,5.125,4.665,513,616,308,51,79,14,17.32,66.32,1019.97,1086.29,8.512,How is the PE ratio calculated for a company with negative earnings?
+q_754d65c473d57184,dev,se-0.2,0,0,6.3,5.755,556,560,280,2,84,15,17.89,66.32,1091.91,1158.23,8.509,Does granting employees stock options encourage long term investment in the company?
+q_754d65c473d57184,dev,padzero,0,1,6.3,5.755,630,3000,1500,1185,93,15,17.63,310.07,1099.23,1409.3,8.879,Does granting employees stock options encourage long term investment in the company?
+q_754d65c473d57184,dev,m1,0,2,6.3,5.755,630,736,368,53,93,15,17.35,66.48,1095.54,1162.02,8.52,Does granting employees stock options encourage long term investment in the company?
+q_754d65c473d57184,dev,se,0,3,6.3,5.755,576,576,288,0,87,15,17.27,66.16,1093.64,1159.81,8.51,Does granting employees stock options encourage long term investment in the company?
+q_754d65c473d57184,dev,full30,0,4,6.3,5.755,630,3000,1500,1185,93,15,17.42,310.16,1097.6,1407.76,8.879,Does granting employees stock options encourage long term investment in the company?
+q_754d65c473d57184,dev,m0,0,5,6.3,5.755,630,632,316,1,93,15,17.39,66.45,1095.78,1162.23,8.514,Does granting employees stock options encourage long term investment in the company?
+q_a8ea5a4d5297476b,dev,full30,0,0,4.975,4.455,498,3000,1500,1251,77,12,17.71,310.02,873.63,1183.65,8.879,What are the tax implications of earning self employment income?
+q_a8ea5a4d5297476b,dev,padzero,0,1,4.975,4.455,498,3000,1500,1251,77,12,17.64,310.59,875.05,1185.64,8.879,What are the tax implications of earning self employment income?
+q_a8ea5a4d5297476b,dev,m0,0,2,4.975,4.455,498,504,252,3,77,12,17.2,65.16,873.21,938.37,8.504,What are the tax implications of earning self employment income?
+q_a8ea5a4d5297476b,dev,se,0,3,4.975,4.455,446,448,224,1,70,13,17.16,65.25,946.59,1011.84,8.502,What are the tax implications of earning self-employment income?
+q_a8ea5a4d5297476b,dev,m1,0,4,4.975,4.455,498,600,300,51,77,12,18.04,66.14,873.14,939.28,8.511,What are the tax implications of earning self employment income?
+q_a8ea5a4d5297476b,dev,se-0.2,0,5,4.975,4.455,426,432,216,3,68,13,17.31,65.21,948.43,1013.64,8.502,What are the tax implications of earning self-employment income?
+q_d551e7d90e93f173,dev,full30,0,0,6.2,5.475,620,3000,1500,1190,92,17,17.46,311.32,1242.6,1553.92,8.879,Why is short selling regarded as a more sophisticated strategy compared to a straightforward buy?
+q_d551e7d90e93f173,dev,se-0.2,0,1,6.2,5.475,528,528,264,0,81,17,17.46,66.23,1237.26,1303.5,8.507,Why is short selling regarded as a more sophisticated strategy compared to a straightforward bar?
+q_d551e7d90e93f173,dev,padzero,0,2,6.2,5.475,620,3000,1500,1190,92,17,17.62,311.93,1242.26,1554.19,8.879,Why is short selling regarded as a more sophisticated strategy compared to a straightforward buy?
+q_d551e7d90e93f173,dev,m0,0,3,6.2,5.475,620,624,312,2,92,17,17.22,66.49,1245.87,1312.36,8.513,Why is short selling regarded as a more sophisticated strategy compared to a straightforward buy?
+q_d551e7d90e93f173,dev,se,0,4,6.2,5.475,548,552,276,2,83,17,18.96,67.22,1241.11,1308.32,8.508,Why is short selling regarded as a more sophisticated strategy compared to a straightforward buy?
+q_d551e7d90e93f173,dev,m1,0,5,6.2,5.475,620,720,360,50,92,17,17.62,66.47,1242.83,1309.3,8.519,Why is short selling regarded as a more sophisticated strategy compared to a straightforward buy?
+q_118787619d2fa03e,dev,padzero,0,0,4.45,3.955,445,3000,1500,1277,70,14,17.64,310.33,1019.56,1329.89,8.879,What were the prices of the long term bond index before two thousand
+q_118787619d2fa03e,dev,se,0,1,4.45,3.955,396,400,200,2,64,14,17.15,65.42,1018.06,1083.49,8.499,What were the prices of the long term bond index before two thousand
+q_118787619d2fa03e,dev,m0,0,2,4.45,3.955,445,448,224,1,70,14,17.25,65.28,1023.05,1088.33,8.502,What were the prices of the long term bond index before two thousand
+q_118787619d2fa03e,dev,se-0.2,0,3,4.45,3.955,376,376,188,0,62,14,17.32,65.14,1018.27,1083.41,8.499,What were the prices of the long term bond index before two thousand
+q_118787619d2fa03e,dev,m1,0,4,4.45,3.955,445,552,276,53,70,14,17.25,66.11,1020.41,1086.52,8.508,What were the prices of the long term bond index before two thousand
+q_118787619d2fa03e,dev,full30,0,5,4.45,3.955,445,3000,1500,1277,70,14,17.09,310.51,1019.94,1330.45,8.879,What were the prices of the long term bond index before two thousand
+q_e12507fff4f941cd,dev,padzero,0,0,5.95,5.405,595,3000,1500,1202,89,19,17.73,311.14,1390.9,1702.04,8.879,How can I determine whether to pursue a master's degree if it means taking on debt?
+q_e12507fff4f941cd,dev,m1,0,1,5.95,5.405,595,696,348,50,89,19,17.34,66.47,1388.06,1454.53,8.518,How can I determine whether to pursue a master's degree if it means taking on debt?
+q_e12507fff4f941cd,dev,m0,0,2,5.95,5.405,595,600,300,2,89,19,17.32,66.02,1389.23,1455.25,8.511,How can I determine whether to pursue a master's degree if it means taking on debt?
+q_e12507fff4f941cd,dev,se,0,3,5.95,5.405,541,544,272,1,82,19,17.37,66.21,1386.81,1453.03,8.508,How can I determine whether to pursue a master's degree if it means taking on debt?
+q_e12507fff4f941cd,dev,full30,0,4,5.95,5.405,595,3000,1500,1202,89,19,17.28,311.07,1389.81,1700.88,8.879,How can I determine whether to pursue a master's degree if it means taking on debt?
+q_e12507fff4f941cd,dev,se-0.2,0,5,5.95,5.405,521,528,264,3,80,19,17.34,67.65,1382.53,1450.19,8.507,How can I determine whether to pursue a master's degree if it means taking on debt?
+q_66b53aca3ab4ed3a,dev,se-0.2,0,0,5.375,4.645,445,448,224,1,70,15,17.4,65.3,1091.79,1157.09,8.502,Where can I purchase stocks with small incremental investments without active trading?
+q_66b53aca3ab4ed3a,dev,m1,0,1,5.375,4.645,538,640,320,51,82,15,17.85,66.28,1094.68,1160.97,8.514,Where can I purchase stocks with small incremental investments without active trading?
+q_66b53aca3ab4ed3a,dev,se,0,2,5.375,4.645,465,472,236,3,73,15,17.36,65.32,1090.62,1155.94,8.503,Where can I purchase stocks with small incremental investments without active trading?
+q_66b53aca3ab4ed3a,dev,padzero,0,3,5.375,4.645,538,3000,1500,1231,82,15,17.62,310.52,1094.45,1404.97,8.879,Where can I purchase stocks with small incremental investments without active trading?
+q_66b53aca3ab4ed3a,dev,m0,0,4,5.375,4.645,538,544,272,3,82,15,19.5,66.13,1093.17,1159.31,8.508,Where can I purchase stocks with small incremental investments without active trading?
+q_66b53aca3ab4ed3a,dev,full30,0,5,5.375,4.645,538,3000,1500,1231,82,15,17.11,310.53,1096.52,1407.06,8.879,Where can I purchase stocks with small incremental investments without active trading?
+q_690ac29257262a58,dev,se,0,0,2.4,1.835,184,184,92,0,38,6,17.3,65.57,438.64,504.22,8.492,Getting started with investing.
+q_690ac29257262a58,dev,full30,0,1,2.4,1.835,240,3000,1500,1380,45,6,17.18,311.56,436.23,747.79,8.879,Getting started with investing.
+q_690ac29257262a58,dev,m0,0,2,2.4,1.835,240,240,120,0,45,6,17.14,65.02,437.23,502.25,8.493,Getting started with investing.
+q_690ac29257262a58,dev,padzero,0,3,2.4,1.835,240,3000,1500,1380,45,6,17.3,311.32,436.34,747.66,8.879,Getting started with investing.
+q_690ac29257262a58,dev,m1,0,4,2.4,1.835,240,344,172,52,45,6,17.14,65.49,437.75,503.23,8.497,Getting started with investing.
+q_690ac29257262a58,dev,se-0.2,0,5,2.4,1.835,164,168,84,2,35,6,16.68,65.45,436.77,502.21,8.491,Getting started with investment.
+q_dfb0f82726831c78,dev,padzero,0,0,5.175,4.735,518,3000,1500,1241,79,12,17.72,310.08,876.7,1186.78,8.879,Does implied volatility typically increase as earnings announcements approach?
+q_dfb0f82726831c78,dev,m0,0,1,5.175,4.735,518,520,260,1,79,12,17.11,66.39,875.35,941.74,8.507,Does implied volatility typically increase as earnings announcements approach?
+q_dfb0f82726831c78,dev,se-0.2,0,2,5.175,4.735,454,456,228,1,71,12,17.28,65.21,872.2,937.42,8.503,Does implied volatility typically increase as earnings announcements approach?
+q_dfb0f82726831c78,dev,se,0,3,5.175,4.735,474,480,240,3,74,12,17.35,65.36,873.12,938.48,8.503,Does implied volatility typically increase as earnings announcements approach?
+q_dfb0f82726831c78,dev,full30,0,4,5.175,4.735,518,3000,1500,1241,79,12,17.3,309.9,873.55,1183.45,8.879,Does implied volatility typically increase as earnings announcements approach?
+q_dfb0f82726831c78,dev,m1,0,5,5.175,4.735,518,624,312,53,79,12,23.01,66.53,873.35,939.88,8.513,Does implied volatility typically increase as earnings announcements approach?
+q_94efba4b07bc12eb,dev,se-0.2,0,0,7.0,6.505,631,632,316,0,94,23,18.31,67.37,1680.17,1747.54,8.514,"I am starting a hedge fund. What does that entail, given my specific, simple investment thesis?"
+q_94efba4b07bc12eb,dev,full30,0,1,7.0,6.505,700,3000,1500,1150,102,23,17.95,310.3,1684.93,1995.24,8.879,"I am starting a hedge fund. What does that entail, given my specific, simple investment thesis?"
+q_94efba4b07bc12eb,dev,se,0,2,7.0,6.505,651,656,328,2,96,23,18.01,66.31,1681.51,1747.82,8.514,"I am starting a hedge fund. What does that entail, given my specific, simple investment thesis?"
+q_94efba4b07bc12eb,dev,m1,0,3,7.0,6.505,700,800,400,50,102,23,18.33,78.71,1683.54,1762.25,8.524,"I'm starting a hedge fund. What does that entail, given my specific, simple investment thesis?"
+q_94efba4b07bc12eb,dev,padzero,0,4,7.0,6.505,700,3000,1500,1150,102,23,17.84,310.47,1682.95,1993.42,8.879,"I am starting a hedge fund. What does that entail, given my specific, simple investment thesis?"
+q_94efba4b07bc12eb,dev,m0,0,5,7.0,6.505,700,704,352,2,102,23,17.54,66.25,1717.82,1784.07,8.518,"I'm starting a hedge fund. What does that entail, given my specific, simple investment thesis?"
+q_9c6796cffb5cb7ed,dev,full30,0,0,5.8,5.285,580,3000,1500,1210,87,20,17.53,312.25,1457.49,1769.74,8.879,Is it permissible to utilize funds from a Roth IRA to launch a business venture?
+q_9c6796cffb5cb7ed,dev,m0,0,1,5.8,5.285,580,584,292,2,87,20,17.51,66.12,1456.97,1523.09,8.511,Is it permissible to utilize funds from a Roth IRA to launch a business venture?
+q_9c6796cffb5cb7ed,dev,padzero,0,2,5.8,5.285,580,3000,1500,1210,87,20,17.58,311.3,1462.06,1773.36,8.879,Is it permissible to utilize funds from a Roth IRA to launch a business venture?
+q_9c6796cffb5cb7ed,dev,se-0.2,0,3,5.8,5.285,509,512,256,1,78,20,17.27,65.25,1456.19,1521.44,8.504,Is it permissible to utilize funds from a Roth IRA to launch a business venture?
+q_9c6796cffb5cb7ed,dev,m1,0,4,5.8,5.285,580,680,340,50,87,20,17.38,66.39,1461.61,1527.99,8.516,Is it permissible to utilize funds from a Roth IRA to launch a business venture?
+q_9c6796cffb5cb7ed,dev,se,0,5,5.8,5.285,529,536,268,3,81,20,17.44,66.11,1458.43,1524.53,8.508,Is it permissible to utilize funds from a Roth IRA to launch a business venture?
+q_7c75f7cf3f7b7223,dev,m0,0,0,5.625,5.085,563,568,284,2,85,20,17.49,66.18,1456.52,1522.69,8.511,"What are the ETFs with no transaction fees, and what are their potential drawbacks?"
+q_7c75f7cf3f7b7223,dev,padzero,0,1,5.625,5.085,563,3000,1500,1218,85,20,17.51,310.05,1461.8,1771.85,8.879,"What are the ETFs with no transaction fees, and what are their potential drawbacks?"
+q_7c75f7cf3f7b7223,dev,se,0,2,5.625,5.085,509,512,256,1,78,20,18.09,65.49,1453.4,1518.89,8.504,"What are the ETFs with no transaction fees, and what are their potential drawbacks?"
+q_7c75f7cf3f7b7223,dev,full30,0,3,5.625,5.085,563,3000,1500,1218,85,20,17.76,310.38,1456.36,1766.74,8.879,"What are the ETFs with no transaction fees, and what are their potential drawbacks?"
+q_7c75f7cf3f7b7223,dev,m1,0,4,5.625,5.085,563,664,332,50,85,20,17.36,66.29,1458.16,1524.45,8.515,"What are the ETFs with no transaction fees, and what are their potential drawbacks?"
+q_7c75f7cf3f7b7223,dev,se-0.2,0,5,5.625,5.085,489,496,248,3,76,20,17.34,65.36,1604.96,1670.32,8.504,"What are the ETFs with no transaction fees, and what are their potential drawbacks?"
+q_1b8414b3d92627d3,dev,full30,0,0,4.825,4.195,483,3000,1500,1258,75,14,83.72,310.99,1017.14,1328.13,8.879,How is stamp duty calculated in the Northern Territory of Australia?
+q_1b8414b3d92627d3,dev,se-0.2,0,1,4.825,4.195,400,400,200,0,65,14,17.26,65.2,1017.47,1082.67,8.499,How is stamp duty calculated in the Northern Territory of Australia?
+q_1b8414b3d92627d3,dev,m1,0,2,4.825,4.195,483,584,292,50,75,14,18.31,66.28,1017.57,1083.85,8.511,How is stamp duty calculated in the Northern Territory of Australia?
+q_1b8414b3d92627d3,dev,m0,0,3,4.825,4.195,483,488,244,2,75,14,17.29,65.2,1019.17,1084.37,8.503,How is stamp duty calculated in the Northern Territory of Australia?
+q_1b8414b3d92627d3,dev,padzero,0,4,4.825,4.195,483,3000,1500,1258,75,14,17.93,310.61,1018.41,1329.02,8.879,How is stamp duty calculated in the Northern Territory of Australia?
+q_1b8414b3d92627d3,dev,se,0,5,4.825,4.195,420,424,212,2,67,14,17.18,65.29,1017.84,1083.13,8.502,How is stamp duty calculated in the Northern Territory of Australia?
+q_a756969099a5c91a,dev,m1,0,0,4.625,3.895,463,568,284,52,73,16,17.44,65.95,1162.41,1228.36,8.511,What are the best alternatives to an individual savings account? I S A.
+q_a756969099a5c91a,dev,se-0.2,0,1,4.625,3.895,370,376,188,3,61,12,17.25,64.98,872.21,937.2,8.499,What are the best alternatives to an individual savings account?
+q_a756969099a5c91a,dev,m0,0,2,4.625,3.895,463,464,232,0,73,16,17.24,65.09,1164.14,1229.23,8.503,What are the best alternatives to an individual savings account? I S A.
+q_a756969099a5c91a,dev,padzero,0,3,4.625,3.895,463,3000,1500,1268,73,16,17.48,310.64,1163.36,1474.0,8.879,What are the best alternatives to an individual savings account? I S A.
+q_a756969099a5c91a,dev,full30,0,4,4.625,3.895,463,3000,1500,1268,73,16,17.09,310.55,1162.56,1473.11,8.879,What are the best alternatives to an individual savings account? I S A.
+q_a756969099a5c91a,dev,se,0,5,4.625,3.895,390,392,196,1,63,16,17.24,65.63,1162.5,1228.13,8.499,"What are the best alternatives to an individual savings account, I S A?"
+q_3c305034a907bff9,dev,m1,0,0,6.75,6.285,675,776,388,50,99,18,18.0,78.34,1319.26,1397.6,8.523,"What are the characteristics of OTC markets, including trading hours and associated time factors?"
+q_3c305034a907bff9,dev,full30,0,1,6.75,6.285,675,3000,1500,1162,99,18,18.71,310.81,1971.21,2282.02,8.879,"What are the characteristics of OTC markets, including trading hours and associated time factors?"
+q_3c305034a907bff9,dev,padzero,0,2,6.75,6.285,675,3000,1500,1162,99,18,10974.26,1353.33,1760.26,3113.59,8.879,"What are the characteristics of OTC markets, including trading hours and associated time factors?"
+q_3c305034a907bff9,dev,se-0.2,0,3,6.75,6.285,609,616,308,3,91,18,533.28,71.73,1316.3,1388.03,8.512,"What are the characteristics of OTC markets, including trading hours and associated time factors?"
+q_3c305034a907bff9,dev,m0,0,4,6.75,6.285,675,680,340,2,99,18,17.33,66.34,1319.77,1386.11,8.516,"What are the characteristics of OTC markets, including trading hours and associated time factors?"
+q_3c305034a907bff9,dev,se,0,5,6.75,6.285,629,632,316,1,93,18,17.39,66.89,1318.06,1384.95,8.514,"What are the characteristics of OTC markets, including trading hours and associated time factors?"
+q_88e135fa82ca9d35,dev,se-0.2,0,0,2.9,2.235,204,208,104,2,40,9,23.62,501.79,655.71,1157.5,8.492,How do I update my mailing address?
+q_88e135fa82ca9d35,dev,m1,0,1,2.9,2.235,290,392,196,51,51,9,17.14,65.45,655.59,721.04,8.499,How do I update my mailing address?
+q_88e135fa82ca9d35,dev,padzero,0,2,2.9,2.235,290,3000,1500,1355,51,9,17.41,305.53,659.35,964.88,8.879,How do I update my mailing address?
+q_88e135fa82ca9d35,dev,se,0,3,2.9,2.235,224,224,112,0,43,9,16.93,66.1,655.3,721.4,8.493,How do I update my mailing address?
+q_88e135fa82ca9d35,dev,m0,0,4,2.9,2.235,290,296,148,3,51,9,17.02,64.93,655.2,720.13,8.497,How do I update my mailing address?
+q_88e135fa82ca9d35,dev,full30,0,5,2.9,2.235,290,3000,1500,1355,51,9,17.12,305.99,657.21,963.21,8.879,How do I update my mailing address?
+q_b81e42cba4ba2821,dev,se-0.2,0,0,6.65,6.195,600,600,300,0,90,18,22.3,66.54,1319.34,1385.88,8.511,"What impact does a strong US dollar have on the Canadian economy, investors and consumers?"
+q_b81e42cba4ba2821,dev,m0,0,1,6.65,6.195,665,672,336,3,98,21,19.19,66.59,1540.76,1607.35,8.515,"What impact does a strong U.S. dollar have on the Canadian economy, investors, and consumers?"
+q_b81e42cba4ba2821,dev,m1,0,2,6.65,6.195,665,768,384,51,98,19,41.96,66.95,1395.1,1462.05,8.523,"What impact does a strong US dollar have on the Canadian economy, investors, and consumers?"
+q_b81e42cba4ba2821,dev,se,0,3,6.65,6.195,620,624,312,2,92,18,17.5,66.15,1319.91,1386.06,8.513,"What impact does a strong US dollar have on the Canadian economy, investors and consumers?"
+q_b81e42cba4ba2821,dev,padzero,0,4,6.65,6.195,665,3000,1500,1167,98,18,18.08,306.89,1320.12,1627.01,8.879,"What impact does a strong US dollar have on the Canadian economy, investors and consumers?"
+q_b81e42cba4ba2821,dev,full30,0,5,6.65,6.195,665,3000,1500,1167,98,19,17.2,306.64,1398.7,1705.34,8.879,"What impact does a strong US dollar have on the Canadian economy, investors, and consumers?"
+q_5fd3ef2ef4264738,dev,m1,0,0,6.325,5.605,633,736,368,51,94,22,17.5,66.57,1614.14,1680.71,8.52,"Where should I allocate my funds next? Savings, investments, retirement, or paying off my mortgage?"
+q_5fd3ef2ef4264738,dev,se-0.2,0,1,6.325,5.605,541,544,272,1,82,22,17.48,66.22,1606.34,1672.56,8.508,"Where should I allocate my funds next? Savings, investments, retirement, or paying off my mortgage?"
+q_5fd3ef2ef4264738,dev,m0,0,2,6.325,5.605,633,640,320,3,94,22,17.41,66.77,1614.55,1681.32,8.514,"Where should I allocate my funds next? Savings, investments, retirement, or paying off my mortgage?"
+q_5fd3ef2ef4264738,dev,full30,0,3,6.325,5.605,633,3000,1500,1183,94,22,17.37,307.03,1613.81,1920.85,8.879,"Where should I allocate my funds next? Savings, investments, retirement, or paying off my mortgage?"
+q_5fd3ef2ef4264738,dev,se,0,4,6.325,5.605,561,568,284,3,85,22,17.37,66.29,1606.95,1673.25,8.511,"Where should I allocate my funds next? Savings, investments, retirement, or paying off my mortgage?"
+q_5fd3ef2ef4264738,dev,padzero,0,5,6.325,5.605,633,3000,1500,1183,94,22,17.72,306.68,1610.34,1917.02,8.879,"Where should I allocate my funds next? Savings, investments, retirement, or paying off my mortgage?"
+q_9b0131c74d426d1e,dev,m1,0,0,7.1,6.535,710,816,408,53,103,22,17.7,79.22,1611.85,1691.06,8.526,"Will keeping our current home, second property, as a rental affect our ability to purchase a third home?"
+q_9b0131c74d426d1e,dev,m0,0,1,7.1,6.535,710,712,356,1,103,22,17.5,66.55,1616.42,1682.97,8.519,"Will keeping our current home, second property, as a rental affect our ability to purchase a third home?"
+q_9b0131c74d426d1e,dev,se,0,2,7.1,6.535,654,656,328,1,96,22,19.24,67.36,1611.75,1679.1,8.514,"Will keeping our current home, second property, as a rental affect our ability to purchase a third home?"
+q_9b0131c74d426d1e,dev,se-0.2,0,3,7.1,6.535,634,640,320,3,94,22,218.14,103.95,1635.61,1739.56,8.514,"Will keeping our current home, second property, as a rental affect our ability to purchase a third home?"
+q_9b0131c74d426d1e,dev,full30,0,4,7.1,6.535,710,3000,1500,1145,103,22,17.58,307.37,1615.03,1922.41,8.879,"Will keeping our current home, second property, as a rental affect our ability to purchase a third home?"
+q_9b0131c74d426d1e,dev,padzero,0,5,7.1,6.535,710,3000,1500,1145,103,22,18.79,307.81,1617.87,1925.68,8.879,"Will keeping our current home, second property, as a rental affect our ability to purchase a third home?"
+q_b681cc4c4cd62d5b,dev,se-0.2,0,0,5.7,4.975,478,480,240,1,74,18,17.28,65.47,1314.43,1379.9,8.503,Can I deduct property taxes paid for someone else's property on my income tax return?
+q_b681cc4c4cd62d5b,dev,padzero,0,1,5.7,4.975,570,3000,1500,1215,86,18,17.65,308.2,1315.88,1624.08,8.879,Can I deduct property taxes paid for someone else's property on my income tax return?
+q_b681cc4c4cd62d5b,dev,m1,0,2,5.7,4.975,570,672,336,51,86,18,17.21,66.23,1317.69,1383.92,8.515,Can I deduct property taxes paid for someone else's property on my income tax return?
+q_b681cc4c4cd62d5b,dev,se,0,3,5.7,4.975,498,504,252,3,77,18,17.41,65.35,1312.21,1377.56,8.504,Can I deduct property taxes paid for someone else's property on my income tax return?
+q_b681cc4c4cd62d5b,dev,m0,0,4,5.7,4.975,570,576,288,3,86,18,17.45,65.97,1316.32,1382.29,8.51,Can I deduct property taxes paid for someone else's property on my income tax return?
+q_b681cc4c4cd62d5b,dev,full30,0,5,5.7,4.975,570,3000,1500,1215,86,18,18.21,308.98,1316.73,1625.7,8.879,Can I deduct property taxes paid for someone else's property on my income tax return?
+q_8dad01d9871b283e,dev,padzero,0,0,6.35,5.625,635,3000,1500,1182,94,15,17.98,310.31,1097.13,1407.43,8.879,How will the new credit reporting rules impact individuals already facing financial difficulties?
+q_8dad01d9871b283e,dev,se,0,1,6.35,5.625,563,568,284,2,85,15,17.42,65.98,1094.63,1160.61,8.511,How will the new credit reporting rules impact individuals already facing financial difficulties?
+q_8dad01d9871b283e,dev,m1,0,2,6.35,5.625,635,736,368,50,94,15,17.56,66.69,1100.83,1167.52,8.52,How will the new credit reporting rules impact individuals already facing financial difficulties?
+q_8dad01d9871b283e,dev,full30,0,3,6.35,5.625,635,3000,1500,1182,94,15,17.69,308.63,1099.84,1408.47,8.879,How will the new credit reporting rules impact individuals already facing financial difficulties?
+q_8dad01d9871b283e,dev,se-0.2,0,4,6.35,5.625,543,544,272,0,83,15,17.39,66.61,1097.61,1164.23,8.508,How will the new credit reporting rules impact individuals already facing financial difficulties?
+q_8dad01d9871b283e,dev,m0,0,5,6.35,5.625,635,640,320,2,94,15,17.67,67.74,1101.78,1169.52,8.514,How will the new credit reporting rules impact individuals already facing financial difficulties?
+q_5311e750469a7f46,dev,padzero,0,0,5.725,5.175,573,3000,1500,1213,86,15,17.55,309.34,1097.66,1407.0,8.879,Is investing in income stocks for dividend payments a worthwhile strategy?
+q_5311e750469a7f46,dev,m0,0,1,5.725,5.175,573,576,288,1,86,15,17.27,66.35,1096.94,1163.28,8.51,Is investing in income stocks for dividend payments a worthwhile strategy?
+q_5311e750469a7f46,dev,se,0,2,5.725,5.175,518,520,260,1,79,15,17.44,66.27,1094.92,1161.19,8.507,Is investing in income stocks for dividend payments a worthwhile strategy?
+q_5311e750469a7f46,dev,m1,0,3,5.725,5.175,573,680,340,53,86,15,17.54,66.58,1097.2,1163.77,8.516,Is investing in income stocks for dividend payments a worthwhile strategy?
+q_5311e750469a7f46,dev,se-0.2,0,4,5.725,5.175,498,504,252,3,77,15,17.31,65.5,1095.38,1160.87,8.504,Is investing in income stocks for dividend payments a worthwhile strategy?
+q_5311e750469a7f46,dev,full30,0,5,5.725,5.175,573,3000,1500,1213,86,15,18.77,309.08,1100.2,1409.28,8.879,Is investing in income stocks for dividend payments a worthwhile strategy?
+q_6718aeb9b04f1962,dev,m1,0,0,6.925,6.335,693,800,400,53,101,19,18.69,80.11,1396.59,1476.69,8.524,What lump sum investment in stocks would be required to generate a target stable monthly income?
+q_6718aeb9b04f1962,dev,se-0.2,0,1,6.925,6.335,614,616,308,1,91,19,17.45,66.26,1393.87,1460.13,8.512,What lump sum investment in stocks would be required to generate a target stable monthly income?
+q_6718aeb9b04f1962,dev,padzero,0,2,6.925,6.335,693,3000,1500,1153,101,19,17.74,309.3,1397.33,1706.64,8.879,What lump sum investment in stocks would be required to generate a target stable monthly income?
+q_6718aeb9b04f1962,dev,se,0,3,6.925,6.335,634,640,320,3,94,19,17.46,66.39,1396.54,1462.94,8.514,What lump sum investment in stocks would be required to generate a target stable monthly income?
+q_6718aeb9b04f1962,dev,full30,0,4,6.925,6.335,693,3000,1500,1153,101,19,17.52,309.61,1399.75,1709.36,8.879,What lump sum investment in stocks would be required to generate a target stable monthly income?
+q_6718aeb9b04f1962,dev,m0,0,5,6.925,6.335,693,696,348,1,101,19,17.68,66.87,1399.13,1466.0,8.518,What lump sum investment in stocks would be required to generate a target stable monthly income?
+q_6bf9e6e1a56d73c5,dev,m0,0,0,3.275,2.595,328,328,164,0,56,9,17.25,65.31,658.43,723.73,8.497,Why do index funds have different prices?
+q_6bf9e6e1a56d73c5,dev,se,0,1,3.275,2.595,260,264,132,2,47,9,17.9,65.24,658.29,723.53,8.495,Why do index funds have different prices?
+q_6bf9e6e1a56d73c5,dev,m1,0,2,3.275,2.595,328,432,216,52,56,9,17.13,65.63,656.82,722.45,8.502,Why do index funds have different prices?
+q_6bf9e6e1a56d73c5,dev,full30,0,3,3.275,2.595,328,3000,1500,1336,56,9,17.1,309.61,658.02,967.63,8.879,Why do index funds have different prices?
+q_6bf9e6e1a56d73c5,dev,padzero,0,4,3.275,2.595,328,3000,1500,1336,56,9,17.47,309.34,660.99,970.33,8.879,Why do index funds have different prices?
+q_6bf9e6e1a56d73c5,dev,se-0.2,0,5,3.275,2.595,240,240,120,0,45,9,22.56,65.3,658.64,723.94,8.493,Why do index funds have different prices?
+q_9fff7ae6921ad2c6,dev,m0,0,0,4.7,4.155,470,472,236,1,73,15,18.21,65.56,1096.79,1162.35,8.503,Can taking out a home equity loan allow you to avoid paying tax?
+q_9fff7ae6921ad2c6,dev,full30,0,1,4.7,4.155,470,3000,1500,1265,73,15,17.93,308.75,1095.63,1404.38,8.879,Can taking out a home equity loan allow you to avoid paying tax?
+q_9fff7ae6921ad2c6,dev,m1,0,2,4.7,4.155,470,576,288,53,73,15,17.36,66.13,1095.57,1161.71,8.51,Can taking out a home equity loan allow you to avoid paying tax?
+q_9fff7ae6921ad2c6,dev,padzero,0,3,4.7,4.155,470,3000,1500,1265,73,15,17.5,310.55,1094.46,1405.01,8.879,Can taking out a home equity loan allow you to avoid paying tax?
+q_9fff7ae6921ad2c6,dev,se-0.2,0,4,4.7,4.155,396,400,200,2,64,15,17.04,65.57,1094.71,1160.28,8.499,Can taking out a home equity loan allow you to avoid paying tax?
+q_9fff7ae6921ad2c6,dev,se,0,5,4.7,4.155,416,416,208,0,67,15,17.33,65.24,1094.92,1160.16,8.502,Can taking out a home equity loan allow you to avoid paying tax?
+q_c81a4c29167773fb,dev,padzero,0,0,4.15,3.695,415,3000,1500,1292,67,12,17.6,309.45,879.06,1188.51,8.879,What should first time homeowners know about obtaining a mortgage?
+q_c81a4c29167773fb,dev,m1,0,1,4.15,3.695,415,520,260,52,67,12,17.09,66.22,875.95,942.17,8.507,What should first time homeowners know about obtaining a mortgage?
+q_c81a4c29167773fb,dev,full30,0,2,4.15,3.695,415,3000,1500,1292,67,12,17.17,309.35,878.6,1187.95,8.879,What should first time homeowners know about obtaining a mortgage?
+q_c81a4c29167773fb,dev,se-0.2,0,3,4.15,3.695,350,352,176,1,58,12,17.29,65.39,875.84,941.24,8.498,What should first time homeowners know about obtaining a mortgage?
+q_c81a4c29167773fb,dev,se,0,4,4.15,3.695,370,376,188,3,61,12,17.13,65.0,877.74,942.75,8.499,What should first time homeowners know about obtaining a mortgage?
+q_c81a4c29167773fb,dev,m0,0,5,4.15,3.695,415,416,208,0,67,12,17.16,65.37,876.61,941.97,8.502,What should first time homeowners know about obtaining a mortgage?
+q_836f963858e39c52,dev,se,0,0,6.425,5.665,567,568,284,0,86,15,17.25,66.24,1099.65,1165.89,8.511,Are there any online payment methods available in countries without international banking infrastructure?
+q_836f963858e39c52,dev,se-0.2,0,1,6.425,5.665,547,552,276,2,83,15,17.33,66.11,1094.19,1160.3,8.508,Are there any online payment methods available in countries without international banking infrastructure?
+q_836f963858e39c52,dev,full30,0,2,6.425,5.665,643,3000,1500,1178,95,15,17.33,310.39,1100.64,1411.02,8.879,Are there any online payment methods available in countries without international banking infrastructure?
+q_836f963858e39c52,dev,m1,0,3,6.425,5.665,643,744,372,50,95,15,17.43,70.64,1099.26,1169.89,8.521,Are there any online payment methods available in countries without international banking infrastructure?
+q_836f963858e39c52,dev,padzero,0,4,6.425,5.665,643,3000,1500,1178,95,15,17.71,310.58,1098.17,1408.75,8.879,Are there any online payment methods available in countries without international banking infrastructure?
+q_836f963858e39c52,dev,m0,0,5,6.425,5.665,643,648,324,2,95,15,17.25,66.34,1100.1,1166.45,8.514,Are there any online payment methods available in countries without international banking infrastructure?
+q_de7f874a20167a15,dev,se-0.2,0,0,6.075,5.535,534,536,268,1,81,14,17.43,66.52,1021.97,1088.49,8.508,What resources are available for learning about short-term stock trading strategies?
+q_de7f874a20167a15,dev,padzero,0,1,6.075,5.535,608,3000,1500,1196,91,14,17.7,310.08,1023.38,1333.47,8.879,What resources are available for learning about short term stock trading strategies?
+q_de7f874a20167a15,dev,se,0,2,6.075,5.535,554,560,280,3,84,14,17.23,66.51,1023.15,1089.67,8.509,What resources are available for learning about short term stock trading strategies?
+q_de7f874a20167a15,dev,m0,0,3,6.075,5.535,608,608,304,0,91,14,17.51,66.19,1022.78,1088.98,8.512,What resources are available for learning about short term stock trading strategies?
+q_de7f874a20167a15,dev,full30,0,4,6.075,5.535,608,3000,1500,1196,91,14,17.37,310.78,1022.26,1333.04,8.879,What resources are available for learning about short term stock trading strategies?
+q_de7f874a20167a15,dev,m1,0,5,6.075,5.535,608,712,356,52,91,14,17.4,66.43,1024.42,1090.85,8.519,What resources are available for learning about short term stock trading strategies?
+q_653a4ba74af80def,dev,padzero,0,0,5.225,4.605,523,3000,1500,1238,80,15,17.77,310.42,1099.52,1409.94,8.879,Why does having more floating shares tend to reduce a stock's volatility?
+q_653a4ba74af80def,dev,full30,0,1,5.225,4.605,523,3000,1500,1238,80,15,17.2,310.47,1095.03,1405.5,8.879,Why does having more floating shares tend to reduce a stock's volatility?
+q_653a4ba74af80def,dev,se-0.2,0,2,5.225,4.605,441,448,224,3,70,15,17.27,65.33,1092.25,1157.58,8.502,Why does having more floating shares tend to reduce a stock's volatility?
+q_653a4ba74af80def,dev,m0,0,3,5.225,4.605,523,528,264,2,80,15,17.33,66.48,1097.99,1164.47,8.507,Why does having more floating shares tend to reduce a stock's volatility?
+q_653a4ba74af80def,dev,se,0,4,5.225,4.605,461,464,232,1,72,15,17.38,65.23,1092.85,1158.07,8.503,Why does having more floating shares tend to reduce a stock's volatility?
+q_653a4ba74af80def,dev,m1,0,5,5.225,4.605,523,624,312,50,80,15,17.19,66.45,1095.03,1161.48,8.513,Why does having more floating shares tend to reduce a stock's volatility?
+q_64a524fc04d7d380,dev,full30,0,0,8.2,7.575,820,3000,1500,1090,117,20,17.47,311.11,1470.97,1782.08,8.879,What indicators can be used to identify institutional accumulation in a stock based on price and volume data?
+q_64a524fc04d7d380,dev,padzero,0,1,8.2,7.575,820,3000,1500,1090,117,20,17.81,311.79,1472.13,1783.92,8.879,What indicators can be used to identify institutional accumulation in a stock based on price and volume data?
+q_64a524fc04d7d380,dev,m1,0,2,8.2,7.575,820,920,460,50,117,20,17.86,80.54,1472.82,1553.36,8.534,What indicators can be used to identify institutional accumulation in a stock based on price and volume data?
+q_64a524fc04d7d380,dev,se-0.2,0,3,8.2,7.575,738,744,372,3,107,20,17.58,67.13,1468.37,1535.5,8.521,What indicators can be used to identify institutional accumulation in a stock based on price and volume data?
+q_64a524fc04d7d380,dev,se,0,4,8.2,7.575,758,760,380,1,109,20,17.47,67.45,1465.98,1533.43,8.522,What indicators can be used to identify institutional accumulation in a stock based on price and volume data?
+q_64a524fc04d7d380,dev,m0,0,5,8.2,7.575,820,824,412,2,117,20,17.6,81.19,1475.49,1556.69,8.526,What indicators can be used to identify institutional accumulation in a stock based on price and volume data?
+q_9ff0a37eb3d4374e,dev,full30,0,0,5.625,5.165,563,3000,1500,1218,85,18,18.1,310.55,1315.01,1625.57,8.879,What are the common ACH debit block filter rules applied to consumer bank accounts?
+q_9ff0a37eb3d4374e,dev,m1,0,1,5.625,5.165,563,664,332,50,85,18,17.34,66.52,1314.88,1381.39,8.515,What are the common ACH debit block filter rules applied to consumer bank accounts?
+q_9ff0a37eb3d4374e,dev,padzero,0,2,5.625,5.165,563,3000,1500,1218,85,18,17.54,310.31,1314.82,1625.14,8.879,What are the common ACH debit block filter rules applied to consumer bank accounts?
+q_9ff0a37eb3d4374e,dev,m0,0,3,5.625,5.165,563,568,284,2,85,18,17.34,66.3,1314.89,1381.19,8.511,What are the common ACH debit block filter rules applied to consumer bank accounts?
+q_9ff0a37eb3d4374e,dev,se,0,4,5.625,5.165,517,520,260,1,79,18,17.19,66.38,1312.64,1379.02,8.507,What are the common ACH debit block filter rules applied to consumer bank accounts?
+q_9ff0a37eb3d4374e,dev,se-0.2,0,5,5.625,5.165,497,504,252,3,77,18,17.26,65.35,1311.58,1376.93,8.504,What are the common ACH debit block filter rules applied to consumer bank accounts?
+q_91fc9afe8e04c782,dev,padzero,0,0,6.775,6.305,678,3000,1500,1161,99,20,17.65,310.12,1470.75,1780.86,8.879,"What are the key factors in determining the valuation, pricing, and analysis of financial securities?"
+q_91fc9afe8e04c782,dev,se-0.2,0,1,6.775,6.305,611,616,308,2,91,20,17.64,66.34,1467.77,1534.12,8.512,"What are the key factors in determining the valuation, pricing, and analysis of financial securities?"
+q_91fc9afe8e04c782,dev,full30,0,2,6.775,6.305,678,3000,1500,1161,99,20,17.51,310.81,1469.6,1780.41,8.879,"What are the key factors in determining the valuation, pricing, and analysis of financial securities?"
+q_91fc9afe8e04c782,dev,m0,0,3,6.775,6.305,678,680,340,1,99,20,18.87,67.39,1466.87,1534.25,8.516,"What are the key factors in determining the valuation, pricing, and analysis of financial securities?"
+q_91fc9afe8e04c782,dev,se,0,4,6.775,6.305,631,632,316,0,94,20,17.52,66.25,1468.39,1534.64,8.514,"What are the key factors in determining the valuation, pricing, and analysis of financial securities?"
+q_91fc9afe8e04c782,dev,m1,0,5,6.775,6.305,678,784,392,53,99,20,17.57,79.86,1465.19,1545.05,8.523,"What are the key factors in determining the valuation, pricing, and analysis of financial securities?"
+q_670cc29fa2307321,dev,m0,0,0,6.025,5.265,603,608,304,2,90,17,17.39,66.73,1243.24,1309.97,8.512,What systematic methods can be used to identify stocks exhibiting sideways price movement?
+q_670cc29fa2307321,dev,m1,0,1,6.025,5.265,603,704,352,50,90,17,18.86,66.76,1243.33,1310.09,8.518,What systematic methods can be used to identify stocks exhibiting sideways price movement?
+q_670cc29fa2307321,dev,se-0.2,0,2,6.025,5.265,507,512,256,2,78,17,17.34,65.38,1239.63,1305.02,8.504,What systematic methods can be used to identify stocks exhibiting sideways price movement?
+q_670cc29fa2307321,dev,full30,0,3,6.025,5.265,603,3000,1500,1198,90,17,17.83,311.1,1244.4,1555.5,8.879,What systematic methods can be used to identify stocks exhibiting sideways price movement?
+q_670cc29fa2307321,dev,padzero,0,4,6.025,5.265,603,3000,1500,1198,90,17,17.76,310.92,1245.47,1556.4,8.879,What systematic methods can be used to identify stocks exhibiting sideways price movement?
+q_670cc29fa2307321,dev,se,0,5,6.025,5.265,527,528,264,0,81,17,17.36,66.28,1239.91,1306.2,8.507,What systematic methods can be used to identify stocks exhibiting sideways price movement?
+q_52dbd70237677e73,dev,se-0.2,0,0,6.425,5.805,561,568,284,3,85,17,17.29,66.57,1243.65,1310.22,8.511,What is the historical record for the highest market capitalization achieved by any company?
+q_52dbd70237677e73,dev,se,0,1,6.425,5.805,581,584,292,1,87,17,17.37,66.62,1246.37,1312.99,8.511,What is the historical record for the highest market capitalization achieved by any company?
+q_52dbd70237677e73,dev,m1,0,2,6.425,5.805,643,744,372,50,95,17,17.47,67.08,1246.52,1313.59,8.521,What is the historical record for the highest market capitalization achieved by any company?
+q_52dbd70237677e73,dev,full30,0,3,6.425,5.805,643,3000,1500,1178,95,17,17.51,310.87,1245.34,1556.22,8.879,What is the historical record for the highest market capitalization achieved by any company?
+q_52dbd70237677e73,dev,m0,0,4,6.425,5.805,643,648,324,2,95,17,17.58,66.27,1246.63,1312.9,8.514,What is the historical record for the highest market capitalization achieved by any company?
+q_52dbd70237677e73,dev,padzero,0,5,6.425,5.805,643,3000,1500,1178,95,17,17.68,310.72,1245.93,1556.65,8.879,What is the historical record for the highest market capitalization achieved by any company?
+q_c54bc81ecb781544,dev,m0,0,0,5.05,4.505,505,512,256,3,78,11,17.19,65.29,803.26,868.55,8.504,Do US banks share financial information with foreign countries?
+q_c54bc81ecb781544,dev,se,0,1,5.05,4.505,451,456,228,2,71,11,17.29,65.29,807.02,872.3,8.503,Do US banks share financial information with foreign countries?
+q_c54bc81ecb781544,dev,padzero,0,2,5.05,4.505,505,3000,1500,1247,78,11,17.68,311.41,805.75,1117.16,8.879,Do US banks share financial information with foreign countries?
+q_c54bc81ecb781544,dev,full30,0,3,5.05,4.505,505,3000,1500,1247,78,11,17.41,311.11,802.24,1113.35,8.879,Do US banks share financial information with foreign countries?
+q_c54bc81ecb781544,dev,se-0.2,0,4,5.05,4.505,431,432,216,0,69,11,17.28,65.41,803.56,868.96,8.502,Do US banks share financial information with foreign countries?
+q_c54bc81ecb781544,dev,m1,0,5,5.05,4.505,505,608,304,51,78,11,17.37,66.18,804.26,870.44,8.512,Do US banks share financial information with foreign countries?
+q_a104e341f2ad636f,dev,m1,0,0,5.55,5.035,555,656,328,50,84,16,17.76,66.57,1170.33,1236.89,8.514,What impact does a declining US dollar have on the real estate market?
+q_a104e341f2ad636f,dev,padzero,0,1,5.55,5.035,555,3000,1500,1222,84,16,17.61,310.76,1171.43,1482.18,8.879,What impact does a declining US dollar have on the real estate market?
+q_a104e341f2ad636f,dev,se,0,2,5.55,5.035,504,504,252,0,78,16,18.88,65.47,1168.75,1234.22,8.504,What impact does a declining US dollar have on the real estate market?
+q_a104e341f2ad636f,dev,m0,0,3,5.55,5.035,555,560,280,2,84,16,17.15,66.32,1167.85,1234.17,8.509,What impact does a declining US dollar have on the real estate market?
+q_a104e341f2ad636f,dev,se-0.2,0,4,5.55,5.035,484,488,244,2,75,16,17.23,65.38,1167.1,1232.48,8.503,What impact does a declining US dollar have on the real estate market?
+q_a104e341f2ad636f,dev,full30,0,5,5.55,5.035,555,3000,1500,1222,84,16,17.15,312.31,1170.51,1482.82,8.879,What impact does a declining US dollar have on the real estate market?
+q_1a1bd6b10555ed7a,dev,se,0,0,9.175,8.645,865,872,436,3,123,25,18.33,81.32,1853.74,1935.06,8.53,"What are the tax obligations associated with inheriting assets from a trust, and how are these reported using Form K1?"
+q_1a1bd6b10555ed7a,dev,m0,0,1,9.175,8.645,918,920,460,1,129,25,17.64,80.11,1854.55,1934.66,8.534,"What are the tax obligations associated with inheriting assets from a trust, and how are these reported using Form K one?"
+q_1a1bd6b10555ed7a,dev,se-0.2,0,2,9.175,8.645,845,848,424,1,120,25,17.48,82.4,1844.14,1926.54,8.528,"What are the tax obligations associated with inheriting assets from a trust, and how are these reported using Form K1?"
+q_1a1bd6b10555ed7a,dev,full30,0,3,9.175,8.645,918,3000,1500,1041,129,25,17.58,311.2,1854.38,2165.58,8.879,"What are the tax obligations associated with inheriting assets from a trust, and how are these reported using Form K one?"
+q_1a1bd6b10555ed7a,dev,padzero,0,4,9.175,8.645,918,3000,1500,1041,129,25,18.02,311.6,1855.36,2166.95,8.879,"What are the tax obligations associated with inheriting assets from a trust, and how are these reported using Form K one?"
+q_1a1bd6b10555ed7a,dev,m1,0,5,9.175,8.645,918,1024,512,53,129,25,24.28,84.01,1849.99,1934.0,8.546,"What are the tax obligations associated with inheriting assets from a trust, and how are these reported using Form K one?"
+q_5a3a6bbe546dc2f4,dev,se-0.2,0,0,5.575,5.065,487,488,244,0,76,15,18.21,65.57,1095.81,1161.38,8.503,Can Warren Buffett's investment strategy be summarized in simple steps?
+q_5a3a6bbe546dc2f4,dev,padzero,0,1,5.575,5.065,558,3000,1500,1221,84,15,18.13,310.2,1097.07,1407.27,8.879,Can Warren Buffett's investment strategy be summarized in simple steps?
+q_5a3a6bbe546dc2f4,dev,full30,0,2,5.575,5.065,558,3000,1500,1221,84,15,17.27,310.44,1095.75,1406.19,8.879,Can Warren Buffett's investment strategy be summarized in simple steps?
+q_5a3a6bbe546dc2f4,dev,m0,0,3,5.575,5.065,558,560,280,1,84,15,17.43,66.32,1096.83,1163.15,8.509,Can Warren Buffett's investment strategy be summarized in simple steps?
+q_5a3a6bbe546dc2f4,dev,m1,0,4,5.575,5.065,558,664,332,53,84,15,17.36,66.53,1096.8,1163.33,8.515,Can Warren Buffett's investment strategy be summarized in simple steps?
+q_5a3a6bbe546dc2f4,dev,se,0,5,5.575,5.065,507,512,256,2,78,15,17.38,65.19,1093.17,1158.36,8.504,Can Warren Buffett's investment strategy be summarized in simple steps?
+q_37ada55cf3de72c5,dev,se,0,0,8.0,7.475,748,752,376,2,108,27,17.99,67.03,1988.36,2055.39,8.521,"How should I structure my pay as a sole proprietor in Ontario, and is it advisable to consult an accountant?"
+q_37ada55cf3de72c5,dev,m1,0,1,8.0,7.475,800,904,452,52,115,27,17.64,79.76,1988.19,2067.95,8.533,"How should I structure my pay as a sole proprietor in Ontario, and is it advisable to consult an accountant?"
+q_37ada55cf3de72c5,dev,padzero,0,2,8.0,7.475,800,3000,1500,1100,115,27,17.89,311.25,1990.44,2301.69,8.879,"How should I structure my pay as a sole proprietor in Ontario, and is it advisable to consult an accountant?"
+q_37ada55cf3de72c5,dev,m0,0,3,8.0,7.475,800,800,400,0,115,27,17.54,80.12,1986.92,2067.04,8.524,"How should I structure my pay as a sole proprietor in Ontario, and is it advisable to consult an accountant?"
+q_37ada55cf3de72c5,dev,se-0.2,0,4,8.0,7.475,728,728,364,0,106,27,17.39,66.47,1982.26,2048.74,8.52,"How should I structure my pay as a sole proprietor in Ontario, and is it advisable to consult an accountant?"
+q_37ada55cf3de72c5,dev,full30,0,5,8.0,7.475,800,3000,1500,1100,115,27,17.49,311.69,1986.45,2298.14,8.879,"How should I structure my pay as a sole proprietor in Ontario, and is it advisable to consult an accountant?"
+q_c6417d8dbf54e605,dev,se-0.2,0,0,3.775,3.245,305,312,156,3,53,12,17.35,65.15,872.61,937.75,8.497,What is the significance of endorsing a check?
+q_c6417d8dbf54e605,dev,padzero,0,1,3.775,3.245,378,3000,1500,1311,62,12,17.81,310.54,874.57,1185.11,8.879,What is the significance of endorsing a check?
+q_c6417d8dbf54e605,dev,m0,0,2,3.775,3.245,378,384,192,3,62,12,17.07,64.89,874.67,939.55,8.499,What is the significance of endorsing a check?
+q_c6417d8dbf54e605,dev,se,0,3,3.775,3.245,325,328,164,1,55,12,17.19,65.15,873.87,939.03,8.497,What is the significance of endorsing a check?
+q_c6417d8dbf54e605,dev,full30,0,4,3.775,3.245,378,3000,1500,1311,62,12,17.25,310.17,877.04,1187.21,8.879,What is the significance of endorsing a check?
+q_c6417d8dbf54e605,dev,m1,0,5,3.775,3.245,378,480,240,51,62,12,17.18,65.54,875.46,941.0,8.503,What is the significance of endorsing a check?
+q_a613c397a93a05eb,dev,se,0,0,4.3,3.795,380,384,192,2,62,12,17.27,65.26,877.63,942.89,8.499,Is investing in financial markets considered a form of gambling?
+q_a613c397a93a05eb,dev,padzero,0,1,4.3,3.795,430,3000,1500,1285,68,12,17.42,310.03,878.36,1188.38,8.879,Is investing in financial markets considered a form of gambling?
+q_a613c397a93a05eb,dev,m0,0,2,4.3,3.795,430,432,216,1,68,12,17.12,65.36,875.99,941.34,8.502,Is investing in financial markets considered a form of gambling?
+q_a613c397a93a05eb,dev,m1,0,3,4.3,3.795,430,536,268,53,68,12,17.26,66.25,875.92,942.17,8.508,Is investing in financial markets considered a form of gambling?
+q_a613c397a93a05eb,dev,se-0.2,0,4,4.3,3.795,360,360,180,0,60,13,17.42,65.08,948.81,1013.9,8.499,Is investing in financial markets considered a form of gamble?
+q_a613c397a93a05eb,dev,full30,0,5,4.3,3.795,430,3000,1500,1285,68,12,17.32,310.62,877.55,1188.17,8.879,Is investing in financial markets considered a form of gambling?
+q_809c499337b553ec,dev,m1,0,0,8.7,8.245,870,976,488,53,123,25,17.72,81.5,1855.39,1936.9,8.539,What are the advantages and disadvantages of investing in low cost versus high cost index funds that track the same market index?
+q_809c499337b553ec,dev,full30,0,1,8.7,8.245,870,3000,1500,1065,123,25,17.5,311.17,1851.25,2162.42,8.879,What are the advantages and disadvantages of investing in low cost versus high cost index funds that track the same market index?
+q_809c499337b553ec,dev,padzero,0,2,8.7,8.245,870,3000,1500,1065,123,25,17.83,311.51,1851.12,2162.62,8.879,What are the advantages and disadvantages of investing in low cost versus high cost index funds that track the same market index?
+q_809c499337b553ec,dev,m0,0,3,8.7,8.245,870,872,436,1,123,25,17.55,81.86,1846.29,1928.15,8.53,What are the advantages and disadvantages of investing in low cost versus high cost index funds that track the same market index?
+q_809c499337b553ec,dev,se-0.2,0,4,8.7,8.245,805,808,404,1,115,25,17.58,80.74,1843.58,1924.32,8.525,What are the advantages and disadvantages of investing in low cost versus high cost index funds that track the same market index?
+q_809c499337b553ec,dev,se,0,5,8.7,8.245,825,832,416,3,118,25,17.64,80.98,1844.34,1925.32,8.528,What are the advantages and disadvantages of investing in low cost versus high cost index funds that track the same market index?
+q_bce6195293268add,dev,m1,0,0,4.45,3.735,445,552,276,53,70,16,17.22,66.21,1165.16,1231.37,8.508,Do I need to file taxes when selling items on eBay or Amazon?
+q_bce6195293268add,dev,padzero,0,1,4.45,3.735,445,3000,1500,1277,70,16,17.54,310.57,1167.09,1477.66,8.879,Do I need to file taxes when selling items on eBay or Amazon?
+q_bce6195293268add,dev,full30,0,2,4.45,3.735,445,3000,1500,1277,70,16,17.09,311.43,1167.45,1478.88,8.879,Do I need to file taxes when selling items on eBay or Amazon?
+q_bce6195293268add,dev,m0,0,3,4.45,3.735,445,448,224,1,70,16,17.28,65.25,1166.99,1232.24,8.502,Do I need to file taxes when selling items on eBay or Amazon?
+q_bce6195293268add,dev,se-0.2,0,4,4.45,3.735,354,360,180,3,59,16,17.31,65.28,1165.77,1231.04,8.499,Do I need to file taxes when selling items on eBay or Amazon?
+q_bce6195293268add,dev,se,0,5,4.45,3.735,374,376,188,1,61,16,17.16,65.09,1167.19,1232.27,8.499,Do I need to file taxes when selling items on eBay or Amazon?
+q_93443d5a05cd57c0,dev,se,0,0,2.9,2.345,235,240,120,2,44,12,17.56,65.22,875.78,941.01,8.494,What does it mean to purchase a share of stock?
+q_93443d5a05cd57c0,dev,m0,0,1,2.9,2.345,290,296,148,3,51,12,17.09,65.22,873.96,939.18,8.497,What does it mean to purchase a share of stock?
+q_93443d5a05cd57c0,dev,padzero,0,2,2.9,2.345,290,3000,1500,1355,51,12,17.34,310.65,876.88,1187.52,8.879,What does it mean to purchase a share of stock?
+q_93443d5a05cd57c0,dev,full30,0,3,2.9,2.345,290,3000,1500,1355,51,12,16.93,308.52,876.28,1184.8,8.879,What does it mean to purchase a share of stock?
+q_93443d5a05cd57c0,dev,m1,0,4,2.9,2.345,290,392,196,51,51,12,17.83,65.37,872.92,938.29,8.499,What does it mean to purchase a share of stock?
+q_93443d5a05cd57c0,dev,se-0.2,0,5,2.9,2.345,215,216,108,0,42,12,17.09,65.21,872.53,937.74,8.493,What does it mean to purchase a share of stock?
+q_0ab841636984af0c,dev,m0,0,0,4.825,4.375,483,488,244,2,75,14,17.43,65.53,1020.73,1086.27,8.503,Is revenue the same as gross profit for an information product business?
+q_0ab841636984af0c,dev,full30,0,1,4.825,4.375,483,3000,1500,1258,75,14,17.26,310.01,1020.91,1330.92,8.879,Is revenue the same as gross profit for an information product business?
+q_0ab841636984af0c,dev,se,0,2,4.825,4.375,438,440,220,1,69,14,17.32,65.13,1021.12,1086.25,8.502,Is revenue the same as gross profit for an information product business?
+q_0ab841636984af0c,dev,m1,0,3,4.825,4.375,483,584,292,50,75,14,17.29,66.14,1017.36,1083.5,8.511,Is revenue the same as gross profit for an information product business?
+q_0ab841636984af0c,dev,padzero,0,4,4.825,4.375,483,3000,1500,1258,75,14,17.58,309.27,1021.59,1330.86,8.879,Is revenue the same as gross profit for an information product business?
+q_0ab841636984af0c,dev,se-0.2,0,5,4.825,4.375,418,424,212,3,67,14,17.21,65.43,1024.38,1089.8,8.502,Is revenue the same as gross profit for an information product business?
+q_4e26a72bfdd314a3,dev,m1,0,0,5.25,4.705,525,632,316,53,80,19,17.25,66.21,1393.74,1459.95,8.514,"How can I spend more money, also known as how to avoid being a miser."
+q_4e26a72bfdd314a3,dev,se-0.2,0,1,5.25,4.705,451,456,228,2,71,19,17.26,65.5,1387.82,1453.33,8.503,How can I spend more money? Also known as how to avoid being a miser.
+q_4e26a72bfdd314a3,dev,full30,0,2,5.25,4.705,525,3000,1500,1237,80,19,17.37,310.78,1387.64,1698.42,8.879,"How can I spend more money, also known as how to avoid being a miser."
+q_4e26a72bfdd314a3,dev,se,0,3,5.25,4.705,471,472,236,0,74,19,17.33,65.26,1382.74,1448.0,8.503,How can I spend more money? Also known as how to avoid being a miser.
+q_4e26a72bfdd314a3,dev,padzero,0,4,5.25,4.705,525,3000,1500,1237,80,19,17.59,310.49,1387.73,1698.22,8.879,"How can I spend more money, also known as how to avoid being a miser."
+q_4e26a72bfdd314a3,dev,m0,0,5,5.25,4.705,525,528,264,1,80,19,17.33,66.42,1388.91,1455.33,8.507,How can I spend more money? Also known as how to avoid being a miser.
+q_660c923c1fe765b3,dev,padzero,0,0,6.35,5.895,635,3000,1500,1182,94,25,17.53,310.92,1836.38,2147.3,8.879,"What is the purpose of the stock market? What is its purpose, and why might someone want to trade or invest?"
+q_660c923c1fe765b3,dev,se-0.2,0,1,6.35,5.895,570,576,288,3,86,25,17.33,66.24,1830.58,1896.81,8.51,"What is the purpose of the stock market? What is its purpose, and why might someone want to trade or invest?"
+q_660c923c1fe765b3,dev,full30,0,2,6.35,5.895,635,3000,1500,1182,94,25,17.4,310.16,1836.01,2146.17,8.879,"What is the purpose of the stock market? What is its purpose, and why might someone want to trade or invest?"
+q_660c923c1fe765b3,dev,m0,0,3,6.35,5.895,635,640,320,2,94,25,17.46,66.36,1834.48,1900.84,8.514,"What is the purpose of the stock market? What is its purpose, and why might someone want to trade or invest?"
+q_660c923c1fe765b3,dev,se,0,4,6.35,5.895,590,592,296,1,88,25,17.44,66.47,1833.93,1900.4,8.511,"What is the purpose of the stock market? What is its purpose, and why might someone want to trade or invest?"
+q_660c923c1fe765b3,dev,m1,0,5,6.35,5.895,635,736,368,50,94,25,17.61,66.37,1834.06,1900.43,8.52,"What is the purpose of the stock market? What is its purpose, and why might someone want to trade or invest?"
+q_f049c5a1fea3fb9c,dev,se,0,0,3.175,2.495,250,256,128,3,46,11,126.34,90.88,801.78,892.66,8.495,How do I get started with the stock market?
+q_f049c5a1fea3fb9c,dev,padzero,0,1,3.175,2.495,318,3000,1500,1341,54,11,17.44,309.61,801.16,1110.77,8.879,How do I get started with the stock market?
+q_f049c5a1fea3fb9c,dev,m1,0,2,3.175,2.495,318,424,212,53,54,11,17.04,65.2,800.19,865.39,8.502,How do I get started with the stock market?
+q_f049c5a1fea3fb9c,dev,full30,0,3,3.175,2.495,318,3000,1500,1341,54,11,16.91,309.14,802.25,1111.39,8.879,How do I get started with the stock market?
+q_f049c5a1fea3fb9c,dev,se-0.2,0,4,3.175,2.495,230,232,116,1,43,11,17.05,65.19,802.29,867.48,8.493,How do I get started with the stock market?
+q_f049c5a1fea3fb9c,dev,m0,0,5,3.175,2.495,318,320,160,1,54,11,17.17,65.32,800.74,866.06,8.497,How do I get started with the stock market?
+q_e2d93ba37d41a2fd,dev,se-0.2,0,0,4.95,4.235,404,408,204,2,65,16,17.4,65.66,1167.76,1233.41,8.5,Are credit cards with no interest if paid in full within X months worth?
+q_e2d93ba37d41a2fd,dev,full30,0,1,4.95,4.235,495,3000,1500,1252,77,17,17.4,310.08,1242.75,1552.84,8.879,Are credit cards with no interest if paid in full within X months worth it?
+q_e2d93ba37d41a2fd,dev,m0,0,2,4.95,4.235,495,496,248,0,77,17,17.31,65.34,1239.56,1304.91,8.504,Are credit cards with no interest if paid in full within X months worth it?
+q_e2d93ba37d41a2fd,dev,m1,0,3,4.95,4.235,495,600,300,52,77,17,17.25,66.35,1243.33,1309.68,8.511,Are credit cards with no interest if paid in full within X months worth it?
+q_e2d93ba37d41a2fd,dev,padzero,0,4,4.95,4.235,495,3000,1500,1252,77,17,17.6,310.49,1243.51,1554.0,8.879,Are credit cards with no interest if paid in full within X months worth it?
+q_e2d93ba37d41a2fd,dev,se,0,5,4.95,4.235,424,424,212,0,68,17,17.03,65.18,1237.28,1302.45,8.502,Are credit cards with no interest if paid in full within X months worth it?
+q_3b315cdea7a19bd1,dev,m0,0,0,4.025,3.315,403,408,204,2,65,13,17.32,65.52,949.27,1014.78,8.5,Why do people often discuss stocks that pay high dividends?
+q_3b315cdea7a19bd1,dev,padzero,0,1,4.025,3.315,403,3000,1500,1298,65,13,17.56,310.25,948.43,1258.69,8.879,Why do people often discuss stocks that pay high dividends?
+q_3b315cdea7a19bd1,dev,full30,0,2,4.025,3.315,403,3000,1500,1298,65,13,17.01,310.43,947.37,1257.79,8.879,Why do people often discuss stocks that pay high dividends?
+q_3b315cdea7a19bd1,dev,se-0.2,0,3,4.025,3.315,312,312,156,0,54,13,17.17,65.1,946.88,1011.98,8.497,Why do people often discuss stocks that pay high dividends?
+q_3b315cdea7a19bd1,dev,se,0,4,4.025,3.315,332,336,168,2,56,13,17.15,65.54,943.97,1009.51,8.497,Why do people often discuss stocks that pay high dividends?
+q_3b315cdea7a19bd1,dev,m1,0,5,4.025,3.315,403,504,252,50,65,13,17.19,65.14,946.96,1012.1,8.504,Why do people often discuss stocks that pay high dividends?
+q_a540dbc5b8799670,dev,se,0,0,7.1,6.565,657,664,332,3,97,21,17.48,66.54,1537.4,1603.94,8.515,What is the effective tax rate for working from home in Montreal for a company based in Toronto?
+q_a540dbc5b8799670,dev,full30,0,1,7.1,6.565,710,3000,1500,1145,103,21,17.42,309.95,1538.67,1848.62,8.879,What is the effective tax rate for working from home in Montreal for a company based in Toronto?
+q_a540dbc5b8799670,dev,padzero,0,2,7.1,6.565,710,3000,1500,1145,103,21,17.72,309.85,1539.56,1849.41,8.879,What is the effective tax rate for working from home in Montreal for a company based in Toronto?
+q_a540dbc5b8799670,dev,m0,0,3,7.1,6.565,710,712,356,1,103,21,20.34,66.39,1538.5,1604.89,8.519,What is the effective tax rate for working from home in Montreal for a company based in Toronto?
+q_a540dbc5b8799670,dev,m1,0,4,7.1,6.565,710,816,408,53,103,21,17.3,79.1,1537.22,1616.32,8.526,What is the effective tax rate for working from home in Montreal for a company based in Toronto?
+q_a540dbc5b8799670,dev,se-0.2,0,5,7.1,6.565,637,640,320,1,94,21,17.36,66.03,1535.5,1601.53,8.514,What is the effective tax rate for working from home in Montreal for a company based in Toronto?
+q_19fb5b8950b04606,dev,padzero,0,0,4.95,4.405,495,3000,1500,1252,77,14,17.58,310.46,1020.34,1330.8,8.879,What happens to the stock when Company A acquires Company B?
+q_19fb5b8950b04606,dev,se,0,1,4.95,4.405,441,448,224,3,70,14,17.13,65.22,1020.05,1085.27,8.502,What happens to the stock when Company A acquires Company B?
+q_19fb5b8950b04606,dev,full30,0,2,4.95,4.405,495,3000,1500,1252,77,14,17.27,310.32,1020.79,1331.11,8.879,What happens to the stock when Company A acquires Company B?
+q_19fb5b8950b04606,dev,m0,0,3,4.95,4.405,495,496,248,0,77,14,17.27,65.29,1020.46,1085.75,8.504,What happens to the stock when Company A acquires Company B?
+q_19fb5b8950b04606,dev,se-0.2,0,4,4.95,4.405,421,424,212,1,67,14,17.2,65.33,1019.64,1084.97,8.502,What happens to the stock when company A acquires company B?
+q_19fb5b8950b04606,dev,m1,0,5,4.95,4.405,495,600,300,52,77,14,17.43,66.23,1019.85,1086.08,8.511,What happens to the stock when Company A acquires Company B?
+q_348823efa903d6ce,dev,se-0.2,0,0,3.6,2.905,271,272,136,0,49,10,17.22,65.05,728.55,793.6,8.495,How does order matching function in stock exchanges?
+q_348823efa903d6ce,dev,full30,0,1,3.6,2.905,360,3000,1500,1320,60,10,17.15,310.08,731.37,1041.45,8.879,How does order matching function in stock exchanges?
+q_348823efa903d6ce,dev,m0,0,2,3.6,2.905,360,360,180,0,60,10,17.27,65.19,727.85,793.05,8.499,How does order matching function in stock exchanges?
+q_348823efa903d6ce,dev,m1,0,3,3.6,2.905,360,464,232,52,60,10,17.29,65.3,728.39,793.69,8.503,How does order matching function in stock exchanges?
+q_348823efa903d6ce,dev,se,0,4,3.6,2.905,291,296,148,2,51,10,17.24,65.21,727.77,792.99,8.497,How does order matching function in stock exchanges?
+q_348823efa903d6ce,dev,padzero,0,5,3.6,2.905,360,3000,1500,1320,60,10,17.44,309.38,728.14,1037.52,8.879,How does order matching function in stock exchanges?
+q_52dfde60d835ce82,dev,padzero,0,0,5.925,5.195,593,3000,1500,1203,89,16,17.64,310.08,1170.51,1480.58,8.879,Why do checking savings accounts offer higher interest rates than standalone savings accounts?
+q_52dfde60d835ce82,dev,m0,0,1,5.925,5.195,593,600,300,3,89,16,17.37,66.2,1168.01,1234.21,8.511,Why do checking savings accounts offer higher interest rates than standalone savings accounts?
+q_52dfde60d835ce82,dev,se,0,2,5.925,5.195,520,520,260,0,80,16,17.34,66.25,1166.45,1232.7,8.507,Why do checking savings accounts offer higher interest rates than standalone savings accounts?
+q_52dfde60d835ce82,dev,se-0.2,0,3,5.925,5.195,500,504,252,2,77,16,17.41,65.34,1165.28,1230.62,8.504,Why do checking savings accounts offer higher interest rates than standalone savings accounts?
+q_52dfde60d835ce82,dev,m1,0,4,5.925,5.195,593,696,348,51,89,16,17.17,66.37,1167.98,1234.35,8.518,Why do checking savings accounts offer higher interest rates than standalone savings accounts?
+q_52dfde60d835ce82,dev,full30,0,5,5.925,5.195,593,3000,1500,1203,89,16,17.27,308.66,1167.9,1476.55,8.879,Why do checking savings accounts offer higher interest rates than standalone savings accounts?
+q_5f1d7b60eb3c063a,dev,padzero,0,0,6.5,6.005,650,3000,1500,1175,96,27,17.65,309.75,1976.08,2285.83,8.879,"What are the pros and cons of leasing out a property or part of a property, e.g., a basement apartment?"
+q_5f1d7b60eb3c063a,dev,m1,0,1,6.5,6.005,650,752,376,51,96,27,17.34,66.76,1977.61,2044.37,8.521,"What are the pros and cons of leasing out a property or part of a property, e.g., a basement apartment?"
+q_5f1d7b60eb3c063a,dev,se,0,2,6.5,6.005,601,608,304,3,90,27,17.41,66.27,1976.96,2043.22,8.512,"What are the pros and cons of leasing out a property or part of a property, e.g., a basement apartment?"
+q_5f1d7b60eb3c063a,dev,full30,0,3,6.5,6.005,650,3000,1500,1175,96,27,17.47,310.47,1978.22,2288.69,8.879,"What are the pros and cons of leasing out a property or part of a property, e.g., a basement apartment?"
+q_5f1d7b60eb3c063a,dev,m0,0,4,6.5,6.005,650,656,328,3,96,27,17.47,66.31,1977.92,2044.22,8.514,"What are the pros and cons of leasing out a property or part of a property, e.g., a basement apartment?"
+q_5f1d7b60eb3c063a,dev,se-0.2,0,5,6.5,6.005,581,584,292,1,87,27,17.34,66.14,1974.12,2040.27,8.511,"What are the pros and cons of leasing out a property or part of a property, e.g., a basement apartment?"
+q_1e8dfc3d32a6c0e6,dev,se-0.2,0,0,3.775,3.325,313,320,160,3,54,13,17.26,65.3,946.25,1011.55,8.497,What is the estimated tax on unplanned capital gains?
+q_1e8dfc3d32a6c0e6,dev,m1,0,1,3.775,3.325,378,480,240,51,62,13,17.16,65.41,948.42,1013.83,8.503,What is the estimated tax on unplanned capital gains?
+q_1e8dfc3d32a6c0e6,dev,m0,0,2,3.775,3.325,378,384,192,3,62,13,17.25,65.32,946.68,1012.0,8.499,What is the estimated tax on unplanned capital gains?
+q_1e8dfc3d32a6c0e6,dev,full30,0,3,3.775,3.325,378,3000,1500,1311,62,13,17.17,310.62,949.96,1260.57,8.879,What is the estimated tax on unplanned capital gains?
+q_1e8dfc3d32a6c0e6,dev,se,0,4,3.775,3.325,333,336,168,1,56,13,17.18,65.18,948.5,1013.68,8.497,What is the estimated tax on unplanned capital gains?
+q_1e8dfc3d32a6c0e6,dev,padzero,0,5,3.775,3.325,378,3000,1500,1311,62,13,17.49,309.45,951.04,1260.48,8.879,What is the estimated tax on unplanned capital gains?
+q_c00595a73e659a13,dev,full30,0,0,3.85,3.275,385,3000,1500,1307,63,12,17.03,310.64,876.61,1187.25,8.879,What stocks have experienced a very high peak with one?
+q_c00595a73e659a13,dev,m0,0,1,3.85,3.275,385,392,196,3,63,12,17.2,65.46,875.84,941.3,8.499,What stocks have experienced a very high peak with one?
+q_c00595a73e659a13,dev,padzero,0,2,3.85,3.275,385,3000,1500,1307,63,12,17.39,310.69,876.01,1186.69,8.879,What stocks have experienced a very high peak with one?
+q_c00595a73e659a13,dev,se,0,3,3.85,3.275,328,328,164,0,56,12,17.04,65.24,874.97,940.21,8.497,What stocks have experienced a very high peak with one?
+q_c00595a73e659a13,dev,se-0.2,0,4,3.85,3.275,308,312,156,2,53,12,17.01,65.25,874.8,940.05,8.497,What stocks have experienced a very high peak with one?
+q_c00595a73e659a13,dev,m1,0,5,3.85,3.275,385,488,244,51,63,12,17.23,65.37,873.83,939.2,8.503,What stocks have experienced a very high peak with one?
+q_623ca02323bdcf42,dev,se-0.2,0,0,6.825,6.075,588,592,296,2,88,24,18.66,66.3,1758.0,1824.3,8.511,Do I need to check the sale volume when selling an OTC stock to avoid an NSCC a liquid charge?
+q_623ca02323bdcf42,dev,padzero,0,1,6.825,6.075,683,3000,1500,1158,100,24,17.64,309.98,1758.3,2068.28,8.879,Do I need to check the sale volume when selling an OTC stock to avoid an NSCC a liquid charge?
+q_623ca02323bdcf42,dev,m0,0,2,6.825,6.075,683,688,344,2,100,24,18.15,66.21,1756.29,1822.5,8.516,Do I need to check the sale volume when selling an OTC stock to avoid an NSCC a liquid charge?
+q_623ca02323bdcf42,dev,se,0,3,6.825,6.075,608,608,304,0,91,24,17.34,66.09,1758.13,1824.22,8.512,Do I need to check the sale volume when selling an OTC stock to avoid an NSCC a liquid charge?
+q_623ca02323bdcf42,dev,full30,0,4,6.825,6.075,683,3000,1500,1158,100,24,17.38,310.9,1762.95,2073.85,8.879,Do I need to check the sale volume when selling an OTC stock to avoid an NSCC a liquid charge?
+q_623ca02323bdcf42,dev,m1,0,5,6.825,6.075,683,784,392,50,100,24,20.94,79.54,1759.31,1838.85,8.523,Do I need to check the sale volume when selling an OTC stock to avoid an NSCC a liquid charge?
+q_b752910e1a6c0e70,dev,padzero,0,0,6.225,5.605,623,3000,1500,1188,93,19,17.68,309.63,1389.92,1699.55,8.879,"How are quarterly earnings typically announced by companies, and does the method vary by company?"
+q_b752910e1a6c0e70,dev,full30,0,1,6.225,5.605,623,3000,1500,1188,93,19,17.2,310.57,1390.26,1700.83,8.879,"How are quarterly earnings typically announced by companies, and does the method vary by company?"
+q_b752910e1a6c0e70,dev,se-0.2,0,2,6.225,5.605,541,544,272,1,82,19,17.32,66.32,1385.36,1451.67,8.508,"How are quarterly earnings typically announced by companies, and does the method vary by company?"
+q_b752910e1a6c0e70,dev,se,0,3,6.225,5.605,561,568,284,3,85,19,17.39,66.13,1386.02,1452.15,8.511,"How are quarterly earnings typically announced by companies, and does the method vary by company?"
+q_b752910e1a6c0e70,dev,m1,0,4,6.225,5.605,623,728,364,52,93,19,17.34,66.43,1389.56,1455.99,8.52,"How are quarterly earnings typically announced by companies, and does the method vary by company?"
+q_b752910e1a6c0e70,dev,m0,0,5,6.225,5.605,623,624,312,0,93,19,17.32,66.28,1388.47,1454.75,8.513,"How are quarterly earnings typically announced by companies, and does the method vary by company?"
+q_929d9f9a0e015d65,dev,full30,0,0,3.65,3.075,365,3000,1500,1317,60,9,16.98,310.58,654.21,964.79,8.879,Our mutual funds protected from default risk.
+q_929d9f9a0e015d65,dev,m0,0,1,3.65,3.075,365,368,184,1,60,9,17.14,65.17,657.94,723.11,8.499,Are mutual funds protected from default risk?
+q_929d9f9a0e015d65,dev,padzero,0,2,3.65,3.075,365,3000,1500,1317,60,9,17.4,310.05,656.56,966.61,8.879,Are mutual funds protected from default risk?
+q_929d9f9a0e015d65,dev,m1,0,3,3.65,3.075,365,472,236,53,60,9,16.99,65.52,655.07,720.59,8.503,Are mutual funds protected from default risk?
+q_929d9f9a0e015d65,dev,se-0.2,0,4,3.65,3.075,288,288,144,0,51,9,17.14,65.46,655.12,720.58,8.496,Our mutual funds protected from default risk.
+q_929d9f9a0e015d65,dev,se,0,5,3.65,3.075,308,312,156,2,53,9,17.19,65.23,656.48,721.71,8.497,Are mutual funds protected from default risk?
+q_116884719561bf18,dev,se-0.2,0,0,4.225,3.495,330,336,168,3,56,15,17.21,65.28,1096.31,1161.59,8.497,Why might a company have two listings on the same stock exchange?
+q_116884719561bf18,dev,padzero,0,1,4.225,3.495,423,3000,1500,1288,68,15,19.06,310.33,1093.82,1404.15,8.879,Why might a company have two listings on the same stock exchange?
+q_116884719561bf18,dev,full30,0,2,4.225,3.495,423,3000,1500,1288,68,15,17.12,310.17,1092.02,1402.2,8.879,Why might a company have two listings on the same stock exchange?
+q_116884719561bf18,dev,se,0,3,4.225,3.495,350,352,176,1,58,15,17.19,65.43,1089.93,1155.37,8.498,Why might a company have two listings on the same stock exchange?
+q_116884719561bf18,dev,m0,0,4,4.225,3.495,423,424,212,0,68,15,17.24,65.37,1092.25,1157.62,8.502,Why might a company have two listings on the same stock exchange?
+q_116884719561bf18,dev,m1,0,5,4.225,3.495,423,528,264,52,68,15,17.22,66.12,1093.34,1159.47,8.507,Why might a company have two listings on the same stock exchange?
+q_6f43afaa5e92dbbb,dev,full30,0,0,6.575,5.825,658,3000,1500,1171,97,21,17.57,310.33,1537.16,1847.49,8.879,How can I create a year-over-year market performance chart using the Dow Jones Index as an example?
+q_6f43afaa5e92dbbb,dev,m1,0,1,6.575,5.825,658,760,380,51,97,21,17.5,66.78,1538.89,1605.68,8.522,How can I create a year-over-year market performance chart using the Dow Jones Index as an example?
+q_6f43afaa5e92dbbb,dev,padzero,0,2,6.575,5.825,658,3000,1500,1171,97,21,17.68,310.61,1537.81,1848.42,8.879,How can I create a year-over-year market performance chart using the Dow Jones index as an example?
+q_6f43afaa5e92dbbb,dev,m0,0,3,6.575,5.825,658,664,332,3,97,21,17.41,66.56,1536.38,1602.93,8.515,How can I create a year-over-year market performance chart using the Dow Jones Index as an example?
+q_6f43afaa5e92dbbb,dev,se-0.2,0,4,6.575,5.825,563,568,284,2,85,22,17.22,66.16,1607.84,1674.0,8.511,"How can I create a year-over-year market performance chart, using the Dow Jones Index as an example?"
+q_6f43afaa5e92dbbb,dev,se,0,5,6.575,5.825,583,584,292,0,88,22,17.32,66.07,1611.66,1677.73,8.511,"How can I create a year-over-year market performance chart, using the Dow Jones index as an example?"
+q_900c4b5340b303c0,dev,se,0,0,5.675,5.235,524,528,264,2,80,15,17.39,66.19,1092.68,1158.87,8.507,What is the recommended percentage of my portfolio to allocate to individual stocks?
+q_900c4b5340b303c0,dev,se-0.2,0,1,5.675,5.235,504,504,252,0,78,15,17.46,65.34,1093.09,1158.42,8.504,What is the recommended percentage of my portfolio to allocate to individual stocks?
+q_900c4b5340b303c0,dev,m1,0,2,5.675,5.235,568,672,336,52,86,15,17.54,66.62,1095.24,1161.85,8.515,What is the recommended percentage of my portfolio to allocate to individual stocks?
+q_900c4b5340b303c0,dev,padzero,0,3,5.675,5.235,568,3000,1500,1216,86,15,17.62,310.09,1096.31,1406.4,8.879,What is the recommended percentage of my portfolio to allocate to individual stocks?
+q_900c4b5340b303c0,dev,m0,0,4,5.675,5.235,568,568,284,0,86,15,17.24,66.27,1092.97,1159.24,8.511,What is the recommended percentage of my portfolio to allocate to individual stocks?
+q_900c4b5340b303c0,dev,full30,0,5,5.675,5.235,568,3000,1500,1216,86,15,17.28,310.3,1095.25,1405.55,8.879,What is the recommended percentage of my portfolio to allocate to individual stocks?
+q_b3ba420b3fd4247e,dev,m0,0,0,7.2,6.445,720,720,360,0,105,26,17.78,66.52,1908.05,1974.56,8.519,"What do the symbols slash and represent in stock tickers, and how can I convert them for use with Yahoo Finance?"
+q_b3ba420b3fd4247e,dev,se,0,1,7.2,6.445,645,648,324,1,95,26,17.52,66.22,1907.44,1973.66,8.514,"What do the symbols slash and represent in stock tickers, and how can I convert them for use with Yahoo Finance?"
+q_b3ba420b3fd4247e,dev,padzero,0,2,7.2,6.445,720,3000,1500,1140,105,26,17.71,310.17,1908.19,2218.36,8.879,"What do the symbols slash and represent in stock tickers, and how can I convert them for use with Yahoo Finance?"
+q_b3ba420b3fd4247e,dev,full30,0,3,7.2,6.445,720,3000,1500,1140,105,26,19.6,311.1,1905.97,2217.06,8.879,"What do the symbols slash and represent in stock tickers, and how can I convert them for use with Yahoo Finance?"
+q_b3ba420b3fd4247e,dev,se-0.2,0,4,7.2,6.445,625,632,316,3,93,26,17.47,66.23,1901.18,1967.41,8.514,"What do the symbols slash and represent in stock tickers, and how can I convert them for use with Yahoo Finance?"
+q_b3ba420b3fd4247e,dev,m1,0,5,7.2,6.445,720,824,412,52,105,26,17.47,80.35,1903.53,1983.88,8.526,"What do the symbols slash and represent in stock tickers, and how can I convert them for use with Yahoo Finance?"
+q_54feaf0a76462c56,dev,se-0.2,0,0,5.325,4.575,438,440,220,1,69,18,17.37,65.18,1310.9,1376.08,8.502,Will I receive a tax document for the sale of directly purchased stocks in the US?
+q_54feaf0a76462c56,dev,se,0,1,5.325,4.575,458,464,232,3,72,18,18.14,65.24,1312.99,1378.23,8.503,Will I receive a tax document for the sale of directly purchased stocks in the US?
+q_54feaf0a76462c56,dev,padzero,0,2,5.325,4.575,533,3000,1500,1233,81,18,5619.03,813.33,1495.36,2308.69,8.879,Will I receive a tax document for the sale of directly purchased stocks in the US?
+q_54feaf0a76462c56,dev,full30,0,3,5.325,4.575,533,3000,1500,1233,81,19,124.2,307.56,1381.38,1688.93,8.879,Will I receive a tax document for the sale of directly purchased stocks in the U.S.
+q_54feaf0a76462c56,dev,m1,0,4,5.325,4.575,533,640,320,53,81,18,17.36,66.14,1314.41,1380.55,8.514,Will I receive a tax document for the sale of directly purchased stocks in the US?
+q_54feaf0a76462c56,dev,m0,0,5,5.325,4.575,533,536,268,1,81,18,22.91,66.26,1310.1,1376.37,8.508,Will I receive a tax document for the sale of directly purchased stocks in the US?
+q_f289da5dc985a411,dev,m1,0,0,4.425,3.725,443,544,272,50,70,13,21.95,67.17,948.23,1015.41,8.508,What are the potential drawbacks of temporarily reducing interest rates?
+q_f289da5dc985a411,dev,se,0,1,4.425,3.725,373,376,188,1,61,13,17.29,65.12,948.93,1014.05,8.499,What are the potential drawbacks of temporarily reducing interest rates?
+q_f289da5dc985a411,dev,full30,0,2,4.425,3.725,443,3000,1500,1278,70,13,17.28,308.3,951.05,1259.35,8.879,What are the potential drawbacks of temporarily reducing interest rates?
+q_f289da5dc985a411,dev,m0,0,3,4.425,3.725,443,448,224,2,70,13,17.41,65.08,946.88,1011.97,8.502,What are the potential drawbacks of temporarily reducing interest rates?
+q_f289da5dc985a411,dev,se-0.2,0,4,4.425,3.725,353,360,180,3,59,13,17.28,65.35,949.62,1014.97,8.499,What are the potential drawbacks of temporarily reducing interest rates?
+q_f289da5dc985a411,dev,padzero,0,5,4.425,3.725,443,3000,1500,1278,70,13,17.87,308.38,946.45,1254.83,8.879,What are the potential drawbacks of temporarily reducing interest rates?
+q_47b7c2ad5748600b,dev,m0,0,0,4.65,4.045,465,472,236,3,73,12,17.36,65.17,874.16,939.33,8.503,What factors have caused the asking price to increase significantly?
+q_47b7c2ad5748600b,dev,se,0,1,4.65,4.045,405,408,204,1,65,12,17.29,65.29,873.92,939.2,8.5,What factors have caused the asking price to increase significantly?
+q_47b7c2ad5748600b,dev,full30,0,2,4.65,4.045,465,3000,1500,1267,73,12,17.35,307.48,873.93,1181.42,8.879,What factors have caused the asking price to increase significantly?
+q_47b7c2ad5748600b,dev,se-0.2,0,3,4.65,4.045,385,392,196,3,63,12,17.3,65.28,873.22,938.5,8.499,What factors have caused the asking price to increase significantly?
+q_47b7c2ad5748600b,dev,padzero,0,4,4.65,4.045,465,3000,1500,1267,73,12,17.5,307.6,875.57,1183.17,8.879,What factors have caused the asking price to increase significantly?
+q_47b7c2ad5748600b,dev,m1,0,5,4.65,4.045,465,568,284,51,73,12,17.17,65.94,873.94,939.88,8.511,What factors have caused the asking price to increase significantly?
+q_e75812046abc116d,dev,se,0,0,4.125,3.485,349,352,176,1,58,15,17.26,65.43,1092.9,1158.33,8.498,What are the rules for making small withdrawals from an IRA?
+q_e75812046abc116d,dev,se-0.2,0,1,4.125,3.485,329,336,168,3,56,15,17.21,65.32,1092.78,1158.09,8.497,What are the rules for making small withdrawals from an IRA?
+q_e75812046abc116d,dev,full30,0,2,4.125,3.485,413,3000,1500,1293,66,15,17.34,307.84,1095.46,1403.3,8.879,What are the rules for making small withdrawals from an IRA?
+q_e75812046abc116d,dev,m0,0,3,4.125,3.485,413,416,208,1,66,15,17.42,65.26,1098.78,1164.04,8.502,What are the rules for making small withdrawals from an IRA?
+q_e75812046abc116d,dev,m1,0,4,4.125,3.485,413,520,260,53,66,15,17.32,66.56,1094.84,1161.4,8.507,What are the rules for making small withdrawals from an IRA?
+q_e75812046abc116d,dev,padzero,0,5,4.125,3.485,413,3000,1500,1293,66,15,17.55,308.62,1095.62,1404.24,8.879,What are the rules for making small withdrawals from an IRA?
+q_da0fce3abc878e40,dev,se-0.2,0,0,4.1,3.625,343,344,172,0,58,12,17.3,65.1,875.53,940.64,8.497,How can investments be categorized into different asset classes?
+q_da0fce3abc878e40,dev,padzero,0,1,4.1,3.625,410,3000,1500,1295,66,12,17.34,308.43,874.4,1182.84,8.879,How can investments be categorized into different asset classes?
+q_da0fce3abc878e40,dev,full30,0,2,4.1,3.625,410,3000,1500,1295,66,12,17.11,308.03,877.15,1185.18,8.879,How can investments be categorized into different asset classes?
+q_da0fce3abc878e40,dev,se,0,3,4.1,3.625,363,368,184,2,60,12,17.23,65.18,874.09,939.27,8.499,How can investments be categorized into different asset classes?
+q_da0fce3abc878e40,dev,m1,0,4,4.1,3.625,410,512,256,51,66,12,17.2,65.29,875.02,940.31,8.504,How can investments be categorized into different asset classes?
+q_da0fce3abc878e40,dev,m0,0,5,4.1,3.625,410,416,208,3,66,12,17.3,65.26,876.2,941.46,8.502,How can investments be categorized into different asset classes?
+q_6f8b73b746019a15,dev,full30,0,0,6.625,6.085,663,3000,1500,1168,98,16,22.04,307.98,1174.76,1482.74,8.879,What is the process for recording client deposits in zero or other financial software?
+q_6f8b73b746019a15,dev,se,0,1,6.625,6.085,609,616,308,3,91,16,17.46,66.93,1176.04,1242.96,8.512,What is the process for recording client deposits in zero or other financial software?
+q_6f8b73b746019a15,dev,m0,0,2,6.625,6.085,663,664,332,0,98,16,19.6,67.68,1183.58,1251.26,8.515,What is the process for recording client deposits in zero or other financial software?
+q_6f8b73b746019a15,dev,padzero,0,3,6.625,6.085,663,3000,1500,1168,98,16,18.12,307.63,1177.56,1485.18,8.879,What is the process for recording client deposits in zero or other financial software?
+q_6f8b73b746019a15,dev,m1,0,4,6.625,6.085,663,768,384,52,98,16,17.54,67.21,1174.57,1241.78,8.523,What is the process for recording client deposits in zero or other financial software?
+q_6f8b73b746019a15,dev,se-0.2,0,5,6.625,6.085,589,592,296,1,88,16,17.49,66.22,1170.28,1236.5,8.511,What is the process for recording client deposits in zero or other financial software?
+q_372a96cf7c169250,dev,se-0.2,0,0,6.525,6.015,582,584,292,1,87,21,17.51,66.35,1539.63,1605.98,8.511,Does Steve Jobs still hold enough Apple shares to maintain control of the company as a co-founder?
+q_372a96cf7c169250,dev,padzero,0,1,6.525,6.015,653,3000,1500,1173,96,21,17.74,310.04,1541.15,1851.2,8.879,Does Steve Jobs still hold enough Apple shares to maintain control of the company as a co-founder?
+q_372a96cf7c169250,dev,m0,0,2,6.525,6.015,653,656,328,1,96,20,17.58,66.4,1466.07,1532.47,8.514,Does Steve Jobs still hold enough Apple shares to maintain control of the company as a co founder?
+q_372a96cf7c169250,dev,se,0,3,6.525,6.015,602,608,304,3,90,20,17.28,66.55,1463.0,1529.55,8.512,Does Steve Jobs still hold enough Apple shares to maintain control of the company as a co founder?
+q_372a96cf7c169250,dev,m1,0,4,6.525,6.015,653,760,380,53,96,20,17.45,66.97,1463.87,1530.84,8.522,Does Steve Jobs still hold enough Apple shares to maintain control of the company as a co founder?
+q_372a96cf7c169250,dev,full30,0,5,6.525,6.015,653,3000,1500,1173,96,20,17.4,309.85,1464.75,1774.59,8.879,Does Steve Jobs still hold enough Apple shares to maintain control of the company as a co founder?
+q_e3e73f9ccdca5810,dev,se,0,0,6.575,6.045,605,608,304,1,90,19,18.55,66.03,1388.22,1454.25,8.512,What are some sensible ways to invest in both funds and stocks using a UK ISA?
+q_e3e73f9ccdca5810,dev,padzero,0,1,6.575,6.045,658,3000,1500,1171,97,20,17.79,310.78,1463.75,1774.53,8.879,What are some sensible ways to invest in both funds and stocks using a UK I S A?
+q_e3e73f9ccdca5810,dev,full30,0,2,6.575,6.045,658,3000,1500,1171,97,20,17.32,310.38,1466.15,1776.53,8.879,What are some sensible ways to invest in both funds and stocks using a UK I S A?
+q_e3e73f9ccdca5810,dev,m0,0,3,6.575,6.045,658,664,332,3,97,19,17.3,66.35,1390.41,1456.76,8.515,What are some sensible ways to invest in both funds and stocks using a UK ISA?
+q_e3e73f9ccdca5810,dev,m1,0,4,6.575,6.045,658,760,380,51,97,20,17.37,67.13,1461.38,1528.51,8.522,What are some sensible ways to invest in both funds and stocks using a UK I S A?
+q_e3e73f9ccdca5810,dev,se-0.2,0,5,6.575,6.045,585,592,296,3,88,20,17.34,65.98,1457.49,1523.47,8.511,What are some sensible ways to invest in both funds and stocks using a UK I S A?
+q_4fdf59e3fbfa2a1a,dev,se,0,0,7.075,6.525,653,656,328,1,96,18,17.56,66.29,1315.96,1382.25,8.514,What investment strategies can be used to take advantage of high household debt levels in Canada?
+q_4fdf59e3fbfa2a1a,dev,se-0.2,0,1,7.075,6.525,633,640,320,3,94,18,17.59,67.38,1316.48,1383.86,8.514,What investment strategies can be used to take advantage of high household debt levels in Canada?
+q_4fdf59e3fbfa2a1a,dev,m1,0,2,7.075,6.525,708,808,404,50,103,18,17.43,78.67,1316.5,1395.17,8.525,What investment strategies can be used to take advantage of high household debt levels in Canada?
+q_4fdf59e3fbfa2a1a,dev,padzero,0,3,7.075,6.525,708,3000,1500,1146,103,18,19.21,310.09,1319.04,1629.13,8.879,What investment strategies can be used to take advantage of high household debt levels in Canada?
+q_4fdf59e3fbfa2a1a,dev,m0,0,4,7.075,6.525,708,712,356,2,103,18,18.79,66.37,1318.14,1384.51,8.519,What investment strategies can be used to take advantage of high household debt levels in Canada?
+q_4fdf59e3fbfa2a1a,dev,full30,0,5,7.075,6.525,708,3000,1500,1146,103,18,17.46,310.67,1319.63,1630.29,8.879,What investment strategies can be used to take advantage of high household debt levels in Canada?
+q_d33bf150239366a3,dev,m1,0,0,5.925,5.415,593,696,348,51,89,20,17.61,66.32,1460.87,1527.19,8.518,How can I determine what percentage of a company's total shares are publicly traded? Float.
+q_d33bf150239366a3,dev,padzero,0,1,5.925,5.415,593,3000,1500,1203,89,20,17.83,310.36,1461.37,1771.74,8.879,How can I determine what percentage of a company's total shares are publicly traded? Float.
+q_d33bf150239366a3,dev,se,0,2,5.925,5.415,542,544,272,1,82,20,17.23,65.99,1455.47,1521.46,8.508,How can I determine what percentage of a company's total shares are publicly traded? Float.
+q_d33bf150239366a3,dev,full30,0,3,5.925,5.415,593,3000,1500,1203,89,20,17.33,310.77,1459.35,1770.12,8.879,How can I determine what percentage of a company's total shares are publicly traded? Float.
+q_d33bf150239366a3,dev,se-0.2,0,4,5.925,5.415,522,528,264,3,80,18,17.32,66.2,1310.44,1376.64,8.507,How can I determine what percentage of a company's total shares are publicly traded?
+q_d33bf150239366a3,dev,m0,0,5,5.925,5.415,593,600,300,3,89,20,17.35,66.14,1460.96,1527.1,8.511,How can I determine what percentage of a company's total shares are publicly traded? Float.

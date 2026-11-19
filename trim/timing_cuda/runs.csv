@@ -1,0 +1,901 @@
+query_id,split,condition,repeat,order_in_query,audio_s,speech_end_s,mel_frames_real,mel_frames_used,encoder_positions,kept_pad_positions,prompt_tokens,new_tokens,t_feat_ms,t_enc_ms,t_dec_ms,t_gen_ms,peak_gib,transcript
+q_7e9a0f2716c017d2,practice,m0,0,0,5.4,4.695,540,544,272,2,82,14,37.18,247.74,2367.34,2615.07,8.492,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m1,0,1,5.4,4.695,540,640,320,50,82,14,20.89,294.5,2370.33,2664.83,8.495,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m2,0,2,5.4,4.695,540,744,372,102,82,14,18.91,356.47,2384.35,2740.83,8.497,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,full30,0,3,5.4,4.695,540,3000,1500,1230,82,14,17.91,1679.85,2390.88,4070.73,8.564,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,se,0,4,5.4,4.695,470,472,236,1,73,14,23.55,218.43,2189.36,2407.79,8.49,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m0.5,0,5,5.4,4.695,540,592,296,26,82,14,21.47,281.61,2403.1,2684.71,8.494,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m0,1,0,5.4,4.695,540,544,272,2,82,14,17.36,250.21,2405.53,2655.75,8.492,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m1,1,1,5.4,4.695,540,640,320,50,82,14,17.41,296.38,2409.06,2705.44,8.495,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m2,1,2,5.4,4.695,540,744,372,102,82,14,17.6,359.05,2417.66,2776.7,8.497,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,full30,1,3,5.4,4.695,540,3000,1500,1230,82,14,17.78,1698.65,2421.81,4120.46,8.564,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,se,1,4,5.4,4.695,470,472,236,1,73,14,17.29,220.51,2216.07,2436.57,8.49,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m0.5,1,5,5.4,4.695,540,592,296,26,82,14,17.39,283.52,2427.11,2710.63,8.494,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m0,2,0,5.4,4.695,540,544,272,2,82,14,17.47,252.05,2432.6,2684.65,8.492,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m1,2,1,5.4,4.695,540,640,320,50,82,14,17.36,298.99,2440.34,2739.33,8.495,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m2,2,2,5.4,4.695,540,744,372,102,82,14,17.19,362.4,2443.36,2805.76,8.497,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,full30,2,3,5.4,4.695,540,3000,1500,1230,82,14,17.33,1709.36,2444.92,4154.28,8.564,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,se,2,4,5.4,4.695,470,472,236,1,73,14,17.2,221.64,2236.13,2457.77,8.49,Understanding sales tax implications when purchasing items in a retail store.
+q_7e9a0f2716c017d2,practice,m0.5,2,5,5.4,4.695,540,592,296,26,82,14,18.94,285.28,2452.08,2737.36,8.494,Understanding sales tax implications when purchasing items in a retail store.
+q_ea0be00eda6ea088,practice,m1,0,0,5.125,4.595,513,616,308,51,79,13,17.26,298.79,2221.59,2520.38,8.495,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m0.5,0,1,5.125,4.595,513,568,284,27,79,13,17.37,270.04,2227.94,2497.97,8.494,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,se,0,2,5.125,4.595,460,464,232,2,72,13,23.63,222.17,2049.47,2271.64,8.49,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,full30,0,3,5.125,4.595,513,3000,1500,1243,79,13,19.35,1716.58,2233.68,3950.26,8.564,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m0,0,4,5.125,4.595,513,520,260,3,79,13,17.84,252.13,2234.9,2487.02,8.491,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m2,0,5,5.125,4.595,513,720,360,103,79,13,17.36,350.56,2235.74,2586.3,8.497,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m1,1,0,5.125,4.595,513,616,308,51,79,13,17.14,299.78,2235.79,2535.56,8.495,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m0.5,1,1,5.125,4.595,513,568,284,27,79,13,17.33,271.36,2239.46,2510.82,8.494,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,se,1,2,5.125,4.595,460,464,232,2,72,13,17.16,222.66,2054.42,2277.08,8.49,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,full30,1,3,5.125,4.595,513,3000,1500,1243,79,13,17.33,1723.03,2241.77,3964.79,8.564,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m0,1,4,5.125,4.595,513,520,260,3,79,13,18.79,251.96,2246.46,2498.42,8.491,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m2,1,5,5.125,4.595,513,720,360,103,79,13,17.47,351.34,2246.71,2598.05,8.497,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m1,2,0,5.125,4.595,513,616,308,51,79,13,17.18,300.87,2248.45,2549.32,8.495,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m0.5,2,1,5.125,4.595,513,568,284,27,79,13,17.64,272.27,2249.65,2521.92,8.494,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,se,2,2,5.125,4.595,460,464,232,2,72,13,23.69,223.65,2071.93,2295.58,8.49,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,full30,2,3,5.125,4.595,513,3000,1500,1243,79,13,19.37,1729.34,2256.86,3986.2,8.564,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m0,2,4,5.125,4.595,513,520,260,3,79,13,17.33,253.58,2257.5,2511.08,8.491,Factors influencing the initial stock price at market opening.
+q_ea0be00eda6ea088,practice,m2,2,5,5.125,4.595,513,720,360,103,79,13,17.59,352.69,2258.19,2610.88,8.497,Factors influencing the initial stock price at market opening.
+q_9cd791a970ab648f,practice,m1,0,0,4.625,4.225,463,568,284,52,73,13,17.3,272.86,2101.03,2373.89,8.494,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m0.5,0,1,4.625,4.225,463,520,260,28,73,13,17.32,253.62,2102.18,2355.8,8.491,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m2,0,2,4.625,4.225,463,664,332,100,73,13,17.19,319.88,2101.18,2421.06,8.496,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m0,0,3,4.625,4.225,463,464,232,0,73,13,17.66,224.15,2101.86,2326.01,8.49,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,se,0,4,4.625,4.225,423,424,212,0,68,13,17.13,209.03,1970.93,2179.95,8.49,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,full30,0,5,4.625,4.225,463,3000,1500,1268,73,13,17.32,1732.89,2102.31,3835.2,8.564,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m1,1,0,4.625,4.225,463,568,284,52,73,13,17.24,273.2,2102.62,2375.81,8.494,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m0.5,1,1,4.625,4.225,463,520,260,28,73,13,17.31,253.44,2103.22,2356.66,8.491,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m2,1,2,4.625,4.225,463,664,332,100,73,13,17.16,320.28,2103.29,2423.56,8.496,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m0,1,3,4.625,4.225,463,464,232,0,73,13,17.34,223.83,2103.38,2327.2,8.49,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,se,1,4,4.625,4.225,423,424,212,0,68,13,17.19,209.09,1972.71,2181.8,8.49,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,full30,1,5,4.625,4.225,463,3000,1500,1268,73,13,17.27,1735.91,2103.92,3839.83,8.564,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m1,2,0,4.625,4.225,463,568,284,52,73,13,17.21,273.15,2103.84,2376.99,8.494,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m0.5,2,1,4.625,4.225,463,520,260,28,73,13,17.37,253.84,2104.54,2358.39,8.491,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m2,2,2,4.625,4.225,463,664,332,100,73,13,17.16,321.4,2104.37,2425.76,8.496,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,m0,2,3,4.625,4.225,463,464,232,0,73,13,17.34,224.3,2104.97,2329.27,8.49,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,se,2,4,4.625,4.225,423,424,212,0,68,13,17.18,209.31,1974.02,2183.33,8.49,Timeline for fund availability when depositing credit card payments.
+q_9cd791a970ab648f,practice,full30,2,5,4.625,4.225,463,3000,1500,1268,73,13,17.23,1739.25,2104.46,3843.71,8.564,Timeline for fund availability when depositing credit card payments.
+q_20e98c45013f6cc6,practice,full30,0,0,4.325,3.785,433,3000,1500,1283,69,15,17.19,1739.39,2354.69,4094.08,8.564,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m1,0,1,4.325,3.785,433,536,268,51,69,15,17.36,254.87,2355.82,2610.69,8.492,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m0.5,0,2,4.325,3.785,433,488,244,27,69,15,17.08,238.49,2359.06,2597.55,8.49,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,se,0,3,4.325,3.785,379,384,192,2,62,12,17.29,180.83,1728.19,1909.02,8.487,Interpreting a negative price earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m0,0,4,4.325,3.785,433,440,220,3,69,15,17.21,209.96,2364.31,2574.28,8.49,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m2,0,5,4.325,3.785,433,640,320,103,69,15,17.37,304.19,2359.61,2663.8,8.495,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,full30,1,0,4.325,3.785,433,3000,1500,1283,69,15,17.14,1740.08,2354.81,4094.89,8.564,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m1,1,1,4.325,3.785,433,536,268,51,69,15,17.13,255.52,2362.45,2617.97,8.492,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m0.5,1,2,4.325,3.785,433,488,244,27,69,15,17.32,237.76,2363.88,2601.64,8.49,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,se,1,3,4.325,3.785,379,384,192,2,62,12,17.05,180.25,1737.08,1917.33,8.487,Interpreting a negative price earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m0,1,4,4.325,3.785,433,440,220,3,69,15,17.38,211.05,2370.13,2581.18,8.49,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m2,1,5,4.325,3.785,433,640,320,103,69,15,17.11,304.58,2369.78,2674.36,8.495,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,full30,2,0,4.325,3.785,433,3000,1500,1283,69,15,17.29,1745.36,2370.02,4115.38,8.564,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m1,2,1,4.325,3.785,433,536,268,51,69,15,17.17,255.74,2370.84,2626.58,8.492,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m0.5,2,2,4.325,3.785,433,488,244,27,69,15,17.23,238.62,2370.33,2608.95,8.49,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,se,2,3,4.325,3.785,379,384,192,2,62,12,17.15,181.39,1736.7,1918.09,8.487,Interpreting a negative price earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m0,2,4,4.325,3.785,433,440,220,3,69,15,17.49,211.21,2370.98,2582.19,8.49,Interpreting a negative price-to-earnings ratio for stocks.
+q_20e98c45013f6cc6,practice,m2,2,5,4.325,3.785,433,640,320,103,69,15,17.39,304.79,2371.28,2676.07,8.495,Interpreting a negative price-to-earnings ratio for stocks.
+q_e3f1cef46917a2a5,practice,m0.5,0,0,7.0,6.475,700,752,376,26,102,17,17.72,369.13,3746.55,4115.68,8.498,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,se,0,1,7.0,6.475,648,648,324,0,96,17,17.54,320.72,3547.36,3868.08,8.495,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m0,0,2,7.0,6.475,700,704,352,2,102,17,17.49,337.41,3750.66,4088.07,8.497,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,full30,0,3,7.0,6.475,700,3000,1500,1150,102,17,17.46,1746.18,3757.5,5503.68,8.564,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m1,0,4,7.0,6.475,700,800,400,50,102,17,17.49,388.15,3756.38,4144.53,8.499,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m2,0,5,7.0,6.475,700,904,452,102,102,17,17.59,455.57,3752.79,4208.36,8.502,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m0.5,1,0,7.0,6.475,700,752,376,26,102,17,19.23,370.37,3759.64,4130.01,8.498,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,se,1,1,7.0,6.475,648,648,324,0,96,17,17.64,321.11,3553.28,3874.4,8.495,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m0,1,2,7.0,6.475,700,704,352,2,102,17,17.34,337.53,3760.29,4097.82,8.497,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,full30,1,3,7.0,6.475,700,3000,1500,1150,102,17,24.72,1746.48,3761.47,5507.95,8.564,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m1,1,4,7.0,6.475,700,800,400,50,102,17,18.81,387.89,3756.58,4144.47,8.499,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m2,1,5,7.0,6.475,700,904,452,102,102,17,17.63,455.28,3746.97,4202.26,8.502,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m0.5,2,0,7.0,6.475,700,752,376,26,102,17,17.96,370.89,3764.98,4135.88,8.498,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,se,2,1,7.0,6.475,648,648,324,0,96,17,17.45,321.06,3557.56,3878.61,8.495,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m0,2,2,7.0,6.475,700,704,352,2,102,17,17.35,337.67,3765.37,4103.04,8.497,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,full30,2,3,7.0,6.475,700,3000,1500,1150,102,17,17.46,1749.12,3762.47,5511.59,8.564,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m1,2,4,7.0,6.475,700,800,400,50,102,17,17.48,388.31,3761.61,4149.92,8.499,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_e3f1cef46917a2a5,practice,m2,2,5,7.0,6.475,700,904,452,102,102,17,17.5,456.94,3763.07,4220.0,8.502,Process for adding an additional vehicle to an existing auto insurance policy with GICO.
+q_fb7201191b7c1c3f,practice,m2,0,0,5.525,4.825,553,760,380,103,84,15,18.84,371.27,2774.55,3145.82,8.498,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,full30,0,1,5.525,4.825,553,3000,1500,1223,84,15,17.36,1750.43,2773.36,4523.79,8.564,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m0.5,0,2,5.525,4.825,553,608,304,27,84,15,17.33,291.99,2774.5,3066.49,8.494,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,se,0,3,5.525,4.825,483,488,244,2,75,15,17.83,239.16,2546.93,2786.09,8.49,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m1,0,4,5.525,4.825,553,656,328,51,84,15,24.42,322.18,2772.03,3094.21,8.495,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m0,0,5,5.525,4.825,553,560,280,3,84,15,18.58,274.94,2773.23,3048.16,8.492,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m2,1,0,5.525,4.825,553,760,380,103,84,15,17.48,371.07,2773.41,3144.48,8.498,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,full30,1,1,5.525,4.825,553,3000,1500,1223,84,15,17.23,1749.06,2768.68,4517.74,8.564,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m0.5,1,2,5.525,4.825,553,608,304,27,84,15,17.89,291.47,2772.54,3064.01,8.494,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,se,1,3,5.525,4.825,483,488,244,2,75,15,17.24,239.38,2545.23,2784.6,8.49,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m1,1,4,5.525,4.825,553,656,328,51,84,15,17.46,322.66,2774.79,3097.46,8.495,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m0,1,5,5.525,4.825,553,560,280,3,84,15,17.25,275.27,2773.93,3049.2,8.492,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m2,2,0,5.525,4.825,553,760,380,103,84,15,17.42,371.39,2772.87,3144.26,8.498,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,full30,2,1,5.525,4.825,553,3000,1500,1223,84,15,17.2,1750.3,2773.61,4523.91,8.564,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m0.5,2,2,5.525,4.825,553,608,304,27,84,15,17.65,291.99,2775.19,3067.18,8.494,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,se,2,3,5.525,4.825,483,488,244,2,75,15,17.51,239.67,2546.6,2786.27,8.49,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m1,2,4,5.525,4.825,553,656,328,51,84,15,17.65,322.43,2772.18,3094.6,8.495,"Calculating return on investment, verifying accuracy of financial projections."
+q_fb7201191b7c1c3f,practice,m0,2,5,5.525,4.825,553,560,280,3,84,15,17.23,275.33,2772.27,3047.59,8.492,"Calculating return on investment, verifying accuracy of financial projections."
+q_985b83cdba7c6114,practice,m1,0,0,5.1,4.585,510,616,308,53,78,13,17.34,304.61,2266.5,2571.11,8.495,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,se,0,1,5.1,4.585,459,464,232,2,72,13,17.31,225.19,2102.02,2327.21,8.49,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m2,0,2,5.1,4.585,510,712,356,101,78,13,17.37,355.83,2267.45,2623.28,8.497,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m0.5,0,3,5.1,4.585,510,560,280,25,78,13,17.24,275.52,2267.74,2543.25,8.492,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,full30,0,4,5.1,4.585,510,3000,1500,1245,78,13,17.14,1749.67,2268.48,4018.15,8.564,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m0,0,5,5.1,4.585,510,512,256,1,78,13,17.75,241.01,2268.58,2509.59,8.49,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m1,1,0,5.1,4.585,510,616,308,53,78,13,17.25,304.91,2268.25,2573.15,8.495,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,se,1,1,5.1,4.585,459,464,232,2,72,13,17.33,225.86,2106.14,2332.01,8.49,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m2,1,2,5.1,4.585,510,712,356,101,78,13,17.29,355.65,2266.81,2622.46,8.497,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m0.5,1,3,5.1,4.585,510,560,280,25,78,13,17.37,275.16,2267.08,2542.24,8.492,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,full30,1,4,5.1,4.585,510,3000,1500,1245,78,13,17.15,1749.13,2267.39,4016.53,8.564,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m0,1,5,5.1,4.585,510,512,256,1,78,13,17.36,241.0,2268.36,2509.37,8.49,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m1,2,0,5.1,4.585,510,616,308,53,78,13,17.21,304.99,2268.89,2573.88,8.495,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,se,2,1,5.1,4.585,459,464,232,2,72,13,17.37,226.08,2103.87,2329.95,8.49,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m2,2,2,5.1,4.585,510,712,356,101,78,13,17.21,355.93,2268.62,2624.55,8.497,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m0.5,2,3,5.1,4.585,510,560,280,25,78,13,17.35,275.52,2265.28,2540.8,8.492,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,full30,2,4,5.1,4.585,510,3000,1500,1245,78,13,17.17,1749.86,2259.7,4009.56,8.564,Existence of a primary residence tax exemption in Tennessee.
+q_985b83cdba7c6114,practice,m0,2,5,5.1,4.585,510,512,256,1,78,13,17.44,241.16,2268.32,2509.49,8.49,Existence of a primary residence tax exemption in Tennessee.
+q_cc3a5798107d54ab,practice,m0,0,0,5.575,5.015,558,560,280,1,84,15,17.67,274.71,2774.29,3049.0,8.492,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,full30,0,1,5.575,5.015,558,3000,1500,1221,84,15,17.42,1749.15,2767.45,4516.61,8.564,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,se,0,2,5.575,5.015,502,504,252,1,77,15,17.27,240.63,2603.23,2843.85,8.49,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m0.5,0,3,5.575,5.015,558,608,304,25,84,15,17.36,292.39,2774.76,3067.15,8.494,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m2,0,4,5.575,5.015,558,760,380,101,84,15,17.26,371.41,2775.46,3146.87,8.498,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m1,0,5,5.575,5.015,558,664,332,53,84,15,17.35,323.11,2774.87,3097.98,8.496,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m0,1,0,5.575,5.015,558,560,280,1,84,15,17.16,275.76,2775.16,3050.92,8.492,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,full30,1,1,5.575,5.015,558,3000,1500,1221,84,15,19.37,1749.61,2768.46,4518.07,8.564,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,se,1,2,5.575,5.015,502,504,252,1,77,15,17.86,240.83,2604.56,2845.39,8.49,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m0.5,1,3,5.575,5.015,558,608,304,25,84,15,17.42,292.36,2775.93,3068.3,8.494,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m2,1,4,5.575,5.015,558,760,380,101,84,15,17.8,371.23,2775.2,3146.43,8.498,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m1,1,5,5.575,5.015,558,664,332,53,84,15,36.24,322.41,2775.14,3097.54,8.496,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m0,2,0,5.575,5.015,558,560,280,1,84,15,30.36,275.5,2779.2,3054.69,8.492,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,full30,2,1,5.575,5.015,558,3000,1500,1221,84,15,29.62,1748.7,2766.67,4515.37,8.564,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,se,2,2,5.575,5.015,502,504,252,1,77,15,17.33,240.72,2604.21,2844.93,8.49,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m0.5,2,3,5.575,5.015,558,608,304,25,84,15,162.15,291.95,2775.89,3067.84,8.494,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m2,2,4,5.575,5.015,558,760,380,101,84,15,17.89,371.26,2774.48,3145.74,8.498,Tax considerations for investing in MLPs within a Roth IRA.
+q_cc3a5798107d54ab,practice,m1,2,5,5.575,5.015,558,664,332,53,84,15,17.53,323.08,2775.25,3098.34,8.496,Tax considerations for investing in MLPs within a Roth IRA.
+q_11e91c6525c562e4,practice,se,0,0,6.025,5.445,545,552,276,3,83,15,17.59,274.65,2744.97,3019.62,8.492,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m0,0,1,6.025,5.445,603,608,304,2,90,15,17.51,291.5,2950.79,3242.29,8.494,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,full30,0,2,6.025,5.445,603,3000,1500,1198,90,15,17.38,1753.53,2956.57,4710.09,8.564,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m0.5,0,3,6.025,5.445,603,656,328,26,90,15,21.19,322.44,2957.03,3279.48,8.495,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m1,0,4,6.025,5.445,603,704,352,50,90,15,17.45,337.67,2956.57,3294.24,8.497,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m2,0,5,6.025,5.445,603,808,404,102,90,15,17.28,401.56,2956.76,3358.32,8.499,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,se,1,0,6.025,5.445,545,552,276,3,83,15,17.4,274.22,2745.02,3019.24,8.492,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m0,1,1,6.025,5.445,603,608,304,2,90,15,19.38,291.92,2956.28,3248.19,8.494,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,full30,1,2,6.025,5.445,603,3000,1500,1198,90,15,17.43,1753.22,2956.59,4709.81,8.564,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m0.5,1,3,6.025,5.445,603,656,328,26,90,15,17.53,322.55,2955.86,3278.41,8.495,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m1,1,4,6.025,5.445,603,704,352,50,90,15,17.51,337.83,2956.04,3293.87,8.497,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m2,1,5,6.025,5.445,603,808,404,102,90,15,23.26,401.14,2958.03,3359.18,8.499,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,se,2,0,6.025,5.445,545,552,276,3,83,15,19.85,274.73,2743.78,3018.51,8.492,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m0,2,1,6.025,5.445,603,608,304,2,90,15,17.25,292.16,2956.51,3248.67,8.494,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,full30,2,2,6.025,5.445,603,3000,1500,1198,90,15,17.51,1752.85,2957.06,4709.91,8.564,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m0.5,2,3,6.025,5.445,603,656,328,26,90,15,18.05,322.8,2956.25,3279.04,8.495,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m1,2,4,6.025,5.445,603,704,352,50,90,15,17.56,337.82,2956.4,3294.22,8.497,Where can I find historical price earnings ratios for US stock market indices?
+q_11e91c6525c562e4,practice,m2,2,5,6.025,5.445,603,808,404,102,90,15,17.25,401.11,2956.6,3357.72,8.499,Where can I find historical price earnings ratios for US stock market indices?
+q_310adf9926fe489e,practice,se,0,0,7.15,6.695,670,672,336,1,98,23,29.86,322.89,5070.21,5393.1,8.496,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,full30,0,1,7.15,6.695,715,3000,1500,1142,104,23,17.53,1751.07,5266.24,7017.31,8.564,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m2,0,2,7.15,6.695,715,920,460,102,104,23,17.96,458.05,5267.41,5725.46,8.503,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m1,0,3,7.15,6.695,715,816,408,50,104,23,18.76,405.93,5438.33,5844.26,8.499,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m0,0,4,7.15,6.695,715,720,360,2,104,23,94.19,395.43,5278.94,5674.38,8.497,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m0.5,0,5,7.15,6.695,715,768,384,26,104,23,4892.08,388.97,9145.11,9534.08,8.498,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,se,1,0,7.15,6.695,670,672,336,1,98,23,5222.17,364.33,4982.35,5346.68,8.496,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,full30,1,1,7.15,6.695,715,3000,1500,1142,104,23,17.61,1731.4,5186.84,6918.23,8.564,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m2,1,2,7.15,6.695,715,920,460,102,104,23,17.55,453.84,5193.58,5647.42,8.503,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m1,1,3,7.15,6.695,715,816,408,50,104,23,17.6,402.63,5206.94,5609.58,8.499,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m0,1,4,7.15,6.695,715,720,360,2,104,23,17.48,354.65,5221.37,5576.02,8.497,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m0.5,1,5,7.15,6.695,715,768,384,26,104,23,17.58,370.15,5224.94,5595.09,8.498,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,se,2,0,7.15,6.695,670,672,336,1,98,23,17.37,321.85,5051.07,5372.92,8.496,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,full30,2,1,7.15,6.695,715,3000,1500,1142,104,23,20.53,1742.41,5237.13,6979.54,8.564,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m2,2,2,7.15,6.695,715,920,460,102,104,23,17.52,456.88,5251.59,5708.47,8.503,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m1,2,3,7.15,6.695,715,816,408,50,104,23,17.55,404.62,5255.6,5660.22,8.499,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m0,2,4,7.15,6.695,715,720,360,2,104,23,17.36,355.43,5261.88,5617.31,8.497,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_310adf9926fe489e,practice,m0.5,2,5,7.15,6.695,715,768,384,26,104,23,17.89,371.54,5259.42,5630.95,8.498,"Who is responsible for determining the composition of the S and P five hundred index, and what is the process?"
+q_a02dccd42055bf0e,practice,m1,0,0,6.35,5.915,635,736,368,50,94,21,24.37,355.42,4381.84,4737.26,8.497,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,se,0,1,6.35,5.915,592,592,296,0,89,21,17.52,290.11,4191.34,4481.45,8.494,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m2,0,2,6.35,5.915,635,840,420,102,94,21,17.39,422.93,4401.97,4824.9,8.5,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m0.5,0,3,6.35,5.915,635,688,344,26,94,21,17.5,336.49,4403.33,4739.81,8.497,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,full30,0,4,6.35,5.915,635,3000,1500,1182,94,21,17.39,1749.65,4403.06,6152.71,8.564,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m0,0,5,6.35,5.915,635,640,320,2,94,21,17.56,306.17,4404.69,4710.86,8.495,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m1,1,0,6.35,5.915,635,736,368,50,94,21,17.4,355.55,4404.39,4759.94,8.497,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,se,1,1,6.35,5.915,592,592,296,0,89,21,17.42,290.6,4180.55,4471.15,8.494,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m2,1,2,6.35,5.915,635,840,420,102,94,21,17.31,422.92,4401.56,4824.48,8.5,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m0.5,1,3,6.35,5.915,635,688,344,26,94,21,17.5,336.53,4403.88,4740.41,8.497,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,full30,1,4,6.35,5.915,635,3000,1500,1182,94,21,17.3,1750.35,4403.38,6153.73,8.564,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m0,1,5,6.35,5.915,635,640,320,2,94,21,17.57,306.17,4404.73,4710.9,8.495,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m1,2,0,6.35,5.915,635,736,368,50,94,21,17.47,357.07,4403.36,4760.43,8.497,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,se,2,1,6.35,5.915,592,592,296,0,89,21,17.46,291.02,4195.94,4486.96,8.494,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m2,2,2,6.35,5.915,635,840,420,102,94,21,17.29,423.26,4403.37,4826.63,8.5,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m0.5,2,3,6.35,5.915,635,688,344,26,94,21,17.48,336.55,4405.99,4742.54,8.497,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,full30,2,4,6.35,5.915,635,3000,1500,1182,94,21,17.26,1752.98,4403.47,6156.44,8.564,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_a02dccd42055bf0e,practice,m0,2,5,6.35,5.915,635,640,320,2,94,21,19.68,306.14,4405.3,4711.44,8.495,How can I determine the minimum due payment and due date for my ANZ Visa credit card balance?
+q_d1397ae30111620c,practice,m1,0,0,4.525,3.905,453,560,280,53,71,12,17.35,273.89,1888.38,2162.27,8.492,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,full30,0,1,4.525,3.905,453,3000,1500,1273,71,12,17.33,1752.83,1900.29,3653.11,8.564,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m2,0,2,4.525,3.905,453,656,328,101,71,12,17.14,322.49,1898.55,2221.04,8.495,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,se,0,3,4.525,3.905,391,392,196,0,64,12,17.34,195.95,1803.93,1999.88,8.487,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m0,0,4,4.525,3.905,453,456,228,1,71,12,17.16,225.76,1898.18,2123.94,8.49,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m0.5,0,5,4.525,3.905,453,504,252,25,71,12,23.99,240.52,1897.16,2137.68,8.49,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m1,1,0,4.525,3.905,453,560,280,53,71,12,18.5,275.39,1900.52,2175.91,8.492,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,full30,1,1,4.525,3.905,453,3000,1500,1273,71,12,17.26,1753.27,1888.67,3641.93,8.564,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m2,1,2,4.525,3.905,453,656,328,101,71,12,17.23,322.03,1897.54,2219.56,8.495,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,se,1,3,4.525,3.905,391,392,196,0,64,12,17.24,195.9,1804.06,1999.97,8.487,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m0,1,4,4.525,3.905,453,456,228,1,71,12,17.19,225.57,1898.2,2123.77,8.49,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m0.5,1,5,4.525,3.905,453,504,252,25,71,12,17.4,240.56,1899.94,2140.5,8.49,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m1,2,0,4.525,3.905,453,560,280,53,71,12,17.15,275.68,1901.32,2176.99,8.492,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,full30,2,1,4.525,3.905,453,3000,1500,1273,71,12,17.83,1750.78,1891.25,3642.03,8.564,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m2,2,2,4.525,3.905,453,656,328,101,71,12,17.17,322.25,1898.8,2221.04,8.495,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,se,2,3,4.525,3.905,391,392,196,0,64,12,17.21,195.78,1804.4,2000.18,8.487,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m0,2,4,4.525,3.905,453,456,228,1,71,12,17.2,225.78,1901.44,2127.22,8.49,What are the steps involved in purchasing a residential property?
+q_d1397ae30111620c,practice,m0.5,2,5,4.525,3.905,453,504,252,25,71,12,17.34,240.8,1898.68,2139.48,8.49,What are the steps involved in purchasing a residential property?
+q_0c244d4030fd08ec,practice,se,0,0,4.65,4.075,408,408,204,0,66,13,18.2,196.52,1989.39,2185.91,8.487,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m2,0,1,4.65,4.075,465,672,336,103,73,13,17.47,323.22,2134.3,2457.52,8.496,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,full30,0,2,4.65,4.075,465,3000,1500,1267,73,13,17.1,1751.54,2134.05,3885.58,8.564,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m0,0,3,4.65,4.075,465,472,236,3,73,13,17.39,226.5,2133.85,2360.34,8.49,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m1,0,4,4.65,4.075,465,568,284,51,73,13,17.17,275.8,2133.93,2409.73,8.494,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m0.5,0,5,4.65,4.075,465,520,260,27,73,13,17.4,255.71,2134.21,2389.92,8.491,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,se,1,0,4.65,4.075,408,408,204,0,66,13,17.13,196.66,1991.89,2188.55,8.487,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m2,1,1,4.65,4.075,465,672,336,103,73,13,17.37,323.18,2133.35,2456.52,8.496,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,full30,1,2,4.65,4.075,465,3000,1500,1267,73,13,17.09,1750.53,2124.54,3875.07,8.564,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m0,1,3,4.65,4.075,465,472,236,3,73,13,17.37,226.54,2134.63,2361.17,8.49,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m1,1,4,4.65,4.075,465,568,284,51,73,13,18.87,275.72,2134.38,2410.11,8.494,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m0.5,1,5,4.65,4.075,465,520,260,27,73,13,17.28,255.87,2134.61,2390.47,8.491,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,se,2,0,4.65,4.075,408,408,204,0,66,13,17.1,196.66,1990.55,2187.21,8.487,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m2,2,1,4.65,4.075,465,672,336,103,73,13,17.42,323.05,2132.22,2455.27,8.496,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,full30,2,2,4.65,4.075,465,3000,1500,1267,73,13,17.05,1749.9,2131.83,3881.73,8.564,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m0,2,3,4.65,4.075,465,472,236,3,73,13,17.37,226.23,2133.55,2359.78,8.49,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m1,2,4,4.65,4.075,465,568,284,51,73,13,17.25,275.7,2134.03,2409.73,8.494,What are the methods and principles for valuing financial options?
+q_0c244d4030fd08ec,practice,m0.5,2,5,4.65,4.075,465,520,260,27,73,13,17.3,255.93,2132.27,2388.21,8.491,What are the methods and principles for valuing financial options?
+q_14e2672fdc01cc05,practice,m0.5,0,0,5.85,5.265,585,640,320,27,88,16,23.39,305.39,3106.66,3412.06,8.495,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,full30,0,1,5.85,5.265,585,3000,1500,1207,88,16,19.43,1751.04,3104.08,4855.12,8.564,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m0,0,2,5.85,5.265,585,592,296,3,88,16,17.32,291.28,3105.95,3397.23,8.494,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m2,0,3,5.85,5.265,585,792,396,103,88,16,17.47,388.05,3106.7,3494.74,8.499,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,se,0,4,5.85,5.265,527,528,264,0,81,16,17.28,256.03,2893.67,3149.7,8.492,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m1,0,5,5.85,5.265,585,688,344,51,88,16,17.68,336.72,3105.45,3442.17,8.497,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m0.5,1,0,5.85,5.265,585,640,320,27,88,16,17.26,306.18,3106.79,3412.97,8.495,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,full30,1,1,5.85,5.265,585,3000,1500,1207,88,16,17.43,1749.64,3097.86,4847.5,8.564,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m0,1,2,5.85,5.265,585,592,296,3,88,16,17.31,291.09,3107.26,3398.35,8.494,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m2,1,3,5.85,5.265,585,792,396,103,88,16,17.38,387.91,3105.5,3493.42,8.499,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,se,1,4,5.85,5.265,527,528,264,0,81,16,17.19,256.2,2892.3,3148.5,8.492,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m1,1,5,5.85,5.265,585,688,344,51,88,16,17.4,336.45,3106.49,3442.94,8.497,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m0.5,2,0,5.85,5.265,585,640,320,27,88,16,17.26,306.19,3106.97,3413.15,8.495,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,full30,2,1,5.85,5.265,585,3000,1500,1207,88,16,17.38,1751.72,3105.49,4857.22,8.564,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m0,2,2,5.85,5.265,585,592,296,3,88,16,17.37,291.01,3106.13,3397.14,8.494,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m2,2,3,5.85,5.265,585,792,396,103,88,16,17.51,387.88,3106.5,3494.38,8.499,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,se,2,4,5.85,5.265,527,528,264,0,81,16,17.28,255.97,2892.05,3148.02,8.492,What factors contribute to some national currencies being considered weaker than others?
+q_14e2672fdc01cc05,practice,m1,2,5,5.85,5.265,585,688,344,51,88,16,17.43,336.86,3104.87,3441.73,8.497,What factors contribute to some national currencies being considered weaker than others?
+q_92cf5957e0e552dc,practice,se,0,0,5.25,4.655,466,472,236,3,73,12,17.26,225.45,1941.08,2166.53,8.49,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m1,0,1,5.25,4.655,525,632,316,53,80,12,17.43,304.92,2131.24,2436.16,8.495,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m0.5,0,2,5.25,4.655,525,576,288,25,80,12,17.25,276.56,2139.84,2416.4,8.494,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m2,0,3,5.25,4.655,525,728,364,101,80,12,17.13,356.62,2140.4,2497.02,8.497,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m0,0,4,5.25,4.655,525,528,264,1,80,12,17.46,256.22,2140.77,2396.99,8.492,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,full30,0,5,5.25,4.655,525,3000,1500,1237,80,12,17.9,1752.7,2139.53,3892.23,8.564,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,se,1,0,5.25,4.655,466,472,236,3,73,12,17.36,226.04,1953.2,2179.23,8.49,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m1,1,1,5.25,4.655,525,632,316,53,80,12,17.19,306.16,2140.46,2446.62,8.495,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m0.5,1,2,5.25,4.655,525,576,288,25,80,12,17.46,276.52,2140.01,2416.53,8.494,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m2,1,3,5.25,4.655,525,728,364,101,80,12,17.25,356.62,2139.25,2495.86,8.497,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m0,1,4,5.25,4.655,525,528,264,1,80,12,17.34,255.82,2139.56,2395.37,8.492,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,full30,1,5,5.25,4.655,525,3000,1500,1237,80,12,17.14,1750.26,2140.35,3890.6,8.564,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,se,2,0,5.25,4.655,466,472,236,3,73,12,17.34,226.54,1951.37,2177.9,8.49,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m1,2,1,5.25,4.655,525,632,316,53,80,12,17.2,305.43,2139.34,2444.77,8.495,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m0.5,2,2,5.25,4.655,525,576,288,25,80,12,17.4,276.09,2140.08,2416.17,8.494,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m2,2,3,5.25,4.655,525,728,364,101,80,12,17.2,357.0,2139.12,2496.12,8.497,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,m0,2,4,5.25,4.655,525,528,264,1,80,12,17.36,255.78,2138.58,2394.35,8.492,Are there any recommended software tools for value investing strategies?
+q_92cf5957e0e552dc,practice,full30,2,5,5.25,4.655,525,3000,1500,1237,80,12,17.17,1750.37,2140.58,3890.95,8.564,Are there any recommended software tools for value investing strategies?
+q_820ebb1208f655e4,practice,se,0,0,3.9,3.215,322,328,164,3,55,13,17.45,162.35,1680.24,1842.6,8.486,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m1,0,1,3.9,3.215,390,496,248,53,63,13,17.18,240.08,1925.47,2165.55,8.49,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m0.5,0,2,3.9,3.215,390,440,220,25,63,13,17.51,212.08,1926.48,2138.55,8.49,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m0,0,3,3.9,3.215,390,392,196,1,63,13,17.05,196.19,1925.64,2121.83,8.487,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,full30,0,4,3.9,3.215,390,3000,1500,1305,63,13,17.16,1752.51,1928.46,3680.97,8.564,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m2,0,5,3.9,3.215,390,592,296,101,63,13,11235.83,803.16,1977.45,2780.61,8.494,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,se,1,0,3.9,3.215,322,328,164,3,55,13,31.55,161.62,1658.99,1820.62,8.486,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m1,1,1,3.9,3.215,390,496,248,53,63,13,17.06,237.91,1905.87,2143.78,8.49,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m0.5,1,2,3.9,3.215,390,440,220,25,63,13,17.22,210.01,1906.46,2116.46,8.49,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m0,1,3,3.9,3.215,390,392,196,1,63,13,17.15,194.65,1906.42,2101.06,8.487,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,full30,1,4,3.9,3.215,390,3000,1500,1305,63,13,17.17,1736.78,1906.5,3643.28,8.564,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m2,1,5,3.9,3.215,390,592,296,101,63,13,17.16,288.38,1908.57,2196.95,8.494,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,se,2,0,3.9,3.215,322,328,164,3,55,13,17.13,162.14,1667.23,1829.36,8.486,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m1,2,1,3.9,3.215,390,496,248,53,63,13,17.09,238.24,1908.42,2146.66,8.49,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m0.5,2,2,3.9,3.215,390,440,220,25,63,13,17.18,209.92,1909.38,2119.3,8.49,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m0,2,3,3.9,3.215,390,392,196,1,63,13,17.07,194.88,1909.86,2104.73,8.487,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,full30,2,4,3.9,3.215,390,3000,1500,1305,63,13,17.16,1739.91,1910.0,3649.91,8.564,Is this essentially a bet on price movements against the house?
+q_820ebb1208f655e4,practice,m2,2,5,3.9,3.215,390,592,296,101,63,13,17.11,289.59,1911.31,2200.9,8.494,Is this essentially a bet on price movements against the house?
+q_21c248ae5ae43fbc,practice,full30,0,0,3.725,3.025,373,3000,1500,1313,61,11,20.37,1739.77,1545.75,3285.52,8.564,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,se,0,1,3.725,3.025,303,304,152,0,53,11,17.07,147.36,1339.94,1487.3,8.485,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m2,0,2,3.725,3.025,373,576,288,101,61,11,17.19,275.14,1548.78,1823.93,8.494,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m0,0,3,3.725,3.025,373,376,188,1,61,11,17.07,180.29,1551.68,1731.97,8.487,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m0.5,0,4,3.725,3.025,373,424,212,25,61,11,17.35,209.6,1552.95,1762.55,8.49,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m1,0,5,3.725,3.025,373,480,240,53,61,11,17.06,225.87,1555.26,1781.13,8.49,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,full30,1,0,3.725,3.025,373,3000,1500,1313,61,11,17.16,1745.73,1554.54,3300.27,8.564,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,se,1,1,3.725,3.025,303,304,152,0,53,11,17.14,147.8,1345.45,1493.24,8.485,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m2,1,2,3.725,3.025,373,576,288,101,61,11,17.23,275.61,1554.59,1830.21,8.494,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m0,1,3,3.725,3.025,373,376,188,1,61,11,17.0,180.77,1555.28,1736.05,8.487,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m0.5,1,4,3.725,3.025,373,424,212,25,61,11,17.88,210.23,1555.31,1765.54,8.49,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m1,1,5,3.725,3.025,373,480,240,53,61,11,17.0,226.13,1557.98,1784.11,8.49,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,full30,2,0,3.725,3.025,373,3000,1500,1313,61,11,17.16,1746.8,1554.68,3301.48,8.564,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,se,2,1,3.725,3.025,303,304,152,0,53,11,17.06,148.15,1344.95,1493.09,8.485,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m2,2,2,3.725,3.025,373,576,288,101,61,11,17.2,275.52,1556.79,1832.31,8.494,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m0,2,3,3.725,3.025,373,376,188,1,61,11,17.03,180.97,1556.18,1737.15,8.487,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m0.5,2,4,3.725,3.025,373,424,212,25,61,11,17.25,210.22,1556.8,1767.02,8.49,What are the salary differences between London and Berlin?
+q_21c248ae5ae43fbc,practice,m1,2,5,3.725,3.025,373,480,240,53,61,11,17.05,225.78,1556.88,1782.66,8.49,What are the salary differences between London and Berlin?
+q_558c8ea82bc79173,practice,full30,0,0,6.525,5.785,653,3000,1500,1173,96,21,17.51,1746.39,4507.18,6253.57,8.564,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,se,0,1,6.525,5.785,579,584,292,2,87,21,17.47,290.29,4125.78,4416.08,8.494,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m2,0,2,6.525,5.785,653,856,428,101,96,21,17.47,423.15,4512.78,4935.93,8.5,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m1,0,3,6.525,5.785,653,760,380,53,96,21,17.34,371.24,4513.52,4884.76,8.498,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m0.5,0,4,6.525,5.785,653,704,352,25,96,21,17.53,337.68,4515.71,4853.39,8.497,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m0,0,5,6.525,5.785,653,656,328,1,96,21,17.4,322.29,4516.62,4838.92,8.495,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,full30,1,0,6.525,5.785,653,3000,1500,1173,96,21,17.48,1749.61,4515.19,6264.8,8.564,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,se,1,1,6.525,5.785,579,584,292,2,87,21,17.45,290.76,4131.84,4422.6,8.494,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m2,1,2,6.525,5.785,653,856,428,101,96,21,17.48,423.47,4518.23,4941.71,8.5,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m1,1,3,6.525,5.785,653,760,380,53,96,21,17.39,371.09,4519.01,4890.1,8.498,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m0.5,1,4,6.525,5.785,653,704,352,25,96,21,17.6,337.88,4519.75,4857.63,8.497,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m0,1,5,6.525,5.785,653,656,328,1,96,21,17.37,322.31,4518.45,4840.76,8.495,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,full30,2,0,6.525,5.785,653,3000,1500,1173,96,21,17.51,1748.79,4518.99,6267.78,8.564,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,se,2,1,6.525,5.785,579,584,292,2,87,21,17.47,290.71,4133.53,4424.24,8.494,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m2,2,2,6.525,5.785,653,856,428,101,96,21,17.45,423.9,4520.24,4944.15,8.5,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m1,2,3,6.525,5.785,653,760,380,53,96,21,17.35,371.58,4518.66,4890.23,8.498,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m0.5,2,4,6.525,5.785,653,704,352,25,96,21,17.49,337.38,4518.84,4856.22,8.497,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_558c8ea82bc79173,practice,m0,2,5,6.525,5.785,653,656,328,1,96,21,19.33,322.69,4519.52,4842.21,8.495,How can I inform the Canada Revenue Agency that they are mailing someone else's documents to my address?
+q_d442a6395dbca951,practice,m1,0,0,5.775,5.235,578,680,340,51,87,18,19.13,335.97,3498.85,3834.82,8.496,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m0,0,1,5.775,5.235,578,584,292,3,87,18,17.25,290.7,3499.38,3790.08,8.494,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,se,0,2,5.775,5.235,524,528,264,2,80,18,17.4,255.82,3258.78,3514.61,8.492,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m0.5,0,3,5.775,5.235,578,632,316,27,87,18,17.23,305.94,3499.09,3805.03,8.495,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,full30,0,4,5.775,5.235,578,3000,1500,1211,87,18,17.37,1750.53,3499.39,5249.92,8.564,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m2,0,5,5.775,5.235,578,784,392,103,87,18,24.34,387.34,3498.11,3885.45,8.499,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m1,1,0,5.775,5.235,578,680,340,51,87,18,18.72,335.52,3492.76,3828.29,8.496,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m0,1,1,5.775,5.235,578,584,292,3,87,18,17.79,290.83,3639.49,3930.33,8.494,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,se,1,2,5.775,5.235,524,528,264,2,80,18,90.37,312.98,3253.63,3566.61,8.492,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m0.5,1,3,5.775,5.235,578,632,316,27,87,18,17.65,305.74,3498.73,3804.46,8.495,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,full30,1,4,5.775,5.235,578,3000,1500,1211,87,18,17.93,1754.51,3498.7,5253.21,8.564,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m2,1,5,5.775,5.235,578,784,392,103,87,18,17.69,387.56,3499.39,3886.95,8.499,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m1,2,0,5.775,5.235,578,680,340,51,87,18,17.28,338.97,3498.33,3837.29,8.496,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m0,2,1,5.775,5.235,578,584,292,3,87,18,17.46,290.59,3497.43,3788.02,8.494,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,se,2,2,5.775,5.235,524,528,264,2,80,18,17.26,255.82,3257.78,3513.59,8.492,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m0.5,2,3,5.775,5.235,578,632,316,27,87,18,21.31,306.15,3498.98,3805.14,8.495,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,full30,2,4,5.775,5.235,578,3000,1500,1211,87,18,17.35,1751.92,3498.51,5250.43,8.564,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_d442a6395dbca951,practice,m2,2,5,5.775,5.235,578,784,392,103,87,18,17.34,387.38,3497.36,3884.74,8.499,What are the best tools for visualizing a stock portfolio's value as a graph?
+q_b1ab6d6caf82c83a,practice,m2,0,0,4.75,4.225,475,680,340,102,74,15,29.03,336.12,2519.76,2855.87,8.496,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m0.5,0,1,4.75,4.225,475,528,264,26,74,15,17.43,256.04,2520.62,2776.67,8.492,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m1,0,2,4.75,4.225,475,576,288,50,74,15,19.03,276.63,2521.62,2798.25,8.494,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m0,0,3,4.75,4.225,475,480,240,2,74,15,17.3,226.36,2508.08,2734.44,8.49,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,full30,0,4,4.75,4.225,475,3000,1500,1262,74,15,17.29,1750.58,2521.56,4272.14,8.564,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,se,0,5,4.75,4.225,423,424,212,0,68,15,17.31,210.66,2356.73,2567.39,8.49,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m2,1,0,4.75,4.225,475,680,340,102,74,15,17.56,336.3,2521.98,2858.28,8.496,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m0.5,1,1,4.75,4.225,475,528,264,26,74,15,17.19,256.23,2521.67,2777.9,8.492,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m1,1,2,4.75,4.225,475,576,288,50,74,15,24.37,275.65,2521.82,2797.48,8.494,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m0,1,3,4.75,4.225,475,480,240,2,74,15,18.51,226.55,2520.58,2747.13,8.49,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,full30,1,4,4.75,4.225,475,3000,1500,1262,74,15,17.25,1749.56,2519.44,4269.0,8.564,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,se,1,5,4.75,4.225,423,424,212,0,68,15,17.38,210.88,2356.49,2567.37,8.49,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m2,2,0,4.75,4.225,475,680,340,102,74,15,17.33,336.25,2520.47,2856.72,8.496,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m0.5,2,1,4.75,4.225,475,528,264,26,74,15,17.33,255.94,2522.04,2777.98,8.492,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m1,2,2,4.75,4.225,475,576,288,50,74,15,17.37,276.57,2520.55,2797.11,8.494,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,m0,2,3,4.75,4.225,475,480,240,2,74,15,18.08,226.69,2522.34,2749.03,8.49,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,full30,2,4,4.75,4.225,475,3000,1500,1262,74,15,17.31,1748.33,2520.74,4269.07,8.564,Is Amazon's offer of a fifty dollars gift card a scam?
+q_b1ab6d6caf82c83a,practice,se,2,5,4.75,4.225,423,424,212,0,68,15,17.4,210.58,2350.74,2561.32,8.49,Is Amazon's offer of a fifty dollars gift card a scam?
+q_76d781fbb9581792,practice,m0,0,0,2.175,1.615,218,224,112,3,42,5,17.0,106.88,472.32,579.2,8.482,Physical checks mailing.
+q_76d781fbb9581792,practice,full30,0,1,2.175,1.615,218,3000,1500,1391,42,5,17.07,1750.38,472.79,2223.17,8.564,Physical checks mailing.
+q_76d781fbb9581792,practice,m0.5,0,2,2.175,1.615,218,272,136,27,42,5,16.95,134.59,472.5,607.09,8.483,Physical checks mailing.
+q_76d781fbb9581792,practice,m1,0,3,2.175,1.615,218,320,160,51,42,5,17.08,148.7,472.4,621.1,8.485,Physical checks mailing.
+q_76d781fbb9581792,practice,m2,0,4,2.175,1.615,218,424,212,103,42,5,17.25,210.55,472.47,683.02,8.49,Physical checks mailing.
+q_76d781fbb9581792,practice,se,0,5,2.175,1.615,162,168,84,3,35,5,17.16,91.08,467.76,558.84,8.481,Physical checks mailing.
+q_76d781fbb9581792,practice,m0,1,0,2.175,1.615,218,224,112,3,42,5,16.92,106.96,472.39,579.35,8.482,Physical checks mailing.
+q_76d781fbb9581792,practice,full30,1,1,2.175,1.615,218,3000,1500,1391,42,5,17.0,1749.63,472.71,2222.34,8.564,Physical checks mailing.
+q_76d781fbb9581792,practice,m0.5,1,2,2.175,1.615,218,272,136,27,42,5,16.95,134.82,472.59,607.41,8.483,Physical checks mailing.
+q_76d781fbb9581792,practice,m1,1,3,2.175,1.615,218,320,160,51,42,5,17.15,148.88,472.71,621.59,8.485,Physical checks mailing.
+q_76d781fbb9581792,practice,m2,1,4,2.175,1.615,218,424,212,103,42,5,16.92,210.85,472.31,683.16,8.49,Physical checks mailing.
+q_76d781fbb9581792,practice,se,1,5,2.175,1.615,162,168,84,3,35,5,17.04,91.2,468.14,559.34,8.481,Physical checks mailing.
+q_76d781fbb9581792,practice,m0,2,0,2.175,1.615,218,224,112,3,42,5,16.93,106.87,472.6,579.47,8.482,Physical checks mailing.
+q_76d781fbb9581792,practice,full30,2,1,2.175,1.615,218,3000,1500,1391,42,5,17.02,1751.22,472.33,2223.55,8.564,Physical checks mailing.
+q_76d781fbb9581792,practice,m0.5,2,2,2.175,1.615,218,272,136,27,42,5,16.92,134.72,472.67,607.38,8.483,Physical checks mailing.
+q_76d781fbb9581792,practice,m1,2,3,2.175,1.615,218,320,160,51,42,5,17.08,148.99,472.49,621.48,8.485,Physical checks mailing.
+q_76d781fbb9581792,practice,m2,2,4,2.175,1.615,218,424,212,103,42,5,16.93,210.37,472.64,683.01,8.49,Physical checks mailing.
+q_76d781fbb9581792,practice,se,2,5,2.175,1.615,162,168,84,3,35,5,17.03,91.62,467.73,559.36,8.481,Physical checks mailing.
+q_5648e23ddbe76e13,practice,full30,0,0,3.65,2.945,365,3000,1500,1317,60,11,17.09,1748.6,1525.27,3273.87,8.564,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,se,0,1,3.65,2.945,295,296,148,0,52,11,17.13,147.72,1349.1,1496.82,8.485,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m1,0,2,3.65,2.945,365,472,236,53,60,11,17.72,226.15,1530.1,1756.25,8.49,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m0,0,3,3.65,2.945,365,368,184,1,60,11,17.34,180.65,1530.06,1710.72,8.486,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m0.5,0,4,3.65,2.945,365,416,208,25,60,11,17.08,197.93,1529.44,1727.37,8.49,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m2,0,5,3.65,2.945,365,568,284,101,60,11,17.17,275.45,1534.39,1809.84,8.494,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,full30,1,0,3.65,2.945,365,3000,1500,1317,60,11,31.1,1749.24,1529.95,3279.19,8.564,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,se,1,1,3.65,2.945,295,296,148,0,52,11,17.26,147.83,1348.36,1496.19,8.485,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m1,1,2,3.65,2.945,365,472,236,53,60,11,17.25,226.42,1527.89,1754.31,8.49,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m0,1,3,3.65,2.945,365,368,184,1,60,11,17.23,180.51,1530.96,1711.47,8.486,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m0.5,1,4,3.65,2.945,365,416,208,25,60,11,17.02,197.86,1530.68,1728.54,8.49,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m2,1,5,3.65,2.945,365,568,284,101,60,11,17.21,275.01,1531.16,1806.17,8.494,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,full30,2,0,3.65,2.945,365,3000,1500,1317,60,11,16.99,1748.56,1525.81,3274.37,8.564,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,se,2,1,3.65,2.945,295,296,148,0,52,11,17.18,147.62,1347.2,1494.82,8.485,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m1,2,2,3.65,2.945,365,472,236,53,60,11,17.11,226.36,1529.56,1755.92,8.49,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m0,2,3,3.65,2.945,365,368,184,1,60,11,17.32,181.02,1529.56,1710.58,8.486,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m0.5,2,4,3.65,2.945,365,416,208,25,60,11,17.14,197.75,1529.1,1726.85,8.49,Explanations of credit card usage in Canada.
+q_5648e23ddbe76e13,practice,m2,2,5,3.65,2.945,365,568,284,101,60,11,17.26,275.6,1529.89,1805.49,8.494,Explanations of credit card usage in Canada.
+q_aacc140e1f97ca02,practice,m0.5,0,0,3.025,2.595,303,360,180,28,53,12,17.11,179.93,1471.71,1651.64,8.486,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,m0,0,1,3.025,2.595,303,304,152,0,53,12,17.27,148.04,1472.88,1620.92,8.485,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,m1,0,2,3.025,2.595,303,408,204,52,53,12,17.14,196.45,1471.02,1667.47,8.487,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,full30,0,3,3.025,2.595,303,3000,1500,1348,53,12,17.15,1750.01,1467.9,3217.91,8.564,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,se,0,4,3.025,2.595,260,264,132,2,47,11,17.04,134.17,1285.06,1419.23,8.484,How to record capital losses in GnuCash
+q_aacc140e1f97ca02,practice,m2,0,5,3.025,2.595,303,504,252,100,53,12,17.21,240.36,1472.75,1713.11,8.49,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,m0.5,1,0,3.025,2.595,303,360,180,28,53,12,16.99,180.56,1475.2,1655.76,8.486,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,m0,1,1,3.025,2.595,303,304,152,0,53,12,17.14,148.6,1471.31,1619.91,8.485,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,m1,1,2,3.025,2.595,303,408,204,52,53,12,16.95,196.63,1473.2,1669.84,8.487,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,full30,1,3,3.025,2.595,303,3000,1500,1348,53,12,17.12,1749.39,1473.98,3223.37,8.564,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,se,1,4,3.025,2.595,260,264,132,2,47,11,17.21,134.12,1285.44,1419.57,8.484,How to record capital losses in GnuCash
+q_aacc140e1f97ca02,practice,m2,1,5,3.025,2.595,303,504,252,100,53,12,17.17,240.31,1472.51,1712.83,8.49,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,m0.5,2,0,3.025,2.595,303,360,180,28,53,12,17.07,180.53,1473.53,1654.06,8.486,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,m0,2,1,3.025,2.595,303,304,152,0,53,12,17.18,148.26,1472.45,1620.71,8.485,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,m1,2,2,3.025,2.595,303,408,204,52,53,12,16.97,196.82,1474.3,1671.12,8.487,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,full30,2,3,3.025,2.595,303,3000,1500,1348,53,12,17.09,1748.25,1468.15,3216.4,8.564,How to record capital losses in GnuCash.
+q_aacc140e1f97ca02,practice,se,2,4,3.025,2.595,260,264,132,2,47,11,17.12,133.97,1285.68,1419.65,8.484,How to record capital losses in GnuCash
+q_aacc140e1f97ca02,practice,m2,2,5,3.025,2.595,303,504,252,100,53,12,17.13,240.62,1475.83,1716.45,8.49,How to record capital losses in GnuCash.
+q_8507512c8e8a10bc,practice,m0.5,0,0,4.0,3.275,400,456,228,28,65,13,17.31,225.44,1985.88,2211.32,8.49,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m2,0,1,4.0,3.275,400,600,300,100,65,13,17.29,291.48,1985.11,2276.6,8.494,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,se,0,2,4.0,3.275,328,328,164,0,56,13,17.06,163.34,1716.41,1879.75,8.486,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m0,0,3,4.0,3.275,400,400,200,0,65,13,17.24,195.98,1985.66,2181.64,8.487,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,full30,0,4,4.0,3.275,400,3000,1500,1300,65,13,17.2,1750.35,1985.94,3736.29,8.564,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m1,0,5,4.0,3.275,400,504,252,52,65,13,17.61,240.64,1986.99,2227.63,8.49,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m0.5,1,0,4.0,3.275,400,456,228,28,65,13,17.21,225.46,1988.06,2213.52,8.49,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m2,1,1,4.0,3.275,400,600,300,100,65,13,18.03,290.84,1985.6,2276.44,8.494,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,se,1,2,4.0,3.275,328,328,164,0,56,13,17.13,162.88,1717.23,1880.11,8.486,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m0,1,3,4.0,3.275,400,400,200,0,65,13,17.32,196.16,1985.67,2181.82,8.487,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,full30,1,4,4.0,3.275,400,3000,1500,1300,65,13,17.13,1749.51,1981.95,3731.46,8.564,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m1,1,5,4.0,3.275,400,504,252,52,65,13,17.45,240.75,1984.69,2225.43,8.49,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m0.5,2,0,4.0,3.275,400,456,228,28,65,13,17.17,225.83,1984.29,2210.13,8.49,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m2,2,1,4.0,3.275,400,600,300,100,65,13,17.34,291.62,1986.99,2278.61,8.494,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,se,2,2,4.0,3.275,328,328,164,0,56,13,17.08,163.12,1716.38,1879.5,8.486,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m0,2,3,4.0,3.275,400,400,200,0,65,13,17.32,195.93,1984.89,2180.82,8.487,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,full30,2,4,4.0,3.275,400,3000,1500,1300,65,13,17.14,1748.28,1985.64,3733.92,8.564,What is the stock composition of a publicly traded fund?
+q_8507512c8e8a10bc,practice,m1,2,5,4.0,3.275,400,504,252,52,65,13,17.39,240.71,1984.64,2225.35,8.49,What is the stock composition of a publicly traded fund?
+q_a0e967a158e41ce3,practice,m0,0,0,5.775,5.155,578,584,292,3,87,20,18.92,289.85,3919.01,4208.87,8.494,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m1,0,1,5.775,5.155,578,680,340,51,87,20,17.44,335.45,3919.01,4254.46,8.496,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,full30,0,2,5.775,5.155,578,3000,1500,1211,87,20,17.23,1749.57,3918.67,5668.23,8.564,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m2,0,3,5.775,5.155,578,784,392,103,87,20,17.65,387.45,3918.6,4306.05,8.499,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m0.5,0,4,5.775,5.155,578,632,316,27,87,20,17.22,305.65,3917.47,4223.12,8.495,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,se,0,5,5.775,5.155,516,520,260,2,79,20,24.42,255.73,3616.39,3872.12,8.491,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m0,1,0,5.775,5.155,578,584,292,3,87,20,18.66,289.97,3917.1,4207.07,8.494,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m1,1,1,5.775,5.155,578,680,340,51,87,20,17.49,336.54,3916.2,4252.74,8.496,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,full30,1,2,5.775,5.155,578,3000,1500,1211,87,20,17.28,1749.89,3903.8,5653.69,8.564,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m2,1,3,5.775,5.155,578,784,392,103,87,20,18.08,387.33,3918.25,4305.58,8.499,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m0.5,1,4,5.775,5.155,578,632,316,27,87,20,17.41,305.64,3919.1,4224.74,8.495,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,se,1,5,5.775,5.155,516,520,260,2,79,20,17.4,255.75,3618.62,3874.36,8.491,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m0,2,0,5.775,5.155,578,584,292,3,87,20,17.24,290.67,3916.82,4207.49,8.494,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m1,2,1,5.775,5.155,578,680,340,51,87,20,17.47,336.27,3916.41,4252.68,8.496,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,full30,2,2,5.775,5.155,578,3000,1500,1211,87,20,17.22,1748.01,3919.46,5667.48,8.564,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m2,2,3,5.775,5.155,578,784,392,103,87,20,17.53,387.36,3918.26,4305.61,8.499,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,m0.5,2,4,5.775,5.155,578,632,316,27,87,20,17.25,305.72,3905.12,4210.84,8.495,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_a0e967a158e41ce3,practice,se,2,5,5.775,5.155,516,520,260,2,79,20,17.45,255.98,3619.92,3875.9,8.491,What is the impact of taking a car loan versus paying in cash on one's credit score?
+q_d76c858510d1e999,practice,m0,0,0,5.325,4.795,533,536,268,1,81,16,18.86,256.05,2890.07,3146.12,8.492,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m1,0,1,5.325,4.795,533,640,320,53,81,16,17.34,306.34,2889.43,3195.76,8.495,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,se,0,2,5.325,4.795,480,480,240,0,75,16,17.16,226.53,2723.12,2949.65,8.49,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m2,0,3,5.325,4.795,533,736,368,101,81,16,17.47,356.73,2890.67,3247.4,8.497,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,full30,0,4,5.325,4.795,533,3000,1500,1233,81,16,17.14,1748.35,2885.06,4633.42,8.564,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m0.5,0,5,5.325,4.795,533,584,292,25,81,16,17.43,289.69,2889.59,3179.28,8.494,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m0,1,0,5.325,4.795,533,536,268,1,81,16,23.7,256.22,2889.04,3145.26,8.492,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m1,1,1,5.325,4.795,533,640,320,53,81,16,19.44,306.4,2891.46,3197.86,8.495,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,se,1,2,5.325,4.795,480,480,240,0,75,16,17.23,226.61,2720.29,2946.89,8.49,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m2,1,3,5.325,4.795,533,736,368,101,81,16,17.42,356.79,2888.78,3245.57,8.497,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,full30,1,4,5.325,4.795,533,3000,1500,1233,81,16,17.22,1750.76,2882.59,4633.35,8.564,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m0.5,1,5,5.325,4.795,533,584,292,25,81,16,17.5,290.55,3484.85,3775.4,8.494,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m0,2,0,5.325,4.795,533,536,268,1,81,16,1687.03,260.52,2868.86,3129.38,8.492,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m1,2,1,5.325,4.795,533,640,320,53,81,16,17.44,305.96,2881.06,3187.02,8.495,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,se,2,2,5.325,4.795,480,480,240,0,75,16,17.19,225.67,2715.62,2941.28,8.49,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m2,2,3,5.325,4.795,533,736,368,101,81,16,17.49,355.72,2880.79,3236.51,8.497,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,full30,2,4,5.325,4.795,533,3000,1500,1233,81,16,17.11,1747.75,2873.14,4620.9,8.564,What is the income tax on my online dropshipping business in India?
+q_d76c858510d1e999,practice,m0.5,2,5,5.325,4.795,533,584,292,25,81,16,17.44,289.82,2887.07,3176.89,8.494,What is the income tax on my online dropshipping business in India?
+q_c3dad6ee3fe9e058,practice,m1,0,0,8.175,7.435,818,920,460,51,117,33,17.42,456.54,8635.84,9092.38,8.503,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,full30,0,1,8.175,7.435,818,3000,1500,1091,117,33,17.69,1748.15,8638.31,10386.46,8.564,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,m0.5,0,2,8.175,7.435,818,872,436,27,117,33,17.74,436.52,8638.61,9075.14,8.501,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,m0,0,3,8.175,7.435,818,824,412,3,117,34,17.61,405.89,8934.62,9340.51,8.5,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximise these deductions?"
+q_c3dad6ee3fe9e058,practice,m2,0,4,8.175,7.435,818,1024,512,103,117,33,17.52,504.92,8638.0,9142.92,8.507,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,se,0,5,8.175,7.435,744,744,372,0,108,33,8792.31,946.69,8078.83,9025.52,8.497,"What are the tax write-offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,m1,1,0,8.175,7.435,818,920,460,51,117,33,43.32,453.24,8555.8,9009.04,8.503,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,full30,1,1,8.175,7.435,818,3000,1500,1091,117,33,17.6,1738.36,8551.72,10290.08,8.564,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,m0.5,1,2,8.175,7.435,818,872,436,27,117,33,17.67,433.93,8578.3,9012.23,8.501,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,m0,1,3,8.175,7.435,818,824,412,3,117,34,17.74,406.28,8893.63,9299.91,8.5,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximise these deductions?"
+q_c3dad6ee3fe9e058,practice,m2,1,4,8.175,7.435,818,1024,512,103,117,33,17.53,503.31,8611.76,9115.07,8.507,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,se,1,5,8.175,7.435,744,744,372,0,108,33,17.72,369.3,8085.86,8455.16,8.497,"What are the tax write-offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,m1,2,0,8.175,7.435,818,920,460,51,117,33,17.59,457.49,8633.04,9090.53,8.503,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,full30,2,1,8.175,7.435,818,3000,1500,1091,117,33,17.63,1747.08,8635.92,10383.0,8.564,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,m0.5,2,2,8.175,7.435,818,872,436,27,117,33,17.85,436.62,8636.96,9073.58,8.501,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,m0,2,3,8.175,7.435,818,824,412,3,117,34,17.65,406.81,8936.39,9343.2,8.5,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximise these deductions?"
+q_c3dad6ee3fe9e058,practice,m2,2,4,8.175,7.435,818,1024,512,103,117,33,17.54,505.05,8639.02,9144.07,8.507,"What are the tax write offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_c3dad6ee3fe9e058,practice,se,2,5,8.175,7.435,744,744,372,0,108,33,17.59,370.78,8105.95,8476.73,8.497,"What are the tax write-offs available for individuals, and how much do I need to spend before the end of the year to maximize these deductions?"
+q_d89d5b54549a7833,practice,m0,0,0,4.3,3.825,430,432,216,1,68,19,20.5,210.52,3061.36,3271.88,8.49,What are the steps for a U.S. citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,full30,0,1,4.3,3.825,430,3000,1500,1285,68,19,17.24,1747.47,3070.04,4817.51,8.564,What are the steps for a U.S. citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m2,0,2,4.3,3.825,430,632,316,101,68,17,17.26,304.78,2709.66,3014.45,8.495,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m1,0,3,4.3,3.825,430,536,268,53,68,17,17.32,256.23,2712.48,2968.71,8.492,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m0.5,0,4,4.3,3.825,430,480,240,25,68,17,17.19,226.64,2709.19,2935.83,8.49,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,se,0,5,4.3,3.825,383,384,192,0,63,17,17.22,181.74,2539.54,2721.28,8.487,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m0,1,0,4.3,3.825,430,432,216,1,68,19,17.2,210.87,3074.31,3285.18,8.49,What are the steps for a U.S. citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,full30,1,1,4.3,3.825,430,3000,1500,1285,68,19,19.59,1750.88,3075.11,4826.0,8.564,What are the steps for a U.S. citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m2,1,2,4.3,3.825,430,632,316,101,68,17,17.21,305.35,2713.8,3019.15,8.495,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m1,1,3,4.3,3.825,430,536,268,53,68,17,17.27,256.59,2713.15,2969.74,8.492,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m0.5,1,4,4.3,3.825,430,480,240,25,68,17,17.18,226.68,2713.42,2940.1,8.49,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,se,1,5,4.3,3.825,383,384,192,0,63,17,17.33,181.55,2541.15,2722.7,8.487,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m0,2,0,4.3,3.825,430,432,216,1,68,19,17.16,211.21,3073.07,3284.28,8.49,What are the steps for a U.S. citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,full30,2,1,4.3,3.825,430,3000,1500,1285,68,19,17.27,1751.79,3074.52,4826.3,8.564,What are the steps for a U.S. citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m2,2,2,4.3,3.825,430,632,316,101,68,17,17.22,305.98,2712.17,3018.15,8.495,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m1,2,3,4.3,3.825,430,536,268,53,68,17,17.28,256.49,2712.47,2968.96,8.492,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,m0.5,2,4,4.3,3.825,430,480,240,25,68,17,17.3,226.29,2713.32,2939.61,8.49,What are the steps for a US citizen to open a bank account in Europe?
+q_d89d5b54549a7833,practice,se,2,5,4.3,3.825,383,384,192,0,63,17,17.96,181.42,2542.07,2723.49,8.487,What are the steps for a US citizen to open a bank account in Europe?
+q_148262b1f4e5ab84,practice,m0.5,0,0,4.0,3.305,400,456,228,28,65,12,21.31,227.84,1994.51,2222.35,8.49,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m1,0,1,4.0,3.305,400,504,252,52,65,12,92.68,263.05,1832.96,2096.01,8.49,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,se,0,2,4.0,3.305,331,336,168,2,56,12,17.22,163.13,1563.44,1726.57,8.486,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m0,0,3,4.0,3.305,400,400,200,0,65,12,17.31,196.44,1830.66,2027.1,8.487,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m2,0,4,4.0,3.305,400,600,300,100,65,12,17.24,291.34,1829.61,2120.95,8.494,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,full30,0,5,4.0,3.305,400,3000,1500,1300,65,12,17.38,1750.31,1830.18,3580.49,8.564,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m0.5,1,0,4.0,3.305,400,456,228,28,65,12,18.79,225.06,1830.45,2055.51,8.49,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m1,1,1,4.0,3.305,400,504,252,52,65,12,17.25,240.58,1831.18,2071.76,8.49,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,se,1,2,4.0,3.305,331,336,168,2,56,12,17.14,163.67,1560.07,1723.73,8.486,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m0,1,3,4.0,3.305,400,400,200,0,65,12,17.29,196.19,1833.35,2029.54,8.487,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m2,1,4,4.0,3.305,400,600,300,100,65,12,17.11,293.96,1830.09,2124.05,8.494,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,full30,1,5,4.0,3.305,400,3000,1500,1300,65,12,17.34,1748.14,1830.46,3578.6,8.564,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m0.5,2,0,4.0,3.305,400,456,228,28,65,12,17.17,225.53,1830.54,2056.07,8.49,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m1,2,1,4.0,3.305,400,504,252,52,65,12,17.33,240.94,1832.26,2073.2,8.49,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,se,2,2,4.0,3.305,331,336,168,2,56,12,17.03,163.92,1561.8,1725.72,8.486,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m0,2,3,4.0,3.305,400,400,200,0,65,12,24.25,195.68,1831.35,2027.03,8.487,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,m2,2,4,4.0,3.305,400,600,300,100,65,12,18.57,290.53,1832.21,2122.75,8.494,Merchant dispute with airline over altered travel plans.
+q_148262b1f4e5ab84,practice,full30,2,5,4.0,3.305,400,3000,1500,1300,65,12,17.31,1748.06,1829.2,3577.26,8.564,Merchant dispute with airline over altered travel plans.
+q_4e29b0ce6fa96d1a,practice,se,0,0,3.375,2.815,282,288,144,3,50,12,19.37,134.96,1462.47,1597.43,8.485,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m2,0,1,3.375,2.815,338,544,272,103,57,12,17.25,257.35,1587.5,1844.85,8.492,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m0.5,0,2,3.375,2.815,338,392,196,27,57,12,17.05,195.63,1594.64,1790.28,8.487,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m1,0,3,3.375,2.815,338,440,220,51,57,12,17.17,211.5,1593.41,1804.91,8.49,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,full30,0,4,3.375,2.815,338,3000,1500,1331,57,12,17.03,1748.41,1592.81,3341.22,8.564,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m0,0,5,3.375,2.815,338,344,172,3,57,12,17.24,164.08,1594.57,1758.66,8.486,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,se,1,0,3.375,2.815,282,288,144,3,50,12,17.57,135.24,1467.44,1602.67,8.485,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m2,1,1,3.375,2.815,338,544,272,103,57,12,17.17,258.08,1591.1,1849.18,8.492,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m0.5,1,2,3.375,2.815,338,392,196,27,57,12,17.01,195.63,1595.64,1791.28,8.487,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m1,1,3,3.375,2.815,338,440,220,51,57,12,17.17,211.82,1595.25,1807.07,8.49,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,full30,1,4,3.375,2.815,338,3000,1500,1331,57,12,16.99,1750.52,1595.75,3346.28,8.564,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m0,1,5,3.375,2.815,338,344,172,3,57,12,17.2,163.8,1595.15,1758.95,8.486,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,se,2,0,3.375,2.815,282,288,144,3,50,12,16.97,135.36,1468.39,1603.75,8.485,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m2,2,1,3.375,2.815,338,544,272,103,57,12,17.21,258.39,1591.42,1849.81,8.492,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m0.5,2,2,3.375,2.815,338,392,196,27,57,12,16.99,195.36,1594.46,1789.82,8.487,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m1,2,3,3.375,2.815,338,440,220,51,57,12,17.2,211.53,1595.17,1806.7,8.49,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,full30,2,4,3.375,2.815,338,3000,1500,1331,57,12,16.98,1748.71,1592.54,3341.24,8.564,How to place a limit sell order for one percent.
+q_4e29b0ce6fa96d1a,practice,m0,2,5,3.375,2.815,338,344,172,3,57,12,17.18,163.82,1593.34,1757.16,8.486,How to place a limit sell order for one percent.
+q_e16177bbeb991130,practice,m2,0,0,4.4,3.685,440,640,320,100,70,11,17.53,305.22,1690.57,1995.8,8.495,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m0.5,0,1,4.4,3.685,440,496,248,28,70,11,17.62,240.13,1687.08,1927.21,8.49,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,se,0,2,4.4,3.685,369,376,188,3,61,11,17.09,181.19,1558.52,1739.72,8.487,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,full30,0,3,4.4,3.685,440,3000,1500,1280,70,11,17.39,1750.84,1687.55,3438.39,8.564,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m1,0,4,4.4,3.685,440,544,272,52,70,11,19.91,257.79,1688.16,1945.94,8.492,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m0,0,5,4.4,3.685,440,440,220,0,70,11,17.29,211.27,1688.56,1899.82,8.49,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m2,1,0,4.4,3.685,440,640,320,100,70,11,17.11,306.51,1689.13,1995.64,8.495,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m0.5,1,1,4.4,3.685,440,496,248,28,70,11,18.82,240.18,1689.31,1929.49,8.49,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,se,1,2,4.4,3.685,369,376,188,3,61,11,17.12,181.1,1559.99,1741.09,8.487,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,full30,1,3,4.4,3.685,440,3000,1500,1280,70,11,17.24,1750.98,1684.04,3435.02,8.564,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m1,1,4,4.4,3.685,440,544,272,52,70,11,17.25,257.89,1689.06,1946.94,8.492,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m0,1,5,4.4,3.685,440,440,220,0,70,11,17.33,211.71,1690.12,1901.83,8.49,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m2,2,0,4.4,3.685,440,640,320,100,70,11,17.2,305.81,1689.22,1995.03,8.495,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m0.5,2,1,4.4,3.685,440,496,248,28,70,11,17.3,240.31,1691.32,1931.63,8.49,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,se,2,2,4.4,3.685,369,376,188,3,61,11,17.1,181.82,1555.41,1737.23,8.487,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,full30,2,3,4.4,3.685,440,3000,1500,1280,70,11,17.25,1747.98,1690.89,3438.86,8.564,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m1,2,4,4.4,3.685,440,544,272,52,70,11,23.73,258.09,1689.74,1947.83,8.492,What are some recommended software packages for technical analysis?
+q_e16177bbeb991130,practice,m0,2,5,4.4,3.685,440,440,220,0,70,11,19.3,211.31,1688.71,1900.02,8.49,What are some recommended software packages for technical analysis?
+q_88c0c4a51d15d0da,practice,m1,0,0,4.35,3.845,435,536,268,50,69,15,17.35,255.82,2378.17,2633.99,8.492,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m0,0,1,4.35,3.845,435,440,220,2,69,15,17.31,211.42,2380.23,2591.65,8.49,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m2,0,2,4.35,3.845,435,640,320,102,69,15,17.16,306.15,2382.36,2688.51,8.495,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,se,0,3,4.35,3.845,385,392,196,3,63,15,17.29,195.66,2236.2,2431.86,8.487,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m0.5,0,4,4.35,3.845,435,488,244,26,69,15,203.25,239.53,2371.19,2610.72,8.49,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,full30,0,5,4.35,3.845,435,3000,1500,1282,69,15,17.31,1748.23,2378.45,4126.68,8.564,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m1,1,0,4.35,3.845,435,536,268,50,69,15,17.62,256.51,2379.2,2635.72,8.492,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m0,1,1,4.35,3.845,435,440,220,2,69,15,17.38,211.77,2379.57,2591.33,8.49,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m2,1,2,4.35,3.845,435,640,320,102,69,15,17.16,306.4,2380.77,2687.17,8.495,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,se,1,3,4.35,3.845,385,392,196,3,63,15,17.38,195.52,2233.28,2428.8,8.487,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m0.5,1,4,4.35,3.845,435,488,244,26,69,15,17.41,239.55,2382.34,2621.89,8.49,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,full30,1,5,4.35,3.845,435,3000,1500,1282,69,15,17.35,1748.12,2381.62,4129.74,8.564,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m1,2,0,4.35,3.845,435,536,268,50,69,15,17.3,256.77,2381.28,2638.05,8.492,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m0,2,1,4.35,3.845,435,440,220,2,69,15,17.11,211.43,2380.74,2592.17,8.49,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m2,2,2,4.35,3.845,435,640,320,102,69,15,17.37,306.01,2380.2,2686.22,8.495,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,se,2,3,4.35,3.845,385,392,196,3,63,15,17.08,195.58,2232.53,2428.11,8.487,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,m0.5,2,4,4.35,3.845,435,488,244,26,69,15,17.33,239.5,2381.9,2621.4,8.49,Where can I find historical stock prices for Merrill Lynch?
+q_88c0c4a51d15d0da,practice,full30,2,5,4.35,3.845,435,3000,1500,1282,69,15,17.08,1749.22,2377.89,4127.12,8.564,Where can I find historical stock prices for Merrill Lynch?
+q_c5a5320bcfd3a373,practice,m1,0,0,5.4,4.855,540,640,320,50,82,16,17.43,305.6,2922.69,3228.29,8.495,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,se,0,1,5.4,4.855,486,488,244,1,75,17,17.34,239.7,2907.1,3146.81,8.49,How to transfer money from 403B to 401K
+q_c5a5320bcfd3a373,practice,m0.5,0,2,5.4,4.855,540,592,296,26,82,16,17.45,290.88,2923.48,3214.36,8.494,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,m0,0,3,5.4,4.855,540,544,272,2,82,18,17.24,258.1,3342.11,3600.2,8.492,How to transfer money from 403B to 401K.
+q_c5a5320bcfd3a373,practice,m2,0,4,5.4,4.855,540,744,372,102,82,16,17.49,370.23,2921.89,3292.11,8.497,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,full30,0,5,5.4,4.855,540,3000,1500,1230,82,16,17.16,1747.74,2922.35,4670.09,8.564,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,m1,1,0,5.4,4.855,540,640,320,50,82,16,17.41,306.22,2922.6,3228.81,8.495,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,se,1,1,5.4,4.855,486,488,244,1,75,17,17.14,239.47,2909.26,3148.73,8.49,How to transfer money from 403B to 401K
+q_c5a5320bcfd3a373,practice,m0.5,1,2,5.4,4.855,540,592,296,26,82,16,17.36,290.82,2921.7,3212.52,8.494,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,m0,1,3,5.4,4.855,540,544,272,2,82,18,18.06,257.87,3341.71,3599.58,8.492,How to transfer money from 403B to 401K.
+q_c5a5320bcfd3a373,practice,m2,1,4,5.4,4.855,540,744,372,102,82,16,17.44,369.68,2919.53,3289.21,8.497,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,full30,1,5,5.4,4.855,540,3000,1500,1230,82,16,17.2,1747.95,2921.07,4669.02,8.564,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,m1,2,0,5.4,4.855,540,640,320,50,82,16,17.51,306.51,2921.64,3228.15,8.495,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,se,2,1,5.4,4.855,486,488,244,1,75,17,17.14,239.39,2907.83,3147.22,8.49,How to transfer money from 403B to 401K
+q_c5a5320bcfd3a373,practice,m0.5,2,2,5.4,4.855,540,592,296,26,82,16,17.48,291.31,2923.3,3214.61,8.494,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,m0,2,3,5.4,4.855,540,544,272,2,82,18,17.24,258.01,3341.81,3599.82,8.492,How to transfer money from 403B to 401K.
+q_c5a5320bcfd3a373,practice,m2,2,4,5.4,4.855,540,744,372,102,82,16,17.39,369.75,2921.96,3291.71,8.497,How to transfer money from four hundred three B to four hundred one K.
+q_c5a5320bcfd3a373,practice,full30,2,5,5.4,4.855,540,3000,1500,1230,82,16,17.5,1748.97,2921.41,4670.39,8.564,How to transfer money from four hundred three B to four hundred one K.
+q_a23082a7392db78b,practice,full30,0,0,7.725,7.215,773,3000,1500,1113,111,22,18.37,1748.18,5327.98,7076.16,8.564,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m1,0,1,7.725,7.215,773,880,440,53,111,22,17.47,437.96,5328.03,5765.99,8.502,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m0.5,0,2,7.725,7.215,773,824,412,25,111,22,17.6,407.55,5327.43,5734.99,8.5,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,se,0,3,7.725,7.215,722,728,364,3,105,22,17.55,356.57,5052.01,5408.58,8.497,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m2,0,4,7.725,7.215,773,976,488,101,111,22,17.61,489.1,5327.37,5816.48,8.504,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m0,0,5,7.725,7.215,773,776,388,1,111,22,17.53,387.11,5329.69,5716.81,8.499,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,full30,1,0,7.725,7.215,773,3000,1500,1113,111,22,17.54,1749.54,5330.8,7080.34,8.564,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m1,1,1,7.725,7.215,773,880,440,53,111,22,17.56,437.5,5327.94,5765.44,8.502,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m0.5,1,2,7.725,7.215,773,824,412,25,111,22,17.63,407.16,5329.79,5736.95,8.5,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,se,1,3,7.725,7.215,722,728,364,3,105,22,17.4,356.34,5053.89,5410.23,8.497,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m2,1,4,7.725,7.215,773,976,488,101,111,22,17.72,488.88,5328.87,5817.75,8.504,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m0,1,5,7.725,7.215,773,776,388,1,111,22,17.38,387.13,5328.1,5715.23,8.499,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,full30,2,0,7.725,7.215,773,3000,1500,1113,111,22,17.54,1748.37,5318.42,7066.79,8.564,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m1,2,1,7.725,7.215,773,880,440,53,111,22,17.52,437.31,5327.55,5764.86,8.502,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m0.5,2,2,7.725,7.215,773,824,412,25,111,22,17.57,408.34,5330.05,5738.39,8.5,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,se,2,3,7.725,7.215,722,728,364,3,105,22,17.52,356.56,5053.37,5409.93,8.497,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m2,2,4,7.725,7.215,773,976,488,101,111,22,17.64,488.68,5329.46,5818.14,8.504,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_a23082a7392db78b,practice,m0,2,5,7.725,7.215,773,776,388,1,111,22,17.46,387.0,5329.03,5716.03,8.499,Why does the total price of AAPL options strike price plus option cost decrease with the strike price?
+q_ce31da5f134bfcd0,practice,m2,0,0,5.3,4.845,530,736,368,103,81,17,17.53,356.11,3102.16,3458.27,8.497,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,se,0,1,5.3,4.845,485,488,244,1,75,17,17.2,239.38,2905.88,3145.26,8.49,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m0.5,0,2,5.3,4.845,530,584,292,27,81,17,17.65,289.87,3101.19,3391.05,8.494,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,full30,0,3,5.3,4.845,530,3000,1500,1235,81,17,17.21,1748.42,3099.87,4848.3,8.564,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m1,0,4,5.3,4.845,530,632,316,51,81,17,17.56,305.86,3099.83,3405.68,8.495,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m0,0,5,5.3,4.845,530,536,268,3,81,17,17.27,256.39,3099.31,3355.7,8.492,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m2,1,0,5.3,4.845,530,736,368,103,81,17,17.34,357.14,3092.94,3450.08,8.497,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,se,1,1,5.3,4.845,485,488,244,1,75,17,7202.39,602.77,2898.7,3501.47,8.49,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m0.5,1,2,5.3,4.845,530,584,292,27,81,17,214.76,286.88,3053.21,3340.09,8.494,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,full30,1,3,5.3,4.845,530,3000,1500,1235,81,17,17.36,1737.8,3067.44,4805.24,8.564,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m1,1,4,5.3,4.845,530,632,316,51,81,17,17.5,303.1,3068.11,3371.21,8.495,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m0,1,5,5.3,4.845,530,536,268,3,81,17,17.29,254.78,3068.9,3323.69,8.492,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m2,2,0,5.3,4.845,530,736,368,103,81,17,17.42,355.23,3073.64,3428.87,8.497,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,se,2,1,5.3,4.845,485,488,244,1,75,17,17.24,238.42,2881.87,3120.29,8.49,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m0.5,2,2,5.3,4.845,530,584,292,27,81,17,38.56,289.04,3076.39,3365.43,8.494,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,full30,2,3,5.3,4.845,530,3000,1500,1235,81,17,18.82,1740.53,3078.99,4819.52,8.564,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m1,2,4,5.3,4.845,530,632,316,51,81,17,17.43,304.6,3079.72,3384.32,8.495,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_ce31da5f134bfcd0,practice,m0,2,5,5.3,4.845,530,536,268,3,81,17,17.22,255.48,3081.58,3337.07,8.492,How to manage expenses when switching to a weekly pay schedule with a pay increase.
+q_90c19079b88bb39e,practice,full30,0,0,5.175,4.615,518,3000,1500,1241,79,20,17.54,1743.49,3602.07,5345.56,8.564,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m0.5,0,1,5.175,4.615,518,568,284,25,79,18,17.31,274.59,3182.36,3456.95,8.494,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,se,0,2,5.175,4.615,462,464,232,1,72,18,24.39,224.76,2989.32,3214.08,8.49,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m2,0,3,5.175,4.615,518,720,360,101,79,20,18.62,354.8,3602.94,3957.74,8.497,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m1,0,4,5.175,4.615,518,624,312,53,79,20,17.43,304.69,3605.21,3909.9,8.495,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m0,0,5,5.175,4.615,518,520,260,1,79,18,17.24,255.16,3188.14,3443.3,8.491,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,full30,1,0,5.175,4.615,518,3000,1500,1241,79,20,17.35,1746.7,3606.08,5352.78,8.564,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m0.5,1,1,5.175,4.615,518,568,284,25,79,18,17.81,275.34,3191.36,3466.69,8.494,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,se,1,2,5.175,4.615,462,464,232,1,72,18,17.58,225.47,2993.64,3219.1,8.49,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m2,1,3,5.175,4.615,518,720,360,101,79,20,17.32,355.45,3611.28,3966.73,8.497,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m1,1,4,5.175,4.615,518,624,312,53,79,20,17.37,304.94,3612.42,3917.36,8.495,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m0,1,5,5.175,4.615,518,520,260,1,79,18,17.34,254.86,3194.13,3448.99,8.491,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,full30,2,0,5.175,4.615,518,3000,1500,1241,79,20,17.34,1747.41,3612.18,5359.59,8.564,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m0.5,2,1,5.175,4.615,518,568,284,25,79,18,18.04,274.91,3195.31,3470.22,8.494,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,se,2,2,5.175,4.615,462,464,232,1,72,18,17.27,225.62,2997.1,3222.71,8.49,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m2,2,3,5.175,4.615,518,720,360,101,79,20,17.32,355.99,3613.41,3969.4,8.497,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m1,2,4,5.175,4.615,518,624,312,53,79,20,17.39,304.3,3614.76,3919.06,8.495,Is the B A A V O's Visa Airline Rewards Card a good option?
+q_90c19079b88bb39e,practice,m0,2,5,5.175,4.615,518,520,260,1,79,18,17.35,255.6,3195.62,3451.21,8.491,Is the BA Avo's Visa Airline Rewards Card a good option?
+q_559c331ea2fc48b4,practice,se,0,0,4.95,4.425,443,448,224,2,70,13,18.76,211.3,2044.1,2255.41,8.49,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m0.5,0,1,4.95,4.425,495,552,276,28,77,13,17.29,274.32,2227.35,2501.67,8.492,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m2,0,2,4.95,4.425,495,696,348,100,77,13,17.32,336.85,2235.75,2572.61,8.497,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m0,0,3,4.95,4.425,495,496,248,0,77,13,17.24,240.25,2236.43,2476.68,8.49,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,full30,0,4,4.95,4.425,495,3000,1500,1252,77,13,17.23,1749.92,2236.85,3986.77,8.564,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m1,0,5,4.95,4.425,495,600,300,52,77,13,17.3,290.6,2236.29,2526.89,8.494,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,se,1,0,4.95,4.425,443,448,224,2,70,13,17.24,212.21,2045.79,2258.0,8.49,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m0.5,1,1,4.95,4.425,495,552,276,28,77,13,24.56,273.97,2236.11,2510.08,8.492,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m2,1,2,4.95,4.425,495,696,348,100,77,13,18.69,336.88,2236.95,2573.84,8.497,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m0,1,3,4.95,4.425,495,496,248,0,77,13,17.26,240.19,2238.74,2478.93,8.49,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,full30,1,4,4.95,4.425,495,3000,1500,1252,77,13,17.26,1747.8,2236.35,3984.14,8.564,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m1,1,5,4.95,4.425,495,600,300,52,77,13,17.32,291.54,2235.13,2526.67,8.494,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,se,2,0,4.95,4.425,443,448,224,2,70,13,17.3,211.35,2045.84,2257.19,8.49,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m0.5,2,1,4.95,4.425,495,552,276,28,77,13,17.34,274.31,2238.65,2512.96,8.492,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m2,2,2,4.95,4.425,495,696,348,100,77,13,17.74,337.28,2235.89,2573.17,8.497,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m0,2,3,4.95,4.425,495,496,248,0,77,13,17.29,239.48,2235.03,2474.51,8.49,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,full30,2,4,4.95,4.425,495,3000,1500,1252,77,13,17.2,1747.21,2238.69,3985.89,8.564,Is there a virtual terminal available without a merchant account?
+q_559c331ea2fc48b4,practice,m1,2,5,4.95,4.425,495,600,300,52,77,13,17.28,291.47,2235.39,2526.86,8.494,Is there a virtual terminal available without a merchant account?
+q_f78418e691979c64,practice,m2,0,0,3.975,3.505,398,600,300,101,64,16,17.19,289.95,2417.4,2707.36,8.494,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m0.5,0,1,3.975,3.505,398,448,224,25,64,16,18.63,211.72,2416.61,2628.33,8.49,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m1,0,2,3.975,3.505,398,504,252,53,64,16,17.24,240.56,2413.59,2654.15,8.49,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,full30,0,3,3.975,3.505,398,3000,1500,1301,64,16,17.22,1748.49,2411.36,4159.85,8.564,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m0,0,4,3.975,3.505,398,400,200,1,64,16,17.06,195.87,2415.03,2610.9,8.487,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,se,0,5,3.975,3.505,351,352,176,0,59,16,18.02,164.23,2265.15,2429.37,8.486,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m2,1,0,3.975,3.505,398,600,300,101,64,16,17.12,291.39,2415.51,2706.9,8.494,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m0.5,1,1,3.975,3.505,398,448,224,25,64,16,17.2,212.0,2415.63,2627.63,8.49,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m1,1,2,3.975,3.505,398,504,252,53,64,16,17.09,240.4,2418.54,2658.94,8.49,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,full30,1,3,3.975,3.505,398,3000,1500,1301,64,16,17.05,1748.67,2411.92,4160.59,8.564,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m0,1,4,3.975,3.505,398,400,200,1,64,16,17.38,196.05,2411.69,2607.74,8.487,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,se,1,5,3.975,3.505,351,352,176,0,59,16,17.04,164.11,2264.01,2428.12,8.486,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m2,2,0,3.975,3.505,398,600,300,101,64,16,17.03,291.17,2415.32,2706.49,8.494,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m0.5,2,1,3.975,3.505,398,448,224,25,64,16,17.05,212.43,2418.54,2630.97,8.49,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m1,2,2,3.975,3.505,398,504,252,53,64,16,17.09,240.67,2415.08,2655.75,8.49,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,full30,2,3,3.975,3.505,398,3000,1500,1301,64,16,18.73,1748.68,2412.04,4160.72,8.564,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,m0,2,4,3.975,3.505,398,400,200,1,64,16,17.15,195.86,2416.24,2612.1,8.487,I purchased a new vehicle for a month and wished to return it.
+q_f78418e691979c64,practice,se,2,5,3.975,3.505,351,352,176,0,59,16,16.99,164.0,2263.84,2427.84,8.486,I purchased a new vehicle for a month and wished to return it.
+q_6382e94af1377ac6,practice,m2,0,0,8.8,8.205,880,1080,540,100,125,25,17.8,537.05,6720.93,7257.98,8.507,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,full30,0,1,8.8,8.205,880,3000,1500,1060,125,25,17.44,1751.56,6721.74,8473.31,8.564,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m1,0,2,8.8,8.205,880,984,492,52,125,25,17.75,489.84,6726.07,7215.91,8.504,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m0,0,3,8.8,8.205,880,880,440,0,125,25,17.66,437.3,6880.26,7317.57,8.502,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m0.5,0,4,8.8,8.205,880,936,468,28,125,25,94.26,493.93,6722.13,7216.06,8.503,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,se,0,5,8.8,8.205,821,824,412,1,117,25,17.93,408.03,6360.0,6768.03,8.5,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m2,1,0,8.8,8.205,880,1080,540,100,125,25,17.52,540.66,6718.12,7258.78,8.507,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,full30,1,1,8.8,8.205,880,3000,1500,1060,125,25,17.63,1750.79,6721.31,8472.1,8.564,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m1,1,2,8.8,8.205,880,984,492,52,125,25,17.63,489.82,6720.87,7210.7,8.504,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m0,1,3,8.8,8.205,880,880,440,0,125,25,17.75,437.4,6721.61,7159.01,8.502,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m0.5,1,4,8.8,8.205,880,936,468,28,125,25,17.49,471.34,6722.62,7193.96,8.503,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,se,1,5,8.8,8.205,821,824,412,1,117,25,19.68,408.3,6356.89,6765.18,8.5,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m2,2,0,8.8,8.205,880,1080,540,100,125,25,17.62,537.72,6722.0,7259.72,8.507,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,full30,2,1,8.8,8.205,880,3000,1500,1060,125,25,17.98,1748.75,6719.58,8468.33,8.564,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m1,2,2,8.8,8.205,880,984,492,52,125,25,23.92,489.71,6721.47,7211.18,8.504,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m0,2,3,8.8,8.205,880,880,440,0,125,25,19.99,437.74,6721.92,7159.66,8.502,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,m0.5,2,4,8.8,8.205,880,936,468,28,125,25,17.84,471.43,6720.46,7191.89,8.503,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_6382e94af1377ac6,practice,se,2,5,8.8,8.205,821,824,412,1,117,25,17.6,408.23,6357.04,6765.27,8.5,What is the distinction between hedging and diversification in risk management? How do each of these strategies mitigate risk?
+q_371c6ca10bf1bf5e,practice,se,0,0,5.125,4.415,442,448,224,3,70,13,31.28,211.45,2041.23,2252.68,8.49,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m0,0,1,5.125,4.415,513,520,260,3,79,13,17.41,255.18,2280.65,2535.82,8.491,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,full30,0,2,5.125,4.415,513,3000,1500,1243,79,13,17.35,1748.8,2279.51,4028.31,8.564,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m0.5,0,3,5.125,4.415,513,568,284,27,79,13,17.54,275.55,2294.02,2569.58,8.494,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m1,0,4,5.125,4.415,513,616,308,51,79,13,17.29,2409.87,2329.58,4739.45,8.495,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m2,0,5,5.125,4.415,513,720,360,103,79,13,9733.11,383.57,2237.05,2620.63,8.497,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,se,1,0,5.125,4.415,442,448,224,3,70,13,19.0,209.85,2020.87,2230.72,8.49,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m0,1,1,5.125,4.415,513,520,260,3,79,13,17.4,253.72,2258.83,2512.54,8.491,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,full30,1,2,5.125,4.415,513,3000,1500,1243,79,13,17.23,1734.64,2259.48,3994.13,8.564,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m0.5,1,3,5.125,4.415,513,568,284,27,79,13,19.44,273.21,2263.47,2536.67,8.494,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m1,1,4,5.125,4.415,513,616,308,51,79,13,17.34,302.41,2263.78,2566.19,8.495,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m2,1,5,5.125,4.415,513,720,360,103,79,13,17.33,353.34,2265.93,2619.27,8.497,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,se,2,0,5.125,4.415,442,448,224,3,70,13,17.18,210.41,2029.29,2239.71,8.49,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m0,2,1,5.125,4.415,513,520,260,3,79,13,17.41,253.78,2267.88,2521.66,8.491,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,full30,2,2,5.125,4.415,513,3000,1500,1243,79,13,17.23,1738.42,2272.85,4011.27,8.564,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m0.5,2,3,5.125,4.415,513,568,284,27,79,13,17.42,273.72,2267.41,2541.12,8.494,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m1,2,4,5.125,4.415,513,616,308,51,79,13,23.48,302.95,2276.2,2579.16,8.495,What advantages does having a pension retirement account in Ireland offer?
+q_371c6ca10bf1bf5e,practice,m2,2,5,5.125,4.415,513,720,360,103,79,13,19.61,354.01,2276.04,2630.05,8.497,What advantages does having a pension retirement account in Ireland offer?
+q_9d78dff597245697,practice,m1,0,0,6.15,5.445,615,720,360,52,92,17,17.37,352.89,3404.64,3757.53,8.497,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m2,0,1,6.15,5.445,615,816,408,100,92,17,17.46,404.15,3415.1,3819.25,8.499,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,se,0,2,6.15,5.445,545,552,276,3,83,17,17.32,274.24,3141.41,3415.65,8.492,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,full30,0,3,6.15,5.445,615,3000,1500,1192,92,17,17.42,1745.4,3420.86,5166.26,8.564,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m0,0,4,6.15,5.445,615,616,308,0,92,17,17.87,304.48,3420.59,3725.06,8.495,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m0.5,0,5,6.15,5.445,615,672,336,28,92,17,17.44,321.85,3424.76,3746.62,8.496,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m1,1,0,6.15,5.445,615,720,360,52,92,17,17.57,354.47,3422.82,3777.29,8.497,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m2,1,1,6.15,5.445,615,816,408,100,92,17,17.51,404.49,3424.12,3828.62,8.499,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,se,1,2,6.15,5.445,545,552,276,3,83,17,17.24,273.99,3150.91,3424.9,8.492,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,full30,1,3,6.15,5.445,615,3000,1500,1192,92,17,17.42,1747.13,3426.57,5173.7,8.564,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m0,1,4,6.15,5.445,615,616,308,0,92,17,17.37,304.89,3431.0,3735.89,8.495,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m0.5,1,5,6.15,5.445,615,672,336,28,92,17,17.44,323.49,3433.02,3756.51,8.496,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m1,2,0,6.15,5.445,615,720,360,52,92,17,17.32,355.94,3432.03,3787.97,8.497,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m2,2,1,6.15,5.445,615,816,408,100,92,17,17.41,405.6,3430.98,3836.58,8.499,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,se,2,2,6.15,5.445,545,552,276,3,83,17,17.51,274.1,3157.44,3431.53,8.492,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,full30,2,3,6.15,5.445,615,3000,1500,1192,92,17,17.47,1747.48,3416.13,5163.6,8.564,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m0,2,4,6.15,5.445,615,616,308,0,92,17,17.38,304.48,3438.03,3742.51,8.495,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_9d78dff597245697,practice,m0.5,2,5,6.15,5.445,615,672,336,28,92,17,17.48,323.06,3436.22,3759.28,8.496,Why is gamma scalping not recommended for retail traders with reg T margin requirements?
+q_6eb08803469fb277,practice,m0,0,0,3.075,2.645,308,312,156,2,53,11,17.17,147.93,1345.41,1493.34,8.485,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,se,0,1,3.075,2.645,265,272,136,3,48,11,17.23,134.52,1312.62,1447.13,8.484,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,full30,0,2,3.075,2.645,308,3000,1500,1346,53,11,17.01,1747.62,1346.58,3094.2,8.564,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m2,0,3,3.075,2.645,308,512,256,102,53,11,17.37,240.77,1346.9,1587.67,8.49,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m1,0,4,3.075,2.645,308,408,204,50,53,11,17.03,196.61,1347.55,1544.16,8.487,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m0.5,0,5,3.075,2.645,308,360,180,26,53,11,17.19,180.41,1346.93,1527.34,8.486,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m0,1,0,3.075,2.645,308,312,156,2,53,11,17.08,148.48,1349.2,1497.68,8.485,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,se,1,1,3.075,2.645,265,272,136,3,48,11,17.13,134.5,1312.21,1446.7,8.484,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,full30,1,2,3.075,2.645,308,3000,1500,1346,53,11,17.01,1748.85,1351.22,3100.07,8.564,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m2,1,3,3.075,2.645,308,512,256,102,53,11,17.19,240.73,1348.45,1589.18,8.49,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m1,1,4,3.075,2.645,308,408,204,50,53,11,17.06,196.9,1348.13,1545.03,8.487,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m0.5,1,5,3.075,2.645,308,360,180,26,53,11,17.87,180.39,1347.1,1527.48,8.486,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m0,2,0,3.075,2.645,308,312,156,2,53,11,17.05,148.22,1346.78,1495.0,8.485,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,se,2,1,3.075,2.645,265,272,136,3,48,11,17.09,134.95,1311.99,1446.94,8.484,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,full30,2,2,3.075,2.645,308,3000,1500,1346,53,11,16.99,1749.85,1347.43,3097.28,8.564,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m2,2,3,3.075,2.645,308,512,256,102,53,11,17.34,240.88,1347.91,1588.78,8.49,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m1,2,4,3.075,2.645,308,408,204,50,53,11,16.85,196.58,1350.88,1547.46,8.487,What is the process for public company buyouts?
+q_6eb08803469fb277,practice,m0.5,2,5,3.075,2.645,308,360,180,26,53,11,16.98,180.6,1348.95,1529.56,8.486,What is the process for public company buyouts?
+q_d294dc730629d3e7,practice,m0.5,0,0,8.175,7.675,818,872,436,27,117,21,17.55,436.99,5285.54,5722.53,8.501,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m2,0,1,8.175,7.675,818,1024,512,103,117,21,17.53,505.21,5285.5,5790.7,8.507,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m1,0,2,8.175,7.675,818,920,460,51,117,21,17.7,457.47,5286.3,5743.78,8.503,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m0,0,3,8.175,7.675,818,824,412,3,117,21,17.46,407.98,5285.74,5693.72,8.5,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,full30,0,4,8.175,7.675,818,3000,1500,1091,117,21,17.63,1751.2,5286.02,7037.22,8.564,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,se,0,5,8.175,7.675,768,768,384,0,111,21,17.57,371.65,5062.45,5434.11,8.498,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m0.5,1,0,8.175,7.675,818,872,436,27,117,21,17.77,436.07,5285.05,5721.12,8.501,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m2,1,1,8.175,7.675,818,1024,512,103,117,21,17.53,504.9,5284.8,5789.7,8.507,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m1,1,2,8.175,7.675,818,920,460,51,117,21,17.63,457.98,5286.19,5744.16,8.503,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m0,1,3,8.175,7.675,818,824,412,3,117,21,17.46,407.89,5286.25,5694.14,8.5,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,full30,1,4,8.175,7.675,818,3000,1500,1091,117,21,6855.7,1998.87,5296.19,7295.06,8.564,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,se,1,5,8.175,7.675,768,768,384,0,111,21,183.93,368.38,5019.82,5388.19,8.498,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m0.5,2,0,8.175,7.675,818,872,436,27,117,21,17.62,434.8,5246.04,5680.85,8.501,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m2,2,1,8.175,7.675,818,1024,512,103,117,21,18.68,503.03,5248.65,5751.68,8.507,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m1,2,2,8.175,7.675,818,920,460,51,117,21,17.67,456.13,5261.6,5717.73,8.503,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,m0,2,3,8.175,7.675,818,824,412,3,117,21,17.63,406.47,5272.05,5678.52,8.5,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,full30,2,4,8.175,7.675,818,3000,1500,1091,117,21,17.68,1745.81,5276.48,7022.29,8.564,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_d294dc730629d3e7,practice,se,2,5,8.175,7.675,768,768,384,0,111,21,17.54,370.38,5049.79,5420.16,8.498,Is the insurance company responsible for covering the cost of a broken black box in a car insurance policy?
+q_8c8fe18657146200,practice,se,0,0,3.95,3.345,335,336,168,0,57,14,28.89,162.53,1891.78,2054.31,8.486,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m0,0,1,3.95,3.345,395,400,200,2,64,14,17.12,195.8,2104.77,2300.57,8.487,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m0.5,0,2,3.95,3.345,395,448,224,26,64,14,17.28,211.66,2105.11,2316.76,8.49,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m2,0,3,3.95,3.345,395,600,300,102,64,14,17.09,290.32,2105.46,2395.78,8.494,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m1,0,4,3.95,3.345,395,496,248,50,64,14,17.21,239.8,2105.28,2345.08,8.49,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,full30,0,5,3.95,3.345,395,3000,1500,1302,64,14,17.05,1746.73,2103.86,3850.59,8.564,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,se,1,0,3.95,3.345,335,336,168,0,57,14,17.36,163.1,1891.78,2054.88,8.486,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m0,1,1,3.95,3.345,395,400,200,2,64,14,17.12,195.66,2106.52,2302.18,8.487,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m0.5,1,2,3.95,3.345,395,448,224,26,64,14,17.24,211.4,2107.29,2318.69,8.49,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m2,1,3,3.95,3.345,395,600,300,102,64,14,18.92,291.23,2105.8,2397.03,8.494,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m1,1,4,3.95,3.345,395,496,248,50,64,14,17.27,239.87,2105.97,2345.84,8.49,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,full30,1,5,3.95,3.345,395,3000,1500,1302,64,14,16.99,1748.17,2106.02,3854.19,8.564,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,se,2,0,3.95,3.345,335,336,168,0,57,14,17.32,163.65,1893.5,2057.15,8.486,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m0,2,1,3.95,3.345,395,400,200,2,64,14,17.09,195.72,2104.95,2300.67,8.487,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m0.5,2,2,3.95,3.345,395,448,224,26,64,14,17.21,211.65,2105.59,2317.23,8.49,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m2,2,3,3.95,3.345,395,600,300,102,64,14,17.08,290.41,2105.64,2396.05,8.494,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,m1,2,4,3.95,3.345,395,496,248,50,64,14,17.94,240.16,2106.59,2346.75,8.49,What should I expect if I am offered equity by my employer?
+q_8c8fe18657146200,practice,full30,2,5,3.95,3.345,395,3000,1500,1302,64,14,17.02,1750.48,2107.49,3857.97,8.564,What should I expect if I am offered equity by my employer?
+q_b95a2fb03ec523fd,practice,m1,0,0,3.375,2.885,338,440,220,51,57,10,17.44,210.62,1288.08,1498.71,8.49,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m2,0,1,3.375,2.885,338,544,272,103,57,10,17.04,257.84,1285.19,1543.02,8.492,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,se,0,2,3.375,2.885,289,296,148,3,51,10,17.21,147.55,1221.65,1369.2,8.485,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,full30,0,3,3.375,2.885,338,3000,1500,1331,57,10,16.95,1748.27,1283.97,3032.24,8.564,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m0,0,4,3.375,2.885,338,344,172,3,57,10,17.24,163.63,1286.49,1450.11,8.486,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m0.5,0,5,3.375,2.885,338,392,196,27,57,10,16.98,195.47,1286.77,1482.24,8.487,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m1,1,0,3.375,2.885,338,440,220,51,57,10,17.16,211.11,1287.09,1498.2,8.49,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m2,1,1,3.375,2.885,338,544,272,103,57,10,17.0,258.09,1288.53,1546.62,8.492,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,se,1,2,3.375,2.885,289,296,148,3,51,10,17.19,147.49,1221.64,1369.13,8.485,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,full30,1,3,3.375,2.885,338,3000,1500,1331,57,10,17.02,1748.15,1287.48,3035.63,8.564,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m0,1,4,3.375,2.885,338,344,172,3,57,10,18.94,163.71,1286.51,1450.23,8.486,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m0.5,1,5,3.375,2.885,338,392,196,27,57,10,16.98,195.33,1286.66,1482.0,8.487,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m1,2,0,3.375,2.885,338,440,220,51,57,10,17.19,210.88,1288.54,1499.42,8.49,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m2,2,1,3.375,2.885,338,544,272,103,57,10,17.04,257.85,1285.79,1543.64,8.492,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,se,2,2,3.375,2.885,289,296,148,3,51,10,17.15,147.58,1222.63,1370.21,8.485,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,full30,2,3,3.375,2.885,338,3000,1500,1331,57,10,16.99,1749.77,1289.03,3038.81,8.564,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m0,2,4,3.375,2.885,338,344,172,3,57,10,17.32,163.83,1286.95,1450.78,8.486,Can a director invoice their self owned company?
+q_b95a2fb03ec523fd,practice,m0.5,2,5,3.375,2.885,338,392,196,27,57,10,17.02,195.42,1287.19,1482.61,8.487,Can a director invoice their self owned company?
+q_a1c537466b04aa26,practice,se,0,0,3.95,3.505,351,352,176,0,59,16,17.19,163.35,2261.86,2425.21,8.486,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,full30,0,1,3.95,3.505,395,3000,1500,1302,64,16,17.01,1748.44,2415.94,4164.38,8.564,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m2,0,2,3.95,3.505,395,600,300,102,64,16,24.24,291.45,2417.16,2708.61,8.494,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m0,0,3,3.95,3.505,395,400,200,2,64,16,18.85,195.98,2418.1,2614.08,8.487,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m0.5,0,4,3.95,3.505,395,448,224,26,64,16,17.29,211.78,2418.97,2630.76,8.49,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m1,0,5,3.95,3.505,395,496,248,50,64,16,17.11,240.3,2418.63,2658.93,8.49,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,se,1,0,3.95,3.505,351,352,176,0,59,16,17.3,164.13,2262.19,2426.33,8.486,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,full30,1,1,3.95,3.505,395,3000,1500,1302,64,16,17.11,1748.17,2418.45,4166.61,8.564,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m2,1,2,3.95,3.505,395,600,300,102,64,16,17.34,291.44,2418.89,2710.33,8.494,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m0,1,3,3.95,3.505,395,400,200,2,64,16,17.67,196.2,2418.82,2615.02,8.487,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m0.5,1,4,3.95,3.505,395,448,224,26,64,16,17.27,211.76,2418.08,2629.84,8.49,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m1,1,5,3.95,3.505,395,496,248,50,64,16,17.27,240.55,2421.26,2661.81,8.49,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,se,2,0,3.95,3.505,351,352,176,0,59,16,17.13,164.02,2265.35,2429.37,8.486,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,full30,2,1,3.95,3.505,395,3000,1500,1302,64,16,17.03,1748.81,2412.02,4160.83,8.564,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m2,2,2,3.95,3.505,395,600,300,102,64,16,17.21,291.37,2420.3,2711.67,8.494,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m0,2,3,3.95,3.505,395,400,200,2,64,16,17.1,196.27,2420.64,2616.91,8.487,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m0.5,2,4,3.95,3.505,395,448,224,26,64,16,17.23,212.09,2416.67,2628.76,8.49,What should I do if I am paying more than the minimum mortgage payment?
+q_a1c537466b04aa26,practice,m1,2,5,3.95,3.505,395,496,248,50,64,16,17.11,240.11,2419.11,2659.22,8.49,What should I do if I am paying more than the minimum mortgage payment?
+q_890a6df9ce937b08,practice,m2,0,0,5.1,4.535,510,712,356,101,78,17,17.54,353.94,2975.71,3329.64,8.497,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m0,0,1,5.1,4.535,510,512,256,1,78,17,17.25,240.74,2993.74,3234.48,8.49,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m1,0,2,5.1,4.535,510,616,308,53,78,17,17.48,305.29,2992.88,3298.18,8.495,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,se,0,3,5.1,4.535,454,456,228,1,71,17,17.91,225.64,2798.7,3024.34,8.49,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m0.5,0,4,5.1,4.535,510,560,280,25,78,17,17.37,275.21,2992.76,3267.97,8.492,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,full30,0,5,5.1,4.535,510,3000,1500,1245,78,17,18.8,1751.47,2991.3,4742.77,8.564,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m2,1,0,5.1,4.535,510,712,356,101,78,17,17.43,355.44,2991.17,3346.61,8.497,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m0,1,1,5.1,4.535,510,512,256,1,78,17,17.34,241.11,2988.12,3229.23,8.49,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m1,1,2,5.1,4.535,510,616,308,53,78,17,17.21,304.5,2990.73,3295.24,8.495,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,se,1,3,5.1,4.535,454,456,228,1,71,17,17.37,225.72,2796.39,3022.12,8.49,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m0.5,1,4,5.1,4.535,510,560,280,25,78,17,23.67,275.56,2989.4,3264.96,8.492,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,full30,1,5,5.1,4.535,510,3000,1500,1245,78,17,19.52,1748.57,2989.17,4737.74,8.564,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m2,2,0,5.1,4.535,510,712,356,101,78,17,17.33,355.25,2986.86,3342.1,8.497,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m0,2,1,5.1,4.535,510,512,256,1,78,17,17.35,241.16,2991.03,3232.19,8.49,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m1,2,2,5.1,4.535,510,616,308,53,78,17,17.19,304.67,2991.08,3295.75,8.495,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,se,2,3,5.1,4.535,454,456,228,1,71,17,17.4,225.51,2797.34,3022.85,8.49,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,m0.5,2,4,5.1,4.535,510,560,280,25,78,17,17.63,274.61,2990.49,3265.1,8.492,How can I determine the exact time a SWIFT is issued by a bank?
+q_890a6df9ce937b08,practice,full30,2,5,5.1,4.535,510,3000,1500,1245,78,17,17.31,1748.75,2982.27,4731.02,8.564,How can I determine the exact time a SWIFT is issued by a bank?
+q_66759566d8fb4c66,practice,m0,0,0,2.875,2.205,288,288,144,0,51,11,17.32,134.81,1343.91,1478.72,8.485,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m2,0,1,2.875,2.205,288,488,244,100,51,11,17.4,239.12,1347.34,1586.45,8.49,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,se,0,2,2.875,2.205,221,224,112,1,42,11,17.02,106.76,1147.86,1254.62,8.483,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m0.5,0,3,2.875,2.205,288,344,172,28,51,11,16.99,163.57,1346.38,1509.95,8.486,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,full30,0,4,2.875,2.205,288,3000,1500,1356,51,11,17.13,1747.95,1345.23,3093.18,8.564,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m1,0,5,2.875,2.205,288,392,196,52,51,11,17.01,195.93,1343.63,1539.56,8.487,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m0,1,0,2.875,2.205,288,288,144,0,51,11,17.23,135.12,1344.79,1479.91,8.485,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m2,1,1,2.875,2.205,288,488,244,100,51,11,16.94,239.07,1345.59,1584.66,8.49,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,se,1,2,2.875,2.205,221,224,112,1,42,11,17.09,106.72,1147.44,1254.16,8.483,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m0.5,1,3,2.875,2.205,288,344,172,28,51,11,16.94,164.09,1346.88,1510.96,8.486,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,full30,1,4,2.875,2.205,288,3000,1500,1356,51,11,17.17,1748.11,1348.37,3096.49,8.564,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m1,1,5,2.875,2.205,288,392,196,52,51,11,17.01,196.09,1350.03,1546.12,8.487,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m0,2,0,2.875,2.205,288,288,144,0,51,11,19.64,135.39,1343.63,1479.02,8.485,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m2,2,1,2.875,2.205,288,488,244,100,51,11,16.98,239.02,1342.55,1581.57,8.49,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,se,2,2,2.875,2.205,221,224,112,1,42,11,17.02,107.1,1147.38,1254.48,8.483,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m0.5,2,3,2.875,2.205,288,344,172,28,51,11,17.59,164.03,1343.94,1507.97,8.486,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,full30,2,4,2.875,2.205,288,3000,1500,1356,51,11,17.07,1749.14,1507.25,3256.39,8.564,What should I do with an abundance of cash?
+q_66759566d8fb4c66,practice,m1,2,5,2.875,2.205,288,392,196,52,51,11,99.49,219.82,1348.48,1568.31,8.487,What should I do with an abundance of cash?
+q_9a684db4ff009865,practice,full30,0,0,4.6,4.095,460,3000,1500,1270,72,15,31.1,1747.15,2452.29,4199.44,8.564,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m0.5,0,1,4.6,4.095,460,512,256,26,72,15,17.3,240.57,2464.01,2704.57,8.49,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,se,0,2,4.6,4.095,410,416,208,3,66,15,17.5,197.73,2294.8,2492.52,8.49,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m2,0,3,4.6,4.095,460,664,332,102,72,15,17.39,322.82,2464.23,2787.04,8.496,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m1,0,4,4.6,4.095,460,560,280,50,72,15,17.22,277.85,2461.39,2739.23,8.492,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m0,0,5,4.6,4.095,460,464,232,2,72,15,17.41,225.31,2460.34,2685.65,8.49,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,full30,1,0,4.6,4.095,460,3000,1500,1270,72,15,17.24,1749.62,2462.13,4211.75,8.564,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m0.5,1,1,4.6,4.095,460,512,256,26,72,15,17.28,240.47,2450.91,2691.38,8.49,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,se,1,2,4.6,4.095,410,416,208,3,66,15,20.83,197.92,2291.05,2488.97,8.49,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m2,1,3,4.6,4.095,460,664,332,102,72,15,17.23,322.64,2460.5,2783.14,8.496,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m1,1,4,4.6,4.095,460,560,280,50,72,15,17.28,274.63,2462.67,2737.31,8.492,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m0,1,5,4.6,4.095,460,464,232,2,72,15,17.27,225.56,2462.0,2687.56,8.49,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,full30,2,0,4.6,4.095,460,3000,1500,1270,72,15,17.17,1748.41,2450.92,4199.33,8.564,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m0.5,2,1,4.6,4.095,460,512,256,26,72,15,17.32,240.68,2464.0,2704.68,8.49,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,se,2,2,4.6,4.095,410,416,208,3,66,15,17.15,198.17,2297.49,2495.66,8.49,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m2,2,3,4.6,4.095,460,664,332,102,72,15,17.22,323.12,2465.46,2788.58,8.496,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m1,2,4,4.6,4.095,460,560,280,50,72,15,17.31,275.03,2462.32,2737.35,8.492,How should I proceed when selling a stock and buying a new one?
+q_9a684db4ff009865,practice,m0,2,5,4.6,4.095,460,464,232,2,72,15,17.09,226.25,2466.94,2693.19,8.49,How should I proceed when selling a stock and buying a new one?
+q_bdc51fa8cb3eee72,practice,m0,0,0,3.875,3.315,388,392,196,2,63,11,17.07,195.09,1617.88,1812.97,8.487,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m2,0,1,3.875,3.315,388,592,296,102,63,11,17.67,290.84,1617.74,1908.58,8.494,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,se,0,2,3.875,3.315,332,336,168,2,56,11,17.6,163.59,1411.51,1575.1,8.486,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m0.5,0,3,3.875,3.315,388,440,220,26,63,11,17.18,211.12,1617.18,1828.3,8.49,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m1,0,4,3.875,3.315,388,488,244,50,63,11,17.17,239.32,1618.6,1857.92,8.49,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,full30,0,5,3.875,3.315,388,3000,1500,1306,63,11,17.22,1749.8,1614.72,3364.52,8.564,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m0,1,0,3.875,3.315,388,392,196,2,63,11,17.16,195.61,1616.63,1812.24,8.487,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m2,1,1,3.875,3.315,388,592,296,102,63,11,17.23,291.12,1618.67,1909.79,8.494,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,se,1,2,3.875,3.315,332,336,168,2,56,11,17.04,163.66,1409.92,1573.58,8.486,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m0.5,1,3,3.875,3.315,388,440,220,26,63,11,17.18,210.98,1618.01,1828.99,8.49,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m1,1,4,3.875,3.315,388,488,244,50,63,11,17.07,239.07,1616.96,1856.04,8.49,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,full30,1,5,3.875,3.315,388,3000,1500,1306,63,11,17.21,1749.01,1618.17,3367.18,8.564,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m0,2,0,3.875,3.315,388,392,196,2,63,11,17.11,195.85,1617.3,1813.15,8.487,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m2,2,1,3.875,3.315,388,592,296,102,63,11,17.23,291.07,1618.5,1909.57,8.494,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,se,2,2,3.875,3.315,332,336,168,2,56,11,17.08,163.48,1408.31,1571.8,8.486,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m0.5,2,3,3.875,3.315,388,440,220,26,63,11,17.21,211.19,1617.44,1828.63,8.49,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,m1,2,4,3.875,3.315,388,488,244,50,63,11,17.14,239.47,1618.34,1857.81,8.49,What annual income triggers the need to pay taxes?
+q_bdc51fa8cb3eee72,practice,full30,2,5,3.875,3.315,388,3000,1500,1306,63,11,17.18,1749.95,1617.56,3367.5,8.564,What annual income triggers the need to pay taxes?

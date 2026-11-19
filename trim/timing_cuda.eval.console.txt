@@ -1,0 +1,13 @@
+full30: 50 transcripts, 0 differ from full30
+m0.5: 50 transcripts, 2 differ from full30
+m0: 50 transcripts, 3 differ from full30
+m1: 50 transcripts, 1 differ from full30
+m2: 50 transcripts, 1 differ from full30
+se: 50 transcripts, 6 differ from full30
+   full30: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 1749 ms (x1.00)  asr 4174 ms (x1.00)
+       m2: exact 0.980  WER 0.0025  dR@10 +0.0000 [+0.0000, +0.0000]  enc 351 ms (x4.98)  asr 2731 ms (x1.53)
+       m1: exact 0.980  WER 0.0025  dR@10 +0.0000 [+0.0000, +0.0000]  enc 293 ms (x5.97)  asr 2676 ms (x1.56)
+     m0.5: exact 0.960  WER 0.0096  dR@10 +0.0000 [+0.0000, +0.0000]  enc 273 ms (x6.41)  asr 2648 ms (x1.58)
+       m0: exact 0.940  WER 0.0193  dR@10 +0.0200 [+0.0000, +0.0600]  enc 240 ms (x7.27)  asr 2631 ms (x1.59)
+       se: exact 0.880  WER 0.0233  dR@10 +0.0200 [+0.0000, +0.0600]  enc 211 ms (x8.28)  asr 2446 ms (x1.71)
+Wrote rag/results/trim/timing_cuda/eval/

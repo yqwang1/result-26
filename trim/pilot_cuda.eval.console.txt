@@ -1,0 +1,24 @@
+full30: 20 transcripts, 0 differ from full30
+m0.2: 20 transcripts, 0 differ from full30
+m0.5: 20 transcripts, 0 differ from full30
+m0: 20 transcripts, 0 differ from full30
+m1: 20 transcripts, 0 differ from full30
+m2: 20 transcripts, 0 differ from full30
+m4: 20 transcripts, 0 differ from full30
+padnoise: 20 transcripts, 0 differ from full30
+padzero: 20 transcripts, 0 differ from full30
+se-0.2: 20 transcripts, 2 differ from full30
+se: 20 transcripts, 1 differ from full30
+E0 check: full30 identical to reference cache on 20/20 queries
+   full30: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 1754 ms
+       m4: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 457 ms
+       m2: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 357 ms
+       m1: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 304 ms
+     m0.5: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 279 ms
+     m0.2: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 270 ms
+       m0: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 253 ms
+       se: exact 0.950  WER 0.0056  dR@10 +0.0000 [+0.0000, +0.0000]  enc 226 ms
+   se-0.2: exact 0.900  WER 0.0161  dR@10 +0.0000 [+0.0000, +0.0000]  enc 213 ms
+  padzero: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 1752 ms
+ padnoise: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 1752 ms
+Wrote rag/results/trim/pilot_cuda/eval/

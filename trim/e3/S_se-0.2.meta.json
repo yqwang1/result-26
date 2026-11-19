@@ -1,0 +1,38 @@
+{
+  "script": "trim_generate_answers.py",
+  "argv": [
+    "rag/extensions/trim_scripts/trim_generate_answers.py",
+    "--transcripts",
+    "rag/results/trim/full_practice/transcripts/se-0.2.jsonl",
+    "--condition",
+    "se-0.2",
+    "--split",
+    "practice",
+    "--ids-file",
+    "rag/results/trim/full_practice/eval/changed_ids/se-0.2.txt",
+    "--output",
+    "rag/results/trim/e3/S_se-0.2.jsonl"
+  ],
+  "args": {
+    "transcripts": "rag/results/trim/full_practice/transcripts/se-0.2.jsonl",
+    "condition": "se-0.2",
+    "split": "practice",
+    "ids_file": "rag/results/trim/full_practice/eval/changed_ids/se-0.2.txt",
+    "limit": "None",
+    "k": "5",
+    "device": "cpu",
+    "max_retries": "3",
+    "sleep": "0.0",
+    "resume": "False",
+    "output": "rag/results/trim/e3/S_se-0.2.jsonl"
+  },
+  "started": "2026-11-18 21:25:41 GMT",
+  "host": "opencast.inf.ed.ac.uk",
+  "slurm_job": "3731975",
+  "python": "3.11.18",
+  "git_commit": "fdb0006",
+  "gpu": "NVIDIA GeForce RTX 2080 Ti",
+  "torch": "2.15.0+cu132",
+  "elm_model": "utter-project/EuroLLM-22B-Instruct-2512",
+  "n_ids": 73
+}

@@ -1,0 +1,13 @@
+full30: 50 transcripts, 0 differ from full30
+m0.5: 50 transcripts, 2 differ from full30
+m0: 50 transcripts, 3 differ from full30
+m1: 50 transcripts, 1 differ from full30
+m2: 50 transcripts, 1 differ from full30
+se: 50 transcripts, 6 differ from full30
+   full30: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 309 ms (x1.00)  asr 1451 ms (x1.00)
+       m2: exact 0.980  WER 0.0025  dR@10 +0.0000 [+0.0000, +0.0000]  enc 68 ms (x4.52)  asr 1212 ms (x1.20)
+       m1: exact 0.980  WER 0.0025  dR@10 +0.0000 [+0.0000, +0.0000]  enc 68 ms (x4.53)  asr 1212 ms (x1.20)
+     m0.5: exact 0.960  WER 0.0096  dR@10 +0.0000 [+0.0000, +0.0000]  enc 68 ms (x4.54)  asr 1212 ms (x1.20)
+       m0: exact 0.940  WER 0.0193  dR@10 +0.0200 [+0.0000, +0.0600]  enc 68 ms (x4.57)  asr 1213 ms (x1.20)
+       se: exact 0.880  WER 0.0233  dR@10 +0.0200 [+0.0000, +0.0600]  enc 67 ms (x4.59)  asr 1210 ms (x1.20)
+Wrote rag/results/trim/timing_torch/eval/

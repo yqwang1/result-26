@@ -1,0 +1,13 @@
+full30: 350 transcripts, 0 differ from full30
+m0: 350 transcripts, 22 differ from full30
+m1: 350 transcripts, 18 differ from full30
+padzero: 350 transcripts, 34 differ from full30
+se-0.2: 350 transcripts, 73 differ from full30
+se: 350 transcripts, 41 differ from full30
+   full30: exact 1.000  WER 0.0000  dR@10 +0.0000 [+0.0000, +0.0000]  enc 309 ms (x1.00)  asr 1423 ms (x1.00)
+       m1: exact 0.949  WER 0.0049  dR@10 +0.0007 [-0.0079, +0.0086]  enc 66 ms (x4.65)  asr 1181 ms (x1.21)
+       m0: exact 0.937  WER 0.0072  dR@10 +0.0036 [-0.0057, +0.0136]  enc 65 ms (x4.72)  asr 1180 ms (x1.21)
+       se: exact 0.883  WER 0.0154  dR@10 +0.0045 [-0.0050, +0.0150]  enc 65 ms (x4.74)  asr 1180 ms (x1.21)
+   se-0.2: exact 0.791  WER 0.0260  dR@10 +0.0024 [-0.0083, +0.0136]  enc 65 ms (x4.74)  asr 1178 ms (x1.21)
+  padzero: exact 0.903  WER 0.0119  dR@10 +0.0045 [-0.0050, +0.0150]  enc 309 ms (x1.00)  asr 1425 ms (x1.00)
+Wrote rag/results/trim/full_practice/eval/
